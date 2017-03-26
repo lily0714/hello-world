@@ -1,13 +1,22 @@
-<html>
-<head>
-<title>lily0714的個人網頁</title>
-</head>
+<style>
+.infor{
+background-color:#000000
+}
+h2 {
+    font-family: Lobster, Monospace;
+  }
+
+p {
+    font-size: 16px;
+    font-family: Monospace;
+  }
+</style>
 <body>
-<blink><h1>Welcome to this page</h1></blink>
+<h1>Welcome to this page</h1>
 <p>這裡是個人簡介的網頁</p>
-<h3 id:information>個人資料</h3>
+<h3 class="infor">個人資料</h3>
 <ul>
-<li><h5>姓名:</h5><><p>陸映螢</p></li>
+<li><h5>姓名:</h5><p>陸映螢</p></li>
 <li><h5>學校:</h5><p>輔仁大學</p></li>
 <li><h5>學系:</h5><p>資訊工程學系</p></li>
 <li><h5>生日:</h5><p> 0 7 月 1 4 日</p></li>
