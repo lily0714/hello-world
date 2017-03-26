@@ -13,7 +13,7 @@ p {
   
 </style>
 <body>
-<div style="background-image:"http://lily0714.github.io/IMG_20170214_201651.jpg";width:800px;height:600px;">
+<div style="background-image:url(http://lily0714.github.io/IMG_20170214_201651.jpg);width:800px;height:600px;">
 <h1>Welcome to this page</h1>
 <p>這裡是個人簡介的網頁</p>
 <h3 class="infor">個人資料</h3>
