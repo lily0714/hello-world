@@ -2,7 +2,7 @@
 .infor{
 background-color:#000000
 }
-h2 {
+h1 {
     font-family: Lobster, Monospace;
   }
 
