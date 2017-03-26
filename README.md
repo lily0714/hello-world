@@ -1,4 +1,4 @@
-<div style="background-image:url(http://lily0714.github.io/IMG_20170214_201651.jpg);width:400px;height:600px;background-position:90% 90%;">
+
 <style>
 .infor{
 background-color:#FFFFFF;
@@ -14,9 +14,17 @@ p {
     font-size: 16px;
     font-family: Monospace;
   }
-  
+.body{
+   background-attachment:fixed
+   background-image:url(http://lily0714.github.io/IMG_20170214_201651.jpg); 
+   background-position:center center;
+   width:300px;
+   height:700px;
+   background-repeat:no-repeat;
+   
+}
 </style>
-<body>
+<body class="body">
 <h1 class="title">Welcome to this page</h1>
 <p class="subtitle">這裡是lily0714的網頁</p>
 <h3 class="infor">個人資料</h3>
