@@ -12,8 +12,8 @@ p {
   }
   
 </style>
-<body>
 <div style="background-image:url(http://lily0714.github.io/IMG_20170214_201651.jpg);width:800px;height:600px;">
+<body>
 <h1>Welcome to this page</h1>
 <p>這裡是個人簡介的網頁</p>
 <h3 class="infor">個人資料</h3>
@@ -24,6 +24,5 @@ p {
 <li><h5>生日:</h5><p> 0 7 月 1 4 日</p></li>
 </ul>
 <p>是個喜歡音樂、自我矛盾很嚴重的孩子。</p>
-</div>
 </body>
-
+</div>
