@@ -26,8 +26,10 @@ body{
    background-color:#FFEE99; 
    word-wrap:break-word; 
    margin:0;
-}
-
+   }
+.subtitle{
+   color:#DDAA00;
+   }
 </style>
 <body>
 <h1 class="title">Welcome to this page</h1>
