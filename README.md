@@ -17,7 +17,6 @@ p {
 body{
    text-align:center; border:1px double #FFF;
    background-attachment:fixed
-   background-image:url(http://lily0714.github.io/IMG_20170214_201651.jpg); 
    background-position:50%;
    background-size:100%;
    background-repeat:no-repeat;
