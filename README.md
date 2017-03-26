@@ -1,4 +1,4 @@
-<div style="background-image:url(http://lily0714.github.io/IMG_20170214_201651.jpg);width:800px;height:600px;">
+<div style="background-image:url(http://lily0714.github.io/IMG_20170214_201651.jpg);width:400px;height:600px;">
 <style>
 .infor{
 background-color:#FFFFFF;
