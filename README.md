@@ -2,8 +2,8 @@
 <style>
 .infor{
 background-color:#FFFFFF;
-width:40px;
-height:10px;
+width:200px;
+height:50px;
 }
 h1 {
     font-family: Lobster, Monospace;
