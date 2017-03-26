@@ -14,7 +14,9 @@ h1 {
 p {
     font-size: 16px;
     font-family: Monospace;
+    color:#FFB400;
   }
+  
 body{
    text-align:center; border:1px double #FFF;
    background-attachment:fixed;
