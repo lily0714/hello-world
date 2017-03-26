@@ -1,9 +1,10 @@
-<div style="background-image:url(http://lily0714.github.io/IMG_20170214_201651.jpg);width:400px;height:600px;">
+<div style="background-image:url(http://lily0714.github.io/IMG_20170214_201651.jpg);width:400px;height:600px;background-position:90% 90%;">
 <style>
 .infor{
 background-color:#FFFFFF;
 width:200px;
 height:30px;
+align
 }
 h1 {
     font-family: Lobster, Monospace;
@@ -16,8 +17,8 @@ p {
   
 </style>
 <body>
-<h1>Welcome to this page</h1>
-<p>這裡是個人簡介的網頁</p>
+<h1 class="title">Welcome to this page</h1>
+<p class="subtitle">這裡是lily0714的網頁</p>
 <h3 class="infor">個人資料</h3>
 <ul>
 <li><h5>姓名:</h5><p>陸映螢</p></li>
