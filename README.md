@@ -10,15 +10,9 @@ p {
     font-size: 16px;
     font-family: Monospace;
   }
-body{
-   background-image:"http://lily0714.github.io/IMG_20170214_201651.jpg"; 
-   background-repeat:no-repeat;
-   width:800px;
-   height:600px;
-   align=middle;
-   }  
+  
 </style>
-<body>
+<body background="http://lily0714.github.io/IMG_20170214_201651.jpg">
 <h1>Welcome to this page</h1>
 <p>這裡是個人簡介的網頁</p>
 <h3 class="infor">個人資料</h3>
