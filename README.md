@@ -1,10 +1,10 @@
 
 <style>
 .infor{
-background-color:#FFFFFF;
+background-color:#DDAA00;
 width:200px;
 height:30px;
-align
+color:#FFFFFF;
 }
 h1 {
     font-family: Lobster, Monospace;
