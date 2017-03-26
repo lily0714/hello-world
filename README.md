@@ -18,8 +18,7 @@ p {
    background-attachment:fixed
    background-image:url(http://lily0714.github.io/IMG_20170214_201651.jpg); 
    background-position:center center;
-   width:300px;
-   height:700px;
+   background-size:100%;
    background-repeat:no-repeat;
    
 }
