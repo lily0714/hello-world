@@ -8,7 +8,7 @@ align
 }
 h1 {
     font-family: Lobster, Monospace;
-    color:#FFDD55;
+    color:#DDAA00;
   }
 
 p {
