@@ -34,7 +34,7 @@ h4{
    color:#D2963C;
    }
 </style>
-<h1 class="title">Welcome to this page</h1>
+<h1>Welcome to this page</h1>
 <p class="subtitle">這裡是lily0714的網頁</p>
 <body>
 <h3 class="infor">個人資料</h3>
