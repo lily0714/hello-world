@@ -1,7 +1,7 @@
 
 <style>
 .infor{
-background-color:#FFBB00;
+background-color:#FFC33C;
 width:200px;
 height:30px;
 color:#FFFFFF;
@@ -17,7 +17,7 @@ p {
   }
 body{
    text-align:center; border:1px double #FFF;
-   background-attachment:fixed
+   background-attachment:fixed;
    background-position:50%;
    background-size:100%;
    background-repeat:no-repeat;
