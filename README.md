@@ -11,7 +11,7 @@ p {
     font-family: Monospace;
   }
 </style>
-<body backgroung="http://lily0714.github.io/IMG_20170214_201651.jpg" align=middle>
+<body background="http://lily0714.github.io/IMG_20170214_201651.jpg" align=middle>
 <h1>Welcome to this page</h1>
 <p>這裡是個人簡介的網頁</p>
 <h3 class="infor">個人資料</h3>
