@@ -3,7 +3,7 @@
 .infor{
 background-color:#FFFFFF;
 width:200px;
-height:50px;
+height:30px;
 }
 h1 {
     font-family: Lobster, Monospace;
