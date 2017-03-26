@@ -1,7 +1,7 @@
 
 <style>
 .infor{
-background-color:#FFE13C;
+background-color:#F0C33C;
 width:200px;
 height:30px;
 color:#FFFFFF;
