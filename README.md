@@ -25,16 +25,17 @@ body{
    word-wrap:break-word; 
    margin:0;
 }
+
 </style>
 <body>
 <h1 class="title">Welcome to this page</h1>
 <p class="subtitle">這裡是lily0714的網頁</p>
 <h3 class="infor">個人資料</h3>
 <ul>
-<h5>姓名:</h5><p>陸映螢</p></li>
-<h5>學校:</h5><p>輔仁大學</p></li>
-<h5>學系:</h5><p>資訊工程學系</p></li>
-<h5>生日:</h5><p> 0 7 月 1 4 日</p></li>
+<h4>姓名:</h4><p>陸映螢</p>
+<h4>學校:</h4><p>輔仁大學</p>
+<h4>學系:</h4><p>資訊工程學系</p>
+<h4>生日:</h4><p> 0 7 月 1 4 日</p>
 </ul>
 <p>是個喜歡音樂、自我矛盾很嚴重的孩子。</p>
 </body>
