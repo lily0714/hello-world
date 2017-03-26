@@ -21,7 +21,7 @@ body{
    background-position:50%;
    background-size:100%;
    background-repeat:no-repeat;
-   background-color:#FFF; 
+   background-color:#FFEE99; 
    word-wrap:break-word; 
    margin:0;
 }
@@ -32,11 +32,11 @@ body{
 <p class="subtitle">這裡是lily0714的網頁</p>
 <h3 class="infor">個人資料</h3>
 <ul>
+<p>是個喜歡音樂、自我矛盾很嚴重的孩子。</p>
 <h4>姓名:</h4><p>陸映螢</p>
 <h4>學校:</h4><p>輔仁大學</p>
 <h4>學系:</h4><p>資訊工程學系</p>
 <h4>生日:</h4><p> 0 7 月 1 4 日</p>
 </ul>
-<p>是個喜歡音樂、自我矛盾很嚴重的孩子。</p>
 </body>
 
