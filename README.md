@@ -30,6 +30,9 @@ body{
 .subtitle{
    color:#DDAA00;
    }
+h4{
+   color:#DDAA00;
+   }
 </style>
 <body>
 <h1 class="title">Welcome to this page</h1>
