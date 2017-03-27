@@ -43,7 +43,7 @@ html{
     background-color:transparent; 
     background-repeat:no-repeat; 
     background-position:center;
-    margin:0 5px; padding:0;
+    margin:5px 5px; padding:0;
    }
 #title{ 
   text-align:right; 
