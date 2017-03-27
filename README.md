@@ -50,18 +50,52 @@ html{
 #subtitle{
    color:#DDAA00;
    }
+#WRAPPER {
+    margin:0 auto;
+    width:880px;
+    padding:0 10px;
+    background-image:url(images/center.jpg);
+    overflow:auto;
+}
+#CONTENT {
+    margin-left:170px;
+    _height:1%;
+}
+#SIDE {
+    float:left;
+    width:170px;
+}
+#FOOTER {
+    clear:both;
+    _height:1%;
+    margin:0 auto;
+    width:900px;
+    height:121px;
+    background-image:url(images/down.jpg);
+}
 </style>
 <img id="banner" src="https://lily0714.github.io/IMG_20170214_201651.jpg" width="700" height="400">
 <h1 id="title">Welcome to this page</h1>
 <p id="subtitle">這裡是lily0714的網頁</p>
 <body>
-<h3 class="infor">個人資料</h3>
-<ul>
-<p>是個喜歡音樂、自我矛盾很嚴重的孩子。</p>
-<h4>姓名:</h4><p>陸映螢</p>
-<h4>學校:</h4><p>輔仁大學</p>
-<h4>學系:</h4><p>資訊工程學系</p>
-<h4>生日:</h4><p> 0 7 月 1 4 日</p>
-</ul>
+<div id="WRAPPER">
+  <div id="SIDE">
+   <h3 class="infor">個人資料</h3>
+   <ul>
+   <p>是個喜歡音樂、自我矛盾很嚴重的孩子。</p>
+   <h4>姓名:</h4><p>陸映螢</p>
+   <h4>學校:</h4><p>輔仁大學</p>
+   <h4>學系:</h4><p>資訊工程學系</p>
+   <h4>生日:</h4><p> 0 7 月 1 4 日</p>
+   </ul>
+   </div>
+  <div id="CONTENT">
+    <h3 class="post">文章</h3>
+  </div>
+</div>
+ 
+<div id="FOOTER"> </div>
+
+
 </body>
 
