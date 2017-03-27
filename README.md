@@ -14,17 +14,11 @@
   font-size:20px;
   text-align:left; 
  }
-h1 {
-    font-family: Lobster, Monospace;
-    color:#DDAA00;
-  }
-
 p {
     font-size: 12px;
     font-family: Monospace;
     color:#BB5500;
   }
-  
 body{
    text-align:center; double #FFF;
    background-attachment:fixed;
@@ -35,10 +29,6 @@ body{
    word-wrap:break-word; 
    margin:0;
    }
-h4{
-   color:#D2963C;
-   }
-
 #banner{ 
     background-color:transparent; 
     background-repeat:no-repeat; 
@@ -46,7 +36,9 @@ h4{
     margin:5px 5px; padding:0;
    }
 #title{ 
-  text-align:right; 
+  text-align:right;
+  font-family: Lobster, Monospace;
+  color:#BB5500;
   }
 #subtitle{
    color:#DDAA00;
@@ -76,11 +68,9 @@ h4{
     border-color:#DDAA00;
 }
 #FOOTER {
-    clear:both;
-    _height:1%;
     margin:0 auto;
-    width:600px;
-    height:121px;
+    width:800px;
+    height:120px;
 }
 </style>
 <img id="banner" src="https://lily0714.github.io/IMG_20170214_201651.jpg" width="700" height="400">
@@ -100,7 +90,7 @@ h4{
    </ul>
    </div>
   <div id="CONTENT">
-    <h3 class="post">瀏覽文章</h3>
+    <h3 class="post">目前文章</h3>
     <p>目前尚未有新文章!</p>
   </div>
 </div>
