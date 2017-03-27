@@ -27,14 +27,6 @@ body{
    word-wrap:break-word; 
    margin:0;
    }
-#title{ 
-  position:relative; 
-  top:50px; 
-  right:100px; 
-  }
-#subtitle{
-   color:#DDAA00;
-   }
 h4{
    color:#D2963C;
    }
@@ -51,8 +43,14 @@ html{
     background-color:transparent; 
     background-repeat:no-repeat; 
     background-position:center;
-    margin:5px 5px; padding:0;
-   } 
+    margin:0 5px; padding:0;
+   }
+#title{ 
+  text-align:right; 
+  }
+#subtitle{
+   color:#DDAA00;
+   }
 </style>
 <img id="banner" src="https://lily0714.github.io/IMG_20170214_201651.jpg" width="700" height="400">
 <h1 id="title">Welcome to this page</h1>
