@@ -99,9 +99,26 @@ body{
 </div>
  
 <div id="FOOTER"> 
-<img src="http://lily0714.github.io/底.png" width="900" height="50">
+<img src="http://lily0714.github.io/底.png" width="1024" height="60">
 </div>
 
 
 </body>
+a:link {
+    color: green;
+}
 
+/* visited link */
+a:visited {
+    color: green;
+}
+
+/* mouse over link */
+a:hover {
+    color: red;
+}
+
+/* selected link */
+a:active {
+    color: yellow;
+}
