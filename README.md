@@ -37,15 +37,7 @@ body{
 h4{
    color:#D2963C;
    }
-html{ 
-    scrollbar-face-color:#ffffff;
-    scrollbar-highlight-color:#FFEE99; 
-    scrollbar-shadow-color:#FFEE99; 
-    scrollbar-3dlight-color:#FFF; 
-    scrollbar-darkshadow-color:#FFF; 
-    scrollbar-arrow-color:#FFEE99; 
-    scrollbar-track-color:#FFEE99;
-    }
+
 #banner{ 
     background-color:transparent; 
     background-repeat:no-repeat; 
@@ -62,19 +54,18 @@ html{
     margin:0 auto;
     width:880px;
     padding:0 10px;
-    background-image:url(images/center.jpg);
     overflow:auto;
 }
 #CONTENT {
     margin-left:200px;
     _height:1%;
-    border-style:groove;
+    border-style:solid;
     border-color:#DDAA00;
 }
 #SIDE {
     float:left;
     width:170px;
-    border-style:groove;
+    border-style:solid;
     border-color:#DDAA00;
 }
 #FOOTER {
