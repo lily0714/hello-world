@@ -8,10 +8,11 @@
  }
 .post{
   background-color:#DDAA00;
-  width:800px;
+  width:600px;
   height:40px;
   color:#FFFFFF;
-  font-size: 20px;
+  font-size:20px;
+  text-align:left; 
  }
 h1 {
     font-family: Lobster, Monospace;
