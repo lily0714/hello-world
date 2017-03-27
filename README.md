@@ -1,14 +1,14 @@
 <style>
 .infor{
   background-color:#DDAA00;
-  width:200px;
+  width:170px;
   height:30px;
   color:#FFFFFF;
   font-size: 16px;
  }
 .post{
   background-color:#DDAA00;
-  width:600px;
+  width:500px;
   height:40px;
   color:#FFFFFF;
   font-size: 20px;
