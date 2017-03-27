@@ -51,10 +51,10 @@ h4{
    color:#DDAA00;
    }
 #WRAPPER {
-    margin:0 auto;
+    /*margin:0 auto;*/
     /*width:880px;*/
     /*padding:0 10px;*/
-    overflow:auto;
+    /*overflow:auto;*/
 }
 #CONTENT {
     margin-left:200px;
