@@ -12,7 +12,7 @@
   height:40px;
   color:#FFFFFF;
   font-size:20px;
-  text-align:15px; 
+  text-align:left; 
  }
 h1 {
     font-family: Lobster, Monospace;
@@ -26,7 +26,7 @@ p {
   }
   
 body{
-   text-align:center; border:1px double #FFF;
+   text-align:center; double #FFF;
    background-attachment:fixed;
    background-position:50%;
    background-size:100%;
@@ -59,6 +59,7 @@ h4{
 }
 #CONTENT {
     margin-left:200px;
+    width:600px;
     border-width:2px;
     border-left-style:solid;
     border-right-style:solid;
