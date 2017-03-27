@@ -41,16 +41,16 @@ html{
     scrollbar-darkshadow-color:#FFF; 
     scrollbar-arrow-color:#FFEE99; 
     scrollbar-track-color:#FFEE99;
-    } 
-</style>
+    }
 #banner{ 
-height:450px;
-background-color:transparent; 
-background-repeat:no-repeat; 
-background-position:center; 
-background-image:url(https://lily0714.github.io/IMG_20170214_201651.jpg); 
-margin:0 5px; padding:0; 
-} 
+    height:450px;
+    background-color:transparent; 
+    background-repeat:no-repeat; 
+    background-position:center;
+    margin:0 5px; padding:0; 
+   } 
+</style>
+<img id="banner" src="https://lily0714.github.io/IMG_20170214_201651.jpg" width="200" height="100"></a>
 <h1>Welcome to this page</h1>
 <p class="subtitle">這裡是lily0714的網頁</p>
 <body>
