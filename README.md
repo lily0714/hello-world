@@ -14,7 +14,7 @@ h1 {
 p {
     font-size: 12px;
     font-family: Monospace;
-    color:#F0A500;
+    color:(152,81,1);
   }
   
 body{
