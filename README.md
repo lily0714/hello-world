@@ -41,7 +41,7 @@ body{
   color:#856300;
   }
 #subtitle{
-   color:#DDAA00;
+   color:#9E7700;
    }
 #WRAPPER {
     /*margin:0 auto;*/
