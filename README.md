@@ -53,7 +53,7 @@ body{
     border-right-style:solid;
     border-bottom-style:solid;
     border-color:#DDAA00;
-    position:relative; width:570px; float:right; right:205px; padding:0px -15px 5px;
+    position:relative;  padding:0px -15px 5px;
 }
 #SIDE {
     float:left;
