@@ -33,7 +33,24 @@ body{
 h4{
    color:#D2963C;
    }
+html{ 
+    scrollbar-face-color:#ffffff;
+    scrollbar-highlight-color:#FFEE99; 
+    scrollbar-shadow-color:#FFEE99; 
+    scrollbar-3dlight-color:#FFF; 
+    scrollbar-darkshadow-color:#FFF; 
+    scrollbar-arrow-color:#FFEE99; 
+    scrollbar-track-color:#FFEE99;
+    } 
 </style>
+#banner{ 
+height:450px;
+background-color:transparent; 
+background-repeat:no-repeat; 
+background-position:center; 
+background-image:url(https://lily0714.github.io/IMG_20170214_201651.jpg); 
+margin:0 5px; padding:0; 
+} 
 <h1>Welcome to this page</h1>
 <p class="subtitle">這裡是lily0714的網頁</p>
 <body>
