@@ -78,9 +78,8 @@ h4{
     clear:both;
     _height:1%;
     margin:0 auto;
-    width:900px;
+    width:600px;
     height:121px;
-    background-image:url(images/down.jpg);
 }
 </style>
 <img id="banner" src="https://lily0714.github.io/IMG_20170214_201651.jpg" width="700" height="400">
