@@ -11,7 +11,7 @@
   width:600px;
   height:40px;
   color:#FFFFFF;
-  font-size:20px;
+  font-size:16px;
   text-align:left; 
  }
 p {
@@ -38,7 +38,7 @@ body{
 #title{ 
   text-align:right;
   font-family: Lobster, Monospace;
-  color:#BB5500;
+  color:#856300;
   }
 #subtitle{
    color:#DDAA00;
