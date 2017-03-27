@@ -72,24 +72,19 @@ body{
     width:1024px;
     height:120px;
 }
-a:link {
-    color: green;
-}
-
-/* visited link */
-a:visited {
-    color: green;
-}
-
-/* mouse over link */
-a:hover {
-    color: red;
-}
-
-/* selected link */
-a:active {
-    color: yellow;
-}
+.url{
+  a:link {
+      color: saddlebrown;
+  }
+  a:visited {
+    color: saddlebrown;
+  }
+  a:hover {
+    color: #FF8C00;
+  }
+  a:active {
+    color: orange;
+  }
 
 </style>
 <img id="banner" src="https://lily0714.github.io/IMG_20170214_201651.jpg" width="700" height="400">
@@ -107,7 +102,7 @@ a:active {
     <p>學校:輔仁大學</p>
     <p>學系:資訊工程學系</p>
     <p>生日:0 7 月 1 4 日</p>
-    <a href="https://github.com/lily0714"><b>我的GitHub</b></a> 
+    <a class="url" href="https://github.com/lily0714"><b>我的GitHub</b></a> 
     </ul>
     </div>
   </div>
