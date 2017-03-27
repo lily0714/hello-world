@@ -9,7 +9,7 @@
 .post{
   background-color:#DDAA00;
   width:600px;
-  height:40px;
+  height:30px;
   color:#FFFFFF;
   font-size:16px;
   text-align:left; 
@@ -51,7 +51,7 @@ body{
 }
 #CONTENT {
     margin-left:200px;
-    width:600px;
+    width:602px;
     border-width:2px;
     border-left-style:solid;
     border-right-style:solid;
@@ -70,7 +70,7 @@ body{
 #FOOTER {
     margin:0 auto;
     width:800px;
-    height:120px;
+    height:300px;
 }
 </style>
 <img id="banner" src="https://lily0714.github.io/IMG_20170214_201651.jpg" width="700" height="400">
