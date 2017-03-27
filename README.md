@@ -1,17 +1,18 @@
 <style>
 .infor{
-background-color:#DDAA00;
-width:200px;
-height:30px;
-color:#FFFFFF;
-}
+  background-color:#DDAA00;
+  width:200px;
+  height:30px;
+  color:#FFFFFF;
+  font-size: 16px;
+ }
 h1 {
     font-family: Lobster, Monospace;
     color:#DDAA00;
   }
 
 p {
-    font-size: 16px;
+    font-size: 12px;
     font-family: Monospace;
     color:#F0A500;
   }
@@ -80,13 +81,13 @@ html{
 <body>
 <div id="WRAPPER">
   <div id="SIDE">
-   <h3 class="infor">個人資料</h3>
+   <p class="infor">個人資料</p>
    <ul>
    <p>是個喜歡音樂、自我矛盾很嚴重的孩子。</p>
-   <h4>姓名:</h4><p>陸映螢</p>
-   <h4>學校:</h4><p>輔仁大學</p>
-   <h4>學系:</h4><p>資訊工程學系</p>
-   <h4>生日:</h4><p> 0 7 月 1 4 日</p>
+   <p>姓名:陸映螢</p>
+   <p>學校:輔仁大學</p>
+   <p>學系:資訊工程學系</p>
+   <p>生日:0 7 月 1 4 日</p>
    </ul>
    </div>
   <div id="CONTENT">
