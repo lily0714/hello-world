@@ -66,7 +66,7 @@ html{
     overflow:auto;
 }
 #CONTENT {
-    margin-left:150px;
+    margin-left:200px;
     _height:1%;
     border-style:groove;
     border-color:#DDAA00;
