@@ -19,6 +19,18 @@ p {
     font-family: Monospace;
     color:#BB5500;
   }
+a:link{
+    color:#BB5500;
+   }
+a:visited{
+    color:C1A268;
+    }
+a:hover{
+    color:#EA872D;
+    }
+a:active{
+    color:#1E1400;
+    }
 body{
    text-align:center; double #FFF;
    background-color:#FFEE99; 
@@ -66,7 +78,7 @@ body{
 }
 #FOOTER {
     margin:0 auto;
-    width:800px;
+    width:1024px;
     height:120px;
 }
 </style>
@@ -84,6 +96,7 @@ body{
    <p>學校:輔仁大學</p>
    <p>學系:資訊工程學系</p>
    <p>生日:0 7 月 1 4 日</p>
+   <a href="https://github.com/lily0714"><b>我的GitHub</b></a> 
    </ul>
    </div>
   <div id="CONTENT">
@@ -92,7 +105,9 @@ body{
   </div>
 </div>
  
-<div id="FOOTER"> </div>
+<div id="FOOTER"> 
+<img src="http://lily0714.github.io/底.png" width="1024" height="100">
+</div>
 
 
 </body>
