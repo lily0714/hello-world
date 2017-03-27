@@ -66,7 +66,7 @@ body{
     border-color:#DDAA00;
 }
 #infor{
-    background-color:#FFF8DC;
+    background-color:#FFFFE0;
 }
 #FOOTER {
     margin:0 auto;
