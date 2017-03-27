@@ -1,7 +1,7 @@
 <style>
 .infor{
   background-color:#DDAA00;
-  width:170px;
+  width:160px;
   height:30px;
   color:#FFFFFF;
   font-size: 16px;
@@ -66,8 +66,10 @@ html{
     overflow:auto;
 }
 #CONTENT {
-    margin-left:170px;
+    margin-left:150px;
     _height:1%;
+    border-style:groove;
+    border-color:#DDAA00;
 }
 #SIDE {
     float:left;
