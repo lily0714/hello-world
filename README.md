@@ -53,7 +53,7 @@ body{
     border-right-style:solid;
     border-bottom-style:solid;
     border-color:#DDAA00;*/
-    background-color:white;opacity:0.1;
+    
 }
 #SIDE {
     float:left;
