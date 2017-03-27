@@ -66,7 +66,8 @@ body{
     border-color:#DDAA00;
 }
 #infor{
-    background-color:#FFFFF0;}
+    background-color:#FFF8DC;
+}
 #FOOTER {
     margin:0 auto;
     width:1024px;
