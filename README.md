@@ -1,5 +1,5 @@
 <style>
-.infor{
+.infortitle{
   background-color:#DDAA00;
   width:160px;
   height:20px;
@@ -64,8 +64,9 @@ body{
     border-right-style:solid;
     border-bottom-style:solid;
     border-color:#DDAA00;
-    background-color:#FFFFF0;
 }
+#infor{
+    background-color:#FFFFF0;}
 #FOOTER {
     margin:0 auto;
     width:1024px;
@@ -78,17 +79,19 @@ body{
 <p id="subtitle">這裡是lily0714的網頁</p>
 <div id="WRAPPER">
   <div id="SIDE">
-   <p class="infor">個人資料</p>
-   <img src="http://lily0714.github.io/IMG_20161102_213309.jpg" width="145" height="249">
-   <ul>
-   <p>是個喜歡音樂、自我矛盾很嚴重的孩子。</p>
-   <p>姓名:陸映螢</p>
-   <p>學校:輔仁大學</p>
-   <p>學系:資訊工程學系</p>
-   <p>生日:0 7 月 1 4 日</p>
-   <a href="https://github.com/lily0714"><b>我的GitHub</b></a> 
-   </ul>
-   </div>
+    <div id="infor">
+    <p class="infortitle">個人資料</p>
+    <img src="http://lily0714.github.io/IMG_20161102_213309.jpg" width="145" height="249">
+    <ul>
+    <p>是個喜歡音樂、自我矛盾很嚴重的孩子。</p>
+    <p>姓名:陸映螢</p>
+    <p>學校:輔仁大學</p>
+    <p>學系:資訊工程學系</p>
+    <p>生日:0 7 月 1 4 日</p>
+    <a href="https://github.com/lily0714"><b>我的GitHub</b></a> 
+    </ul>
+    </div>
+  </div>
   <div id="CONTENT">
     <h3 class="post">目前文章</h3>
     <p>目前尚未有新文章!</p>
