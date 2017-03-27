@@ -51,8 +51,7 @@ html{
     background-color:transparent; 
     background-repeat:no-repeat; 
     background-position:center;
-    margin:0 5px; padding:0;
-    top:50px;
+    margin:5px 5px; padding:0;
    } 
 </style>
 <img id="banner" src="https://lily0714.github.io/IMG_20170214_201651.jpg" width="700" height="400">
