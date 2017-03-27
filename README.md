@@ -4,7 +4,7 @@
   width:160px;
   height:30px;
   color:#FFFFFF;
-  font-size: 16px;
+  font-size: 14px;
  }
 .post{
   background-color:#DDAA00;
