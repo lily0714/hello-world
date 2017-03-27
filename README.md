@@ -46,7 +46,6 @@ body{
     /*overflow:auto;*/
 }
 #CONTENT {
-    margin-top:50px;
     margin-left:200px;
     width:602px;
     border-width:2px;
