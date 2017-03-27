@@ -21,10 +21,6 @@ p {
   }
 body{
    text-align:center; double #FFF;
-   background-attachment:fixed;
-   background-position:50%;
-   background-size:100%;
-   background-repeat:no-repeat;
    background-color:#FFEE99; 
    word-wrap:break-word; 
    margin:0;
@@ -58,6 +54,7 @@ body{
     border-right-style:solid;
     border-bottom-style:solid;
     border-color:#DDAA00;
+    padding-top:-15px; 
 }
 #SIDE {
     float:left;
@@ -71,7 +68,7 @@ body{
 #FOOTER {
     margin:0 auto;
     width:800px;
-    height:300px;
+    height:120px;
 }
 </style>
 <img id="banner" src="https://lily0714.github.io/IMG_20170214_201651.jpg" width="700" height="400">
