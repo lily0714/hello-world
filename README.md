@@ -53,7 +53,7 @@ h4{
 #WRAPPER {
     margin:0 auto;
     /*width:880px;*/
-    padding:0 10px;
+    /*padding:0 10px;*/
     overflow:auto;
 }
 #CONTENT {
@@ -66,7 +66,7 @@ h4{
 }
 #SIDE {
     float:left;
-    width:160px;
+    width:162px;
     border-width:2px;
     border-left-style:solid;
     border-right-style:solid;
