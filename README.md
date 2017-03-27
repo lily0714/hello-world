@@ -38,7 +38,7 @@ body{
 #title{ 
   text-align:right;
   font-family: Lobster, Monospace;
-  color:#856300;
+  color:#8F5924;
   }
 #subtitle{
    color:#9E7700;
