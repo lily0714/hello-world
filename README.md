@@ -2,7 +2,7 @@
 .infor{
   background-color:#DDAA00;
   width:160px;
-  height:30px;
+  height:20px;
   color:#FFFFFF;
   font-size: 14px;
  }
@@ -46,7 +46,7 @@ body{
     /*overflow:auto;*/
 }
 #CONTENT {
-    margin-top:30px;
+    margin-top:50px;
     margin-left:200px;
     width:602px;
     border-width:2px;
