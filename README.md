@@ -48,11 +48,11 @@ body{
 #CONTENT {
     margin-left:200px;
     width:602px;
-    border-width:2px;
+    /*border-width:2px;
     border-left-style:solid;
     border-right-style:solid;
     border-bottom-style:solid;
-    border-color:#DDAA00;
+    border-color:#DDAA00;*/
     background-color:white;opacity:0.1;
 }
 #SIDE {
