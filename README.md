@@ -2,7 +2,7 @@
 .infor{
   background-color:#DDAA00;
   width:160px;
-  height:30px;
+  height:20px;
   color:#FFFFFF;
   font-size: 14px;
  }
