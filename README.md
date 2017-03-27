@@ -6,6 +6,13 @@
   color:#FFFFFF;
   font-size: 16px;
  }
+.post{
+  background-color:#DDAA00;
+  width:600px;
+  height:40px;
+  color:#FFFFFF;
+  font-size: 20px;
+ }
 h1 {
     font-family: Lobster, Monospace;
     color:#DDAA00;
@@ -14,7 +21,7 @@ h1 {
 p {
     font-size: 12px;
     font-family: Monospace;
-    color:(152,81,1);
+    color:#BB5500;
   }
   
 body{
@@ -65,6 +72,8 @@ html{
 #SIDE {
     float:left;
     width:170px;
+    border-style:groove;
+    border-color:#DDAA00;
 }
 #FOOTER {
     clear:both;
@@ -91,7 +100,7 @@ html{
    </ul>
    </div>
   <div id="CONTENT">
-    <h3 class="infor">文章</h3>
+    <h3 class="post">文章</h3>
   </div>
 </div>
  
