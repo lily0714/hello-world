@@ -95,7 +95,7 @@ body{
 </div>
  
 <div id="FOOTER"> 
-<img src="http://lily0714.github.io/底.png" width="800" height="80">
+<img src="http://lily0714.github.io/底.png" width="800" height="100">
 </div>
 
 
