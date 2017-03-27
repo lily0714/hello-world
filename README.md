@@ -58,8 +58,7 @@ h4{
 }
 #CONTENT {
     margin-left:200px;
-    
-    border-width:9px;
+    border-width:2px;
     border-left-style:solid;
     border-right-style:solid;
     border-bottom-style:solid;
@@ -67,8 +66,8 @@ h4{
 }
 #SIDE {
     float:left;
-    width:170px;
-    border-width:1px;
+    width:156px;
+    border-width:2px;
     border-left-style:solid;
     border-right-style:solid;
     border-bottom-style:solid;
