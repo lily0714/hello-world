@@ -2,7 +2,7 @@
 .infor{
   background-color:#DDAA00;
   width:160px;
-  height:20px;
+  height:30px;
   color:#FFFFFF;
   font-size: 14px;
  }
@@ -54,7 +54,7 @@ body{
     border-right-style:solid;
     border-bottom-style:solid;
     border-color:#DDAA00;
-    padding-top:-15px; 
+    
 }
 #SIDE {
     float:left;
