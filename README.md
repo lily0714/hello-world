@@ -27,7 +27,12 @@ body{
    word-wrap:break-word; 
    margin:0;
    }
-.subtitle{
+#title{ 
+  position:relative; 
+  top:50px; 
+  right:100px; 
+  }
+#subtitle{
    color:#DDAA00;
    }
 h4{
@@ -43,7 +48,6 @@ html{
     scrollbar-track-color:#FFEE99;
     }
 #banner{ 
-   
     background-color:transparent; 
     background-repeat:no-repeat; 
     background-position:center;
@@ -51,8 +55,8 @@ html{
    } 
 </style>
 <img id="banner" src="https://lily0714.github.io/IMG_20170214_201651.jpg" width="700" height="400">
-<h1>Welcome to this page</h1>
-<p class="subtitle">這裡是lily0714的網頁</p>
+<h1 id="title">Welcome to this page</h1>
+<p id="subtitle">這裡是lily0714的網頁</p>
 <body>
 <h3 class="infor">個人資料</h3>
 <ul>
