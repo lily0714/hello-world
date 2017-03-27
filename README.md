@@ -52,20 +52,26 @@ h4{
    }
 #WRAPPER {
     margin:0 auto;
-    width:880px;
+    /*width:880px;*/
     padding:0 10px;
     overflow:auto;
 }
 #CONTENT {
     margin-left:200px;
-    _height:1%;
-    border-style:solid;
+    
+    border-width:9px;
+    border-left-style:solid;
+    border-right-style:solid;
+    border-bottom-style:solid;
     border-color:#DDAA00;
 }
 #SIDE {
     float:left;
     width:170px;
-    border-style:solid;
+    border-width:1px;
+    border-left-style:solid;
+    border-right-style:solid;
+    border-bottom-style:solid;
     border-color:#DDAA00;
 }
 #FOOTER {
