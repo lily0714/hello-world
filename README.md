@@ -41,7 +41,7 @@ body{
    }
 #WRAPPER {
     /*margin:0 auto;*/
-    /*width:880px;*/
+    width:880px;
     /*padding:0 10px;*/
     /*overflow:auto;*/
 }
