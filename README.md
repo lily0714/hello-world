@@ -91,7 +91,7 @@ html{
    </ul>
    </div>
   <div id="CONTENT">
-    <h3 class="post">文章</h3>
+    <h3 class="infor">文章</h3>
   </div>
 </div>
  
