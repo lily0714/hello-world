@@ -64,6 +64,7 @@ body{
     border-right-style:solid;
     border-bottom-style:solid;
     border-color:#DDAA00;
+    background-color:#FFFFF0;
 }
 #FOOTER {
     margin:0 auto;
