@@ -8,7 +8,7 @@
  }
 .post{
   background-color:#DDAA00;
-  width:500px;
+  width:800px;
   height:40px;
   color:#FFFFFF;
   font-size: 20px;
@@ -66,7 +66,7 @@ h4{
 }
 #SIDE {
     float:left;
-    width:156px;
+    width:160px;
     border-width:2px;
     border-left-style:solid;
     border-right-style:solid;
