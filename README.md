@@ -19,18 +19,7 @@ p {
     font-family: Monospace;
     color:#BB5500;
   }
-a:link{
-    color:#BB5500;
-   }
-a:visited{
-    color:C1A268;
-    }
-a:hover{
-    color:#EA872D;
-    }
-a:active{
-    color:#1E1400;
-    }
+
 body{
    text-align:center; double #FFF;
    background-color:#FFEE99; 
