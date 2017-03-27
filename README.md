@@ -12,7 +12,7 @@
   height:40px;
   color:#FFFFFF;
   font-size:20px;
-  text-align:left; 
+  text-indent:15px; 
  }
 h1 {
     font-family: Lobster, Monospace;
