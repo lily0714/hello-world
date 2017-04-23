@@ -84,7 +84,7 @@ height:120px;
 .interest{
 position:relative;
 top:0px;
-right:0px;
+right:100px;
 }
 .interest:hover{ 
 /*滑鼠移至區塊變色*/
