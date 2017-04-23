@@ -56,8 +56,8 @@ border-color:#DDAA00;
 } 
 #CONTENT {
 margin-left:200px; 
-width:902px;
-height:480px;
+width:1002px;
+height:530px;
 /*border-width:2px;
 border-left-style:solid; 
 border-right-style:solid; 
