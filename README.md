@@ -2,7 +2,8 @@
 <script type="text/javascript"> 
 $(document).ready(function() { 
 $(".interest").click(function(){
-  $(".inte").toggle();
+  $(".in1").toggle("normal");
+  $(".in2").toggle("normal");
 });
 });
 </script>
