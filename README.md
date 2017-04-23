@@ -28,7 +28,7 @@ margin:0;
 } 
 #bantitle{
 background-color:#FFFFE0;
-
+border-style:dotted;
 }
 #banner{ 
 background-repeat:no-repeat;
@@ -53,6 +53,8 @@ width:880px;
 #CONTENT {
 margin-left:200px; 
 width:602px;
+background-color:#FFFFE0;
+border-style:dotted;
 /*border-width:2px;
 border-left-style:solid; 
 border-right-style:solid; 
