@@ -1,3 +1,10 @@
+<script>
+$(document).ready(function() { 
+$(".interest").click(function(){
+  $(".in").slideToggle();
+});
+});
+</script>
 <style> 
 .infortitle{ 
 background-color:#DDAA00; 
@@ -92,6 +99,11 @@ height:120px;
 /*滑鼠移至區塊變色*/
 background: #DDAA00;
 }
+.in1{ 
+display: none;
+width: 100%;
+padding: 10px 0px;
+background: #efefef;
 /*超連結*/ 
 a:link { 
 color: saddlebrown; 
@@ -128,7 +140,11 @@ color: orange;
       </div>
       <div id="RSIDE">
       <p class="interest">個人興趣</p>
-      </div>
+        <div class="in">
+         <p>畫畫</p>
+         <p>出去玩</p>
+         </div>
+         </div>
       <div id="CONTENT">
          <h3 class="post">目前文章</h3>
          <p >目前尚未有新文章!</p>
