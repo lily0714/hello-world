@@ -101,7 +101,7 @@ height:120px;
 background: #DDAA00;
 text-decoration:underline;
 }
-.interest{ 
+.in1{ 
 display: none;
 width: 100%;
 padding: 10px 0px;
@@ -144,7 +144,7 @@ color: orange;
       <div id="RSIDE">
         <ul class="menu">
         <ul class="interest">個人興趣
-           <li>畫畫</li>
+           <li class="in1">畫畫</li>
            <li>出去玩</li>
          </ul>
          </ul>
