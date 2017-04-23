@@ -22,7 +22,8 @@ body{
 text-align:center; 
 double #FFF; 
 background-color:#FFEE99; 
-word-wrap:break-word; margin:0; 
+word-wrap:break-word; 
+margin:0; 
 } 
 #banner{ 
 background-color:transparent;
@@ -32,7 +33,7 @@ margin:5px 5px;
 padding:0;
 } 
 #title{  
-text-align:right; 
+text-align:center; 
 font-family: Lobster, Monospace;
 color:#8F5924; 
 } 
