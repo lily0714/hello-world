@@ -17,6 +17,7 @@ p {
 font-size: 12px; 
 font-family: Monospace; 
 color:#BB5500; 
+text-align:center; 
 } 
 body{ 
 text-align:center; 
