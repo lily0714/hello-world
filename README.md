@@ -68,7 +68,6 @@ body{
 }
 #infor{
     background-color:#FFFFE0;
-    text-align:left;
 }
 
 #FOOTER {
