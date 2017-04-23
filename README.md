@@ -3,7 +3,7 @@
 $(document).ready(function() { 
 $("p.interest").css({cursor:"crosshair"}).click(function(){
   $(".in1").slideToggle("slow");
-  $(".in2").toggle("normal");
+  $(".in2").slideToggle("slow");
 });
 });
 </script>
@@ -107,7 +107,7 @@ color:#FFFFFF;
 display: none;
 width: 100%;
 padding: 10px 0px;
-background: #efefef;
+background: #FFDDAA;
 }
 .in1:hover{ 
 /*滑鼠移至區塊變色*/
@@ -119,7 +119,7 @@ color:#FFFFFF;
 display: none;
 width: 100%;
 padding: 10px 0px;
-background: #efefef;
+background: #FFDDAAf;
 }
 .in2:hover{ 
 /*滑鼠移至區塊變色*/
