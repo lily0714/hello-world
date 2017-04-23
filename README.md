@@ -57,7 +57,7 @@ border-bottom-style:solid;
 border-color:#DDAA00;*/ 
 } 
 #SIDE { 
- 
+float:left;
 width:162px; 
 border-width:2px; 
 border-left-style:solid; 
