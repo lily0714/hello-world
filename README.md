@@ -1,4 +1,4 @@
-<script src="/jquery/jquery-1.11.1.min.js"></script>
+<script src="https://jqueryjs.googlecode.com/files/jquery-1.3.2.min.js" language="javascript"></script>
 <script type="text/javascript"> 
 $(document).ready(function() { 
 $(".interest").click(function(){
@@ -99,6 +99,7 @@ height:120px;
 .interest:hover{ 
 /*滑鼠移至區塊變色*/
 background: #DDAA00;
+text-decoration:underline;
 }
 .in1{ 
 display: none;
@@ -128,7 +129,7 @@ color: orange;
    <div id="WRAPPER">
       <div id="LSIDE">
           <div id="infor">
-          <p class="infortitle">個人資料3</p>
+          <p class="infortitle">個人資料</p>
           <img src="http://lily0714.github.io/IMG_20161102_213309.jpg" width="145" height="249">
           <ul>
           <p class="icontent">是個喜歡音樂、自我矛盾很嚴重的孩子。</p>
