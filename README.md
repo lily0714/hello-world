@@ -1,7 +1,7 @@
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <script type="text/javascript"> 
 $(document).ready(function() { 
-$("p.interest").click(function(){
+$("p.interest").css({cursor:"crosshair"}).click(function(){
   $(".in1").toggle("normal");
   $(".in2").toggle("normal");
 });
