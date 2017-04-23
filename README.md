@@ -1,93 +1,89 @@
-
-<style>
-.infortitle{
-  background-color:#DDAA00;
-  width:160px;
-  height:20px;
-  color:#FFFFFF;
-  font-size: 14px;
- }
-.post{
-  background-color:#DDAA00;
-  width:600px;
-  height:30px;
-  color:#FFFFFF;
-  font-size:16px;
-  text-align:left; 
- }
-p {
-    font-size: 12px;
-    font-family: Monospace;
-    color:#BB5500;
-  }
-
-body{
-   text-align:center; double #FFF;
-   background-color:#FFEE99; 
-   word-wrap:break-word; 
-   margin:0;
-   }
+<style> 
+.infortitle{ 
+background-color:#DDAA00; 
+width:160px; 
+height:20px; 
+color:#FFFFFF; 
+font-size: 14px; 
+} 
+.post{ 
+background-color:#DDAA00;
+width:600px; height:30px; 
+color:#FFFFFF; 
+font-size:16px; 
+text-align:left; 
+} 
+p { 
+font-size: 12px; 
+font-family: Monospace; 
+color:#BB5500; 
+} 
+body{ 
+text-align:center; 
+double #FFF; 
+background-color:#FFEE99; 
+word-wrap:break-word; margin:0; 
+} 
 #banner{ 
-    background-color:transparent; 
-    background-repeat:no-repeat; 
-    background-position:center;
-    margin:5px 5px; padding:0;
-   }
-#title{ 
-  text-align:right;
-  font-family: Lobster, Monospace;
-  color:#8F5924;
-  }
-#subtitle{
-   color:#B8732E;
-   }
-#WRAPPER {
-    /*margin:0 auto;*/
-    width:880px;
-    /*padding:0 10px;*/
-    /*overflow:auto;*/
+background-color:transparent;
+background-repeat:no-repeat;
+background-position:center;
+margin:5px 5px; 
+padding:0;
+} 
+#title{  
+text-align:right; 
+font-family: Lobster, Monospace;
+color:#8F5924; 
+} 
+#subtitle{ 
+color:#B8732E; 
 }
+#WRAPPER { 
+/*margin:0 auto;*/
+width:880px; 
+/*padding:0 10px;*/ 
+/*overflow:auto;*/ 
+} 
 #CONTENT {
-    margin-left:200px;
-    width:602px;
-    /*border-width:2px;
-    border-left-style:solid;
-    border-right-style:solid;
-    border-bottom-style:solid;
-    border-color:#DDAA00;*/
-    
+margin-left:200px; 
+width:602px;
+/*border-width:2px;
+border-left-style:solid; 
+border-right-style:solid; 
+border-bottom-style:solid; 
+border-color:#DDAA00;*/ 
+} 
+#SIDE { 
+float:left; 
+width:162px; 
+border-width:2px; 
+border-left-style:solid; 
+border-right-style:solid; 
+border-bottom-style:solid; 
+border-color:#DDAA00; 
+} 
+#infor{ 
+background-color:#FFFFE0; 
+} 
+#FOOTER { 
+margin:0 auto; 
+width:1024px; 
+height:120px; 
 }
-#SIDE {
-    float:left;
-    width:162px;
-    border-width:2px;
-    border-left-style:solid;
-    border-right-style:solid;
-    border-bottom-style:solid;
-    border-color:#DDAA00;
-}
-#infor{
-    background-color:#FFFFE0;
-}
-
-#FOOTER {
-    margin:0 auto;
-    width:1024px;
-    height:120px;
-}
-  /*超連結*/
-  a:link {
-      color: saddlebrown;
-  }
-  a:visited {
-    color: saddlebrown;
-  }
-  a:hover {
-    color: #FF8C00;
-  }
-  a:active {
-    color: orange;
-  }
+/*超連結*/ 
+a:link { 
+color: saddlebrown; 
+} 
+a:visited { 
+color: saddlebrown; 
+} 
+a:hover { 
+color: #FF8C00; 
+} 
+a:active { 
+color: orange;
+} 
 </style>
 
    <img id="banner" src="https://lily0714.github.io/IMG_20170214_201651.jpg" width="700" height="400">
