@@ -133,6 +133,7 @@ color: orange;
       </div>
       <div id="RSIDE">
       <p class="interest">個人興趣</p>
+      </div>
       <div id="CONTENT">
          <h3 class="post">目前文章</h3>
          <p >目前尚未有新文章!</p>
