@@ -105,6 +105,7 @@ display: none;
 width: 100%;
 padding: 10px 0px;
 background: #efefef;
+}
 /*超連結*/ 
 a:link { 
 color: saddlebrown; 
