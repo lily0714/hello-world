@@ -135,7 +135,7 @@ color: orange;
           <p class="icontent">是個喜歡音樂、自我矛盾很嚴重的孩子。</p>
           <p class="icontent">姓名:陸映螢</p>
           <p class="icontent">學校:輔仁大學</p>
-          <p class="icontent">學系:資訊工程學系</p>
+          <p class="icontent">學系:資訊工程學系3</p>
           <p class="icontent">生日:0 7 月 1 4 日</p>
           <a class="url icontent" href="https://github.com/lily0714"><b>我的GitHub</b></a> 
           </ul>
