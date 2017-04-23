@@ -1,7 +1,7 @@
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <script type="text/javascript"> 
 $(document).ready(function() { 
-$(".interest").click(function(){
+$("p.interest").click(function(){
   $(".in1").toggle("normal");
   $(".in2").toggle("normal");
 });
@@ -150,13 +150,12 @@ color: orange;
           </div>
       </div>
       <div id="RSIDE">
-        <ul class="menu">
-        <ul class="interest">個人興趣
-           <li class="in1">畫畫</li>
-           <li class="in2">出去玩</li>
-         </ul>
-         </ul>
-         </div>
+        <div class="menu">
+           <p class="interest">個人興趣</p>
+           <p class="in1">畫畫</p>
+           <p class="in2">出去玩</p>
+        </div>
+      </div>
       <div id="CONTENT">
          <h3 class="post">目前文章</h3>
          <p >目前尚未有新文章!</p>
