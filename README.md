@@ -26,8 +26,11 @@ background-color:#FFEE99;
 word-wrap:break-word; 
 margin:0; 
 } 
+#bantitle{
+background-color:#DDAA00;
+
+}
 #banner{ 
-background-color:transparent;
 background-repeat:no-repeat;
 background-position:center;
 margin:5px 5px; 
@@ -90,11 +93,12 @@ a:active {
 color: orange;
 } 
 </style>
-
-   <img id="banner" src="https://lily0714.github.io/IMG_20170214_201651.jpg" width="700" height="400">
    <body>
-   <h1 id="title">Welcome to this page</h1>
-   <p id="subtitle">這裡是lily0714的網頁</p>
+   <div id="bantitle">
+   <img id="banner" src="https://lily0714.github.io/IMG_20170214_201651.jpg" width="700" height="400">
+  /* <h1 id="title">Welcome to this page</h1>*/
+  /* <p id="subtitle">這裡是lily0714的網頁</p>*/
+   </div>
    <div id="WRAPPER">
       <div id="SIDE">
           <div id="infor">
