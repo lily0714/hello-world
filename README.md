@@ -101,6 +101,7 @@ height:120px;
 /*滑鼠移至區塊變色*/
 background: #DDAA00;
 text-decoration:underline;
+color:#FFFFFF;
 }
 .in1{ 
 display: none;
