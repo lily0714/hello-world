@@ -106,6 +106,7 @@ color: orange;
   
    </div>
    <div id="WRAPPER">
+   <button class="btn">個人興趣</button>
       <div id="SIDE">
           <div id="infor">
           <p class="infortitle">個人資料</p>
@@ -123,7 +124,7 @@ color: orange;
       <div id="CONTENT">
          <h3 class="post">目前文章</h3>
          <p >目前尚未有新文章!</p>
-         <button class="btn">個人興趣</button>
+         
       </div>
    </div>
    <div id="FOOTER"> 
