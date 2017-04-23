@@ -123,7 +123,7 @@ color: orange;
           <img src="http://lily0714.github.io/IMG_20161102_213309.jpg" width="145" height="249">
           <ul>
           <p class="icontent">是個喜歡音樂、自我矛盾很嚴重的孩子。</p>
-          <p class="icontent">姓名:陸映螢</p>
+          <p class="icontent">姓名:陸映螢3</p>
           <p class="icontent">學校:輔仁大學</p>
           <p class="icontent">學系:資訊工程學系</p>
           <p class="icontent">生日:0 7 月 1 4 日</p>
