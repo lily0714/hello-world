@@ -159,7 +159,7 @@ color: orange;
       </div>
       <div id="CONTENT">
          <h3 class="post">目前文章</h3>
-         <p >目前尚未有新文章!</p>
+         <p >目前尚未有新文章3!</p>
          
       </div>
    </div>
