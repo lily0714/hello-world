@@ -107,6 +107,13 @@ width: 100%;
 padding: 10px 0px;
 background: #efefef;
 }
+.in2{ 
+display: none;
+width: 100%;
+padding: 10px 0px;
+background: #efefef;
+}
+
 /*超連結*/ 
 a:link { 
 color: saddlebrown; 
@@ -145,7 +152,7 @@ color: orange;
         <ul class="menu">
         <ul class="interest">個人興趣
            <li class="in1">畫畫</li>
-           <li>出去玩</li>
+           <li class="in2">出去玩</li>
          </ul>
          </ul>
          </div>
