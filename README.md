@@ -75,9 +75,7 @@ body{
 #infor{
     background-color:#FFFFE0;
 }
-#fb{
-    background-color:#DDAA00;
-}
+
 #FOOTER {
     margin:0 auto;
     width:1024px;
@@ -103,8 +101,8 @@ body{
    <h1 id="title">Welcome to this page</h1>
    <p id="subtitle">這裡是lily0714的網頁</p>
    <div class="menu">
-      <button id="homepage">首頁</button>
-      <button id="fb">facebook連結</button>
+      <button class="btn btn-default" id="homepage">首頁</button>
+      <button class="btn btn-default" id="fb">facebook連結</button>
    </div>
    <div id="WRAPPER">
       <div id="SIDE">
