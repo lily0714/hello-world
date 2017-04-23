@@ -1,5 +1,4 @@
 
-</script>
 <style>
 .infortitle{
   background-color:#DDAA00;
@@ -102,7 +101,7 @@ body{
           <p class="infortitle">個人資料</p>
           <img src="http://lily0714.github.io/IMG_20161102_213309.jpg" width="145" height="249">
           <ul>
-          <p>是個喜歡音樂、自我矛盾很嚴重的孩子。</p>
+          <p>是個喜歡音樂、自我矛盾很嚴重的孩子。3</p>
           <p>姓名:陸映螢</p>
           <p>學校:輔仁大學</p>
           <p>學系:資訊工程學系</p>
