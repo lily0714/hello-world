@@ -1,3 +1,10 @@
+<script>
+$(document).ready(function() { 
+$("button").addClass("animated bounce");
+
+
+});
+</script>
 <style>
 .infortitle{
   background-color:#DDAA00;
@@ -40,9 +47,6 @@ body{
 #subtitle{
    color:#B8732E;
    }
-#homepage{
-   background-color:#DDAA00;
-   }
 #WRAPPER {
     /*margin:0 auto;*/
     width:880px;
@@ -72,7 +76,7 @@ body{
     background-color:#FFFFE0;
 }
 #fb{
-    background-color:#FFFFE0;
+    background-color:#DDAA00;
 }
 #FOOTER {
     margin:0 auto;
@@ -93,14 +97,14 @@ body{
     color: orange;
   }
 </style>
-<div class="container-fluid">
+
    <img id="banner" src="https://lily0714.github.io/IMG_20170214_201651.jpg" width="700" height="400">
    <body>
    <h1 id="title">Welcome to this page</h1>
    <p id="subtitle">這裡是lily0714的網頁</p>
-   <div class="row">
-      <div class="col-md-1" id="homepage">首頁</div>
-      <div class="col-md-1" id="fb">facebook連結</div>
+   <div class="menu">
+      <button id="homepage">首頁</button>
+      <button id="fb">facebook連結</button>
    </div>
    <div id="WRAPPER">
       <div id="SIDE">
@@ -126,4 +130,4 @@ body{
       <img src="http://lily0714.github.io/底.png" width="1024" height="60">
    </div>
    </body>
-</div>
+
