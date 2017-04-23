@@ -1,4 +1,4 @@
-<script src="https://jqueryjs.googlecode.com/files/jquery-1.3.2.min.js" language="javascript"></script>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <script type="text/javascript"> 
 $(document).ready(function() { 
 $(".interest").click(function(){
@@ -101,7 +101,7 @@ height:120px;
 background: #DDAA00;
 text-decoration:underline;
 }
-.in1{ 
+.interest{ 
 display: none;
 width: 100%;
 padding: 10px 0px;
@@ -142,12 +142,12 @@ color: orange;
           </div>
       </div>
       <div id="RSIDE">
-      <p class="interest">個人興趣</p>
-        <div class="inte">
-         <p>畫畫</p>
-         <p>出去玩</p>
-         </div>
-         </div>
+        <ul class="menu">
+        <ul class="interest">個人興趣
+           <li>畫畫</li>
+           <li>出去玩</li>
+         </ul>
+         </ul>
       <div id="CONTENT">
          <h3 class="post">目前文章</h3>
          <p >目前尚未有新文章!</p>
