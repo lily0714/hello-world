@@ -107,7 +107,7 @@ color:#FFFFFF;
 display: none;
 width: 100%;
 padding: 10px 0px;
-background: #FFDDAA;
+background: #FFEE99;
 }
 .in1:hover{ 
 /*滑鼠移至區塊變色*/
@@ -119,7 +119,7 @@ color:#FFFFFF;
 display: none;
 width: 100%;
 padding: 10px 0px;
-background: #FFDDAAf;
+background: #FFEE99;
 }
 .in2:hover{ 
 /*滑鼠移至區塊變色*/
