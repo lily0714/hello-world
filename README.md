@@ -98,7 +98,8 @@ width:1024px;
 height:120px; 
 }
 .interest{
-background:#FFCC22}
+background:#FFCC22;
+}
 .interest:hover{ 
 /*滑鼠移至區塊變色*/
 background: #DDAA00;
