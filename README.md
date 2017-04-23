@@ -69,7 +69,7 @@ border-color:#DDAA00;
 background-color:#FFFFE0; 
 } 
 .icontent{
-text-align:center;
+text-align:left;
 }
 #FOOTER { 
 margin:0 auto; 
