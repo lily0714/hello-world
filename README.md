@@ -40,6 +40,9 @@ body{
 #subtitle{
    color:#B8732E;
    }
+#homepage{
+   background-color:#DDAA00;
+   }
 #WRAPPER {
     /*margin:0 auto;*/
     width:880px;
@@ -87,10 +90,17 @@ body{
     color: orange;
   }
 </style>
+<div class="container-fluid">
 <img id="banner" src="https://lily0714.github.io/IMG_20170214_201651.jpg" width="700" height="400">
 <body>
 <h1 id="title">Welcome to this page</h1>
 <p id="subtitle">這裡是lily0714的網頁</p>
+<div id="menu">
+<div class="row">
+<div class="col-md-1" id="homepage">首頁</div>
+<div class="col-md-1" id="fb">facebook連結</div>
+</div>
+</div>
 <div id="WRAPPER">
   <div id="SIDE">
     <div id="infor">
@@ -111,10 +121,11 @@ body{
     <p>目前尚未有新文章!</p>
   </div>
 </div>
- 
+
 <div id="FOOTER"> 
 <img src="http://lily0714.github.io/底.png" width="1024" height="60">
 </div>
 
 
 </body>
+</div>
