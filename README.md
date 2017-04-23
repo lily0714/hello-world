@@ -94,7 +94,7 @@ color: orange;
    <img id="banner" src="https://lily0714.github.io/IMG_20170214_201651.jpg" width="700" height="400">
    <body>
    <h1 id="title">Welcome to this page</h1>
-   <p id="subtitle">這裡是lily0714的網頁</p>
+   <p id="subtitle">這裡是lily0714的網頁3</p>
    <div id="WRAPPER">
       <div id="SIDE">
           <div id="infor">
