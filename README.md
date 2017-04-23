@@ -81,10 +81,14 @@ margin:0 auto;
 width:1024px; 
 height:120px; 
 }
-.btn{
+.interest{
 position:relative;
 top:0px;
-right:20px;
+right:0px;
+}
+.interest:hover{ 
+/*滑鼠移至區塊變色*/
+background: #DDAA00;
 }
 /*超連結*/ 
 a:link { 
@@ -106,7 +110,7 @@ color: orange;
   
    </div>
    <div id="WRAPPER">
-   <button class="btn">個人興趣</button>
+   <p class="interest">個人興趣</p>
       <div id="SIDE">
           <div id="infor">
           <p class="infortitle">個人資料</p>
