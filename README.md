@@ -17,7 +17,7 @@ p {
 font-size: 12px; 
 font-family: Monospace; 
 color:#BB5500; 
-
+text-align:center;
 } 
 body{ 
 text-align:center; 
@@ -47,7 +47,7 @@ color:#B8732E;
 }
 #WRAPPER { 
 /*margin:0 auto;*/
-width:880px; 
+width:980px; 
 /*padding:0 10px;*/ 
 /*overflow:auto;*/ 
 background-color:#FFFFE0;
@@ -56,8 +56,8 @@ border-color:#DDAA00;
 } 
 #CONTENT {
 margin-left:200px; 
-width:1002px;
-height:530px;
+width:902px;
+height:520px;
 /*border-width:2px;
 border-left-style:solid; 
 border-right-style:solid; 
