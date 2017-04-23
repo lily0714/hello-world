@@ -148,6 +148,7 @@ color: orange;
            <li>出去玩</li>
          </ul>
          </ul>
+         </div>
       <div id="CONTENT">
          <h3 class="post">目前文章</h3>
          <p >目前尚未有新文章!</p>
