@@ -56,8 +56,8 @@ border-color:#DDAA00;
 } 
 #CONTENT {
 margin-left:200px; 
-width:602px;
-height:600px;
+width:702px;
+height:580px;
 /*border-width:2px;
 border-left-style:solid; 
 border-right-style:solid; 
@@ -72,10 +72,7 @@ border-left-style:solid;
 border-right-style:solid; 
 border-bottom-style:solid; 
 border-color:#DDAA00; 
-} 
-#infor{ 
-background-color:#FFFFE0; 
-} 
+}  
 .icontent{
 text-align:left;
 }
