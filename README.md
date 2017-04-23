@@ -2,7 +2,7 @@
 <script type="text/javascript"> 
 $(document).ready(function() { 
 $(".interest").click(function(){
-  $(".in").slideToggle("slow");
+  $(".inte").toggle();
 });
 });
 </script>
@@ -142,7 +142,7 @@ color: orange;
       </div>
       <div id="RSIDE">
       <p class="interest">個人興趣</p>
-        <div class="in">
+        <div class="inte">
          <p>畫畫</p>
          <p>出去玩</p>
          </div>
