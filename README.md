@@ -109,13 +109,24 @@ width: 100%;
 padding: 10px 0px;
 background: #efefef;
 }
+.in1:hover{ 
+/*滑鼠移至區塊變色*/
+background: #DDAA00;
+text-decoration:underline;
+color:#FFFFFF;
+}
 .in2{ 
 display: none;
 width: 100%;
 padding: 10px 0px;
 background: #efefef;
 }
-
+.in2:hover{ 
+/*滑鼠移至區塊變色*/
+background: #DDAA00;
+text-decoration:underline;
+color:#FFFFFF;
+}
 /*超連結*/ 
 a:link { 
 color: saddlebrown; 
