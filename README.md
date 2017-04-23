@@ -71,6 +71,9 @@ body{
 #infor{
     background-color:#FFFFE0;
 }
+#fb{
+    background-color:#FFFFE0;
+}
 #FOOTER {
     margin:0 auto;
     width:1024px;
@@ -91,41 +94,36 @@ body{
   }
 </style>
 <div class="container-fluid">
-<img id="banner" src="https://lily0714.github.io/IMG_20170214_201651.jpg" width="700" height="400">
-<body>
-<h1 id="title">Welcome to this page</h1>
-<p id="subtitle">這裡是lily0714的網頁</p>
-<div id="menu">
-<div class="row">
-<div class="col-md-1" id="homepage">首頁</div>
-<div class="col-md-1" id="fb">facebook連結</div>
-</div>
-</div>
-<div id="WRAPPER">
-  <div id="SIDE">
-    <div id="infor">
-    <p class="infortitle">個人資料</p>
-    <img src="http://lily0714.github.io/IMG_20161102_213309.jpg" width="145" height="249">
-    <ul>
-    <p>是個喜歡音樂、自我矛盾很嚴重的孩子。3</p>
-    <p>姓名:陸映螢</p>
-    <p>學校:輔仁大學</p>
-    <p>學系:資訊工程學系</p>
-    <p>生日:0 7 月 1 4 日</p>
-    <a class="url" href="https://github.com/lily0714"><b>我的GitHub</b></a> 
-    </ul>
-    </div>
-  </div>
-  <div id="CONTENT">
-    <h3 class="post">目前文章</h3>
-    <p>目前尚未有新文章!</p>
-  </div>
-</div>
-
-<div id="FOOTER"> 
-<img src="http://lily0714.github.io/底.png" width="1024" height="60">
-</div>
-
-
-</body>
+   <img id="banner" src="https://lily0714.github.io/IMG_20170214_201651.jpg" width="700" height="400">
+   <body>
+   <h1 id="title">Welcome to this page</h1>
+   <p id="subtitle">這裡是lily0714的網頁</p>
+   <div class="row">
+      <div class="col-md-1" id="homepage">首頁</div>
+      <div class="col-md-1" id="fb">facebook連結</div>
+   </div>
+   <div id="WRAPPER">
+      <div id="SIDE">
+          <div id="infor">
+          <p class="infortitle">個人資料</p>
+          <img src="http://lily0714.github.io/IMG_20161102_213309.jpg" width="145" height="249">
+          <ul>
+          <p>是個喜歡音樂、自我矛盾很嚴重的孩子。</p>
+          <p>姓名:陸映螢</p>
+          <p>學校:輔仁大學</p>
+          <p>學系:資訊工程學系</p>
+          <p>生日:0 7 月 1 4 日</p>
+          <a class="url" href="https://github.com/lily0714"><b>我的GitHub</b></a> 
+          </ul>
+          </div>
+      </div>
+      <div id="CONTENT">
+         <h3 class="post">目前文章</h3>
+         <p>目前尚未有新文章!</p>
+      </div>
+   </div>
+   <div id="FOOTER"> 
+      <img src="http://lily0714.github.io/底.png" width="1024" height="60">
+   </div>
+   </body>
 </div>
