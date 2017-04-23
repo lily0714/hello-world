@@ -128,7 +128,7 @@ color: orange;
    <div id="WRAPPER">
       <div id="LSIDE">
           <div id="infor">
-          <p class="infortitle">個人資料</p>
+          <p class="infortitle">個人資料3</p>
           <img src="http://lily0714.github.io/IMG_20161102_213309.jpg" width="145" height="249">
           <ul>
           <p class="icontent">是個喜歡音樂、自我矛盾很嚴重的孩子。</p>
