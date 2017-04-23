@@ -2,7 +2,7 @@
 <script type="text/javascript"> 
 $(document).ready(function() { 
 $("p.interest").css({cursor:"crosshair"}).click(function(){
-  $(".in1").toggle("normal");
+  $(".in1").slideToggle("slow");
   $(".in2").toggle("normal");
 });
 });
@@ -159,7 +159,7 @@ color: orange;
       </div>
       <div id="CONTENT">
          <h3 class="post">目前文章</h3>
-         <p >目前尚未有新文章3!</p>
+         <p >點選右列以查看更多資訊</p>
          
       </div>
    </div>
