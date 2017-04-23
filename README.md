@@ -27,7 +27,7 @@ word-wrap:break-word;
 margin:0; 
 } 
 #bantitle{
-background-color:#DDAA00;
+background-color:#FFFFE0;
 
 }
 #banner{ 
@@ -96,8 +96,7 @@ color: orange;
    <body>
    <div id="bantitle">
    <img id="banner" src="https://lily0714.github.io/IMG_20170214_201651.jpg" width="700" height="400">
-  /* <h1 id="title">Welcome to this page</h1>*/
-  /* <p id="subtitle">這裡是lily0714的網頁</p>*/
+  
    </div>
    <div id="WRAPPER">
       <div id="SIDE">
