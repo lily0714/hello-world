@@ -64,13 +64,20 @@ border-right-style:solid;
 border-bottom-style:solid; 
 border-color:#DDAA00;*/ 
 } 
-#SIDE { 
+#LSIDE { 
 float:left;
 width:162px; 
 border-width:2px; 
 border-left-style:solid; 
 border-right-style:solid; 
 border-bottom-style:solid; 
+border-color:#DDAA00; 
+}  
+#RSIDE { 
+float:right;
+width:162px;  
+border-left-style:dotted;  
+border-bottom-style:dotted; 
 border-color:#DDAA00; 
 }  
 .icontent{
@@ -110,8 +117,7 @@ color: orange;
   
    </div>
    <div id="WRAPPER">
-   <p class="interest">個人興趣</p>
-      <div id="SIDE">
+      <div id="LSIDE">
           <div id="infor">
           <p class="infortitle">個人資料</p>
           <img src="http://lily0714.github.io/IMG_20161102_213309.jpg" width="145" height="249">
@@ -125,6 +131,8 @@ color: orange;
           </ul>
           </div>
       </div>
+      <div id="RSIDE">
+      <p class="interest">個人興趣</p>
       <div id="CONTENT">
          <h3 class="post">目前文章</h3>
          <p >目前尚未有新文章!</p>
