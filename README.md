@@ -100,10 +100,6 @@ body{
    <body>
    <h1 id="title">Welcome to this page</h1>
    <p id="subtitle">這裡是lily0714的網頁</p>
-   
-      <button class="btn btn-default btn-primary" id="homepage">首頁</button>
-      <button class="btn btn-default btn-primary" id="fb">facebook連結</button>
-  
    <div id="WRAPPER">
       <div id="SIDE">
           <div id="infor">
