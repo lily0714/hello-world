@@ -10,11 +10,19 @@ $("p.in1").css({cursor:"pointer"}).click(function(){
   $(".draw").fadeIn("fast");
   $(".diy").fadeOut("fast");
   $(".post0").fadeOut("fast");
+  $(".music").fadeOut("fast");
 });
 $("p.in2").css({cursor:"pointer"}).click(function(){
   $(".diy").fadeIn("fast");
   $(".draw").fadeOut("fast");
   $(".post0").fadeOut("fast");
+  $(".music").fadeOut("fast");
+});
+$("p.in3").css({cursor:"pointer"}).click(function(){
+  $(".music").fadeIn("fast");
+  $(".draw").fadeOut("fast");
+  $(".post0").fadeOut("fast");
+  $(".diy").fadeOut("fast");
 });
 });
 </script>
@@ -239,6 +247,22 @@ color: orange;
                其實上面的那兩隻小熊也是我縫的，印象中他們也陪我兩三年有了吧。<br>
                其他手做等以後再慢慢更新吧。
             </div>
+         </div>
+          <div class="music">
+            <p class="post">演奏樂器</p>
+            <img class="post1" src="http://lily0714.github.io/music.png" >
+            <a href="http://lily0714.github.io/music.png"><br>點我看大圖<br></a>
+            <div class="dcontent">
+               高中的時候，曾經想學吉他。<br>
+               但因為手太小按不好和弦，當時家裡又有烏克麗麗的玩具，於是就開始學習烏克的和弦及刷法。<br>
+               靠著影片自學，漸漸學會了堪稱是"烏克麗麗界國歌"的小手拉大手。<br>
+               之後，除了靠影片自學，大一也加入社團學習。<br>
+               上了大學總想做點什麼特別的事，於是就又接觸了一個樂器－－口琴。<br>
+               加入口琴社從一開始的複音口琴，再來和弦口琴，最後半音階口琴，其中我感受到的一個要點是，<br>
+               ＂不管學什麼樂器，節奏都是很重要的。＂<br>
+               漸漸地，聽歌不再是只聽旋律部份，還會聽背景的鼓聲、低音部份，<br>
+               藉由這種練習，我發現對演奏樂器或是唱歌都很有用，都能穩穩地跟著節奏完成一首歌。
+            </div>
          </div>
        </div>
    </div>
