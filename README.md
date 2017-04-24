@@ -225,7 +225,7 @@ color: orange;
       </div>
       <div id="CONTENT">
          <div class="post0">
-           <p>這是lily0714的網頁3</p>
+           <p>這是lily0714的網頁</p>
            <p>點選右邊以查看更多內容</p>
          </div>
          <div class="draw">
