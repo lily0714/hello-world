@@ -23,9 +23,9 @@ font-size: 14px;
 background-color:#DDAA00;
 width:100px; height:30px; 
 color:#FFFFFF; 
-font-size:14px; 
+font-size:16px; 
 position:relative;
-left:2px;
+left:1px;
 }
 .draw{
 display: none;
@@ -35,6 +35,7 @@ display: none;
 color:#BB5500;
 font-size:12px;
 text-align:left; 
+background-color:#FFEE99;
 }
 .draw1{
 width:50%;
@@ -58,12 +59,15 @@ margin:0;
 background-color:#FFFFE0;
 border-style:dotted;
 border-color:#DDAA00;
+
 }
 #banner{ 
 background-repeat:no-repeat;
 background-position:center;
 margin:5px 5px; 
 padding:0;
+position:relative;
+text-align:center;
 } 
 #title{  
 text-align:center; 
