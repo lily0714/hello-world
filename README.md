@@ -24,7 +24,8 @@ background-color:#DDAA00;
 width:100px; height:30px; 
 color:#FFFFFF; 
 font-size:14px; 
-text-align:left; 
+position:relative;
+left:2px;
 }
 .draw{
 display: none;
