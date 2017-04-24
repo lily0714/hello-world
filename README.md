@@ -29,11 +29,12 @@ text-align:left;
 .draw{
 display: none;
 text-align:left; 
-float:left;
+line-height: 10px;
 }
 .draw1{
 width:50%;
 height:auto;
+float:left;
 }
 p { 
 font-size: 12px; 
