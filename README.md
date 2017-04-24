@@ -35,7 +35,6 @@ display: none;
 color:#BB5500;
 font-size:12px;
 text-align:left; 
-background-color:#FFEE99;
 }
 .draw1{
 width:50%;
@@ -67,7 +66,7 @@ background-position:center;
 margin:5px 5px; 
 padding:0;
 position:relative;
-text-align:center;
+left:250px;
 } 
 #title{  
 text-align:center; 
@@ -206,7 +205,7 @@ color: orange;
       </div>
       <div id="CONTENT">
          <p class="draw post1">畫畫</p>
-          <img class="draw draw1" src="http://lily0714.github.io/畫畫1.png" >
+          <img class="draw draw1" src="http://lily0714.github.io/畫畫1.png" ><br>
           <div class="draw dcontent">
          　這大概是從國中就開始畫的，我都叫他小饅頭人。<br>
            一開始只是隨手畫畫，並沒有想太多，但後來他成了我一小部分的自己。<br>
