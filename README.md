@@ -66,7 +66,7 @@ background-position:center;
 margin:5px 5px; 
 padding:0;
 position:relative;
-left:148px;
+left:140px;
 } 
 #title{  
 text-align:center; 
