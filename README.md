@@ -29,12 +29,10 @@ text-align:left;
 .draw{
 display: none;
 text-align:left; 
-line-height: 10px;
 }
 .draw1{
 width:50%;
 height:auto;
-float:left;
 }
 p { 
 font-size: 12px; 
@@ -197,10 +195,10 @@ color: orange;
       <div id="CONTENT">
          <h3 class="draw post1">畫畫</h3>
           <img class="draw draw1" src="http://lily0714.github.io/畫畫1.png" >
-         　<p class="draw">這大概是從國中就開始畫的，我都叫他小饅頭人。</p>
-          <p class="draw">一開始只是隨手畫畫，並沒有想太多，但後來他成了我一小部分的自己。</p>
-          <p class="draw">也許是長越大越覺得世界太複雜，他的存在總能時時提醒我小時候的單純。</p>
-          <p class="draw">而且我喜歡把他畫在甜點世界或是遊樂場，就像小孩一樣容易因為一些小事而開心的不得了。</p>
+         　<br class="draw">這大概是從國中就開始畫的，我都叫他小饅頭人。<br/>
+          <br class="draw">一開始只是隨手畫畫，並沒有想太多，但後來他成了我一小部分的自己。<br/>
+          <br class="draw">也許是長越大越覺得世界太複雜，他的存在總能時時提醒我小時候的單純。<br/>
+          <br class="draw">而且我喜歡把他畫在甜點世界或是遊樂場，就像小孩一樣容易因為一些小事而開心的不得了。<br/>
       </div>
    </div>
    <div id="FOOTER"> 
