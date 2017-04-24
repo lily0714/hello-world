@@ -9,10 +9,12 @@ $("p.interest").css({cursor:"pointer"}).click(function(){
 $("p.in1").css({cursor:"pointer"}).click(function(){
   $(".draw").fadeIn("fast");
   $(".diy").fadeOut("fast");
+  $(".post0").fadeOut("fast");
 });
 $("p.in2").css({cursor:"pointer"}).click(function(){
   $(".diy").fadeIn("fast");
   $(".draw").fadeOut("fast");
+  $(".post0").fadeOut("fast");
 });
 });
 </script>
@@ -211,8 +213,10 @@ color: orange;
          </div>
       </div>
       <div id="CONTENT">
-         <p class="post0">這是lily0714的網頁</p>
-         <p class="post0">點選右邊以查看更多內容</p>
+         <div class="post0">
+           <p>這是lily0714的網頁</p>
+           <p>點選右邊以查看更多內容</p>
+         </div>
          <div class="draw">
             <p class="post">畫畫</p>
             <img class="post1" src="http://lily0714.github.io/畫畫1.png" >
