@@ -1,7 +1,7 @@
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <script type="text/javascript"> 
 $(document).ready(function() { 
-$("p.interest").css({cursor:"crosshair"}).click(function(){
+$("p.interest").css({cursor:"pointer"}).click(function(){
   $(".in1").slideToggle("slow");
   $(".in2").slideToggle("slow");
   $(".in3").slideToggle("slow");
