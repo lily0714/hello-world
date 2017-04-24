@@ -4,6 +4,7 @@ $(document).ready(function() {
 $("p.interest").css({cursor:"crosshair"}).click(function(){
   $(".in1").slideToggle("slow");
   $(".in2").slideToggle("slow");
+  $(".in3").slideToggle("slow");
 });
 });
 </script>
@@ -17,7 +18,7 @@ font-size: 14px;
 } 
 .post{ 
 background-color:#DDAA00;
-width:600px; height:30px; 
+width:200px; height:30px; 
 color:#FFFFFF; 
 font-size:16px; 
 text-align:left; 
@@ -130,6 +131,18 @@ background: #DDAA00;
 text-decoration:underline;
 color:#FFFFFF;
 }
+.in3{ 
+display: none;
+width: 100%;
+padding: 10px 0px;
+background: #FFEE99;
+}
+.in3:hover{ 
+/*滑鼠移至區塊變色*/
+background: #DDAA00;
+text-decoration:underline;
+color:#FFFFFF;
+}
 /*超連結*/ 
 a:link { 
 color: saddlebrown; 
@@ -169,7 +182,8 @@ color: orange;
            <p class="interest">個人興趣</p>
            <p class="in1">畫畫</p>
            <p class="in2">出去玩</p>
-        </div>
+           <p class="in3">手做</p>
+        </div>
       </div>
       <div id="CONTENT">
          <h3 class="post">目前文章</h3>
