@@ -22,7 +22,10 @@ width:100px; height:30px;
 color:#FFFFFF; 
 font-size:14px; 
 text-align:left; 
-} 
+}
+p.post{
+text-align:left; 
+}
 p { 
 font-size: 12px; 
 font-family: Monospace; 
@@ -186,7 +189,7 @@ color: orange;
         </div>
       </div>
       <div id="CONTENT">
-         <h3 class="post1">畫畫</h3>
+         <h3 class="post">畫畫</h3>
          　<p class="draw">這大概是從國中就開始畫的，我都叫他小饅頭人。</p>
           <p class="draw">一開始只是隨手畫畫，並沒有想太多，但後來他成了我一小部分的自己。</p>
           <p class="draw">也許是長越大越覺得世界太複雜，他的存在總能時時提醒我小時候的單純。</p>
