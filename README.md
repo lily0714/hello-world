@@ -229,11 +229,13 @@ color: orange;
            <p>點選右邊以查看更多內容</p>
          </div>
          <div class="draw">
+            <br>
             <p class="post">畫畫</p>
             <img class="post1" src="http://lily0714.github.io/畫畫1.png" >
             <a href="http://lily0714.github.io/畫畫1.png"><br>點我看大圖<br></a>
             <div class="dcontent">
-               這大概是從國中就開始畫的，我都叫他小饅頭人。<br>
+            　<br>
+               這大概是從國中就開始畫的，我都叫他小饅頭人。<br>
                一開始只是隨手畫畫，並沒有想太多，但後來他成了我一小部分的自己。<br>
                也許是長越大越覺得世界太複雜，他的存在總能時時提醒我小時候的單純。<br>
                而且我喜歡把他畫在甜點世界或是遊樂場，就像小孩一樣容易因為一些小事而開心的不得了。
