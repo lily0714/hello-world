@@ -48,7 +48,6 @@ color:#BB5500;
 text-align:center;
 } 
 body{ 
-text-align:center; 
 double #FFF; 
 background-color:#FFEE99; 
 word-wrap:break-word; 
@@ -201,7 +200,7 @@ color: orange;
         </div>
       </div>
       <div id="CONTENT">
-         <h3 class="draw post1">畫畫</h3>
+         <p class="draw post1">畫畫</p>
           <img class="draw draw1" src="http://lily0714.github.io/畫畫1.png" >
           <div class="draw dcontent">
          　這大概是從國中就開始畫的，我都叫他小饅頭人。<br>
