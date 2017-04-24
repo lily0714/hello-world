@@ -66,7 +66,7 @@ background-position:center;
 margin:5px 5px; 
 padding:0;
 position:relative;
-left:150px;
+left:148px;
 } 
 #title{  
 text-align:center; 
@@ -207,7 +207,7 @@ color: orange;
          <p class="draw post1">畫畫</p>
           <img class="draw draw1" src="http://lily0714.github.io/畫畫1.png" >
           <div class="draw dcontent">
-         　<p>
+         　<p></p>
            這大概是從國中就開始畫的，我都叫他小饅頭人。<br>
            一開始只是隨手畫畫，並沒有想太多，但後來他成了我一小部分的自己。<br>
            也許是長越大越覺得世界太複雜，他的存在總能時時提醒我小時候的單純。<br>
