@@ -31,6 +31,10 @@ text-align:left;
 display: none;
 text-align:left; 
 }
+.draw1{
+width:100%;
+height:auto;
+}
 p { 
 font-size: 12px; 
 font-family: Monospace; 
@@ -195,8 +199,8 @@ color: orange;
         </div>
       </div>
       <div id="CONTENT">
-         <h3 class="post1">畫畫</h3>
-          <img src="http://lily0714.github.io/畫畫1.png"  width=100% height=100% >
+         <h3 class="draw post1">畫畫</h3>
+          <img class="draw draw1" src="http://lily0714.github.io/畫畫1.png" >
          　<p class="draw">這大概是從國中就開始畫的，我都叫他小饅頭人。</p>
           <p class="draw">一開始只是隨手畫畫，並沒有想太多，但後來他成了我一小部分的自己。</p>
           <p class="draw">也許是長越大越覺得世界太複雜，他的存在總能時時提醒我小時候的單純。</p>
