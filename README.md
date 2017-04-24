@@ -112,7 +112,7 @@ border-color:#DDAA00;
 #CONTENT {
 margin-left:200px; 
 width:902px;
-height:520px;
+height:550px;
 float:none;
 } 
 #LSIDE { 
