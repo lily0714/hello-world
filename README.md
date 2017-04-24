@@ -48,6 +48,9 @@ display: none;
 .diy{
 display: none;
 }
+.music{
+display: none;
+}
 .dcontent{
 color:#BB5500;
 font-size:12px;
