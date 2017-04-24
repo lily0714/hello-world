@@ -8,6 +8,11 @@ $("p.interest").css({cursor:"pointer"}).click(function(){
 });
 $("p.in1").css({cursor:"pointer"}).click(function(){
   $(".draw").fadeIn("fast");
+  $(".diy").fadeOut("fast");
+});
+$("p.in2").css({cursor:"pointer"}).click(function(){
+  $(".diy").fadeIn("fast");
+  $(".draw").fadeOut("fast");
 });
 });
 </script>
@@ -19,7 +24,7 @@ height:20px;
 color:#FFFFFF; 
 font-size: 14px; 
 } 
-.post1{ 
+.post{ 
 background-color:#DDAA00;
 width:100px; height:30px; 
 color:#FFFFFF; 
@@ -29,14 +34,16 @@ left:1px;
 }
 .draw{
 display: none;
-
+}
+.diy{
+display: none;
 }
 .dcontent{
 color:#BB5500;
 font-size:12px;
 text-align:left; 
 }
-.draw1{
+.post1{
 width:50%;
 height:auto;
 position:relative;
@@ -196,25 +203,40 @@ color: orange;
           </div>
       </div>
       <div id="RSIDE">
-        <div class="menu">
+         <div class="menu">
            <p class="interest">個人興趣</p>
            <p class="in1">畫畫</p>
-           <p class="in2">出去玩</p>
-           <p class="in3">手做</p>
-        </div>
+           <p class="in2">手做</p>
+           <p class="in3">演奏樂器</p>
+         </div>
       </div>
       <div id="CONTENT">
-         <p class="draw post1">畫畫</p>
-          <img class="draw draw1" src="http://lily0714.github.io/畫畫1.png" >
-          <div class="draw dcontent">
-         　<br>
-           這大概是從國中就開始畫的，我都叫他小饅頭人。<br>
-           
-           一開始只是隨手畫畫，並沒有想太多，但後來他成了我一小部分的自己。<br>
-           也許是長越大越覺得世界太複雜，他的存在總能時時提醒我小時候的單純。<br>
-           而且我喜歡把他畫在甜點世界或是遊樂場，就像小孩一樣容易因為一些小事而開心的不得了。
-          </div>
-      </div>
+         <p class="post0">這是lily0714的網頁</p>
+         <p class="post0">點選右邊以查看更多內容</p>
+         <div class="draw">
+            <p class="post">畫畫</p>
+            <img class="post1" src="http://lily0714.github.io/畫畫1.png" >
+            <a href="http://lily0714.github.io/畫畫1.png"><br>點我看大圖<br></a>
+            <div class="dcontent">
+               這大概是從國中就開始畫的，我都叫他小饅頭人。<br>
+               一開始只是隨手畫畫，並沒有想太多，但後來他成了我一小部分的自己。<br>
+               也許是長越大越覺得世界太複雜，他的存在總能時時提醒我小時候的單純。<br>
+               而且我喜歡把他畫在甜點世界或是遊樂場，就像小孩一樣容易因為一些小事而開心的不得了。
+            </div>
+         </div>
+         <div class="diy">
+            <p class="post">手做</p>
+            <img class="post1" src="http://lily0714.github.io/手做一.png" >
+            <a href="http://lily0714.github.io/手做一.png"><br>點我看大圖<br></a>
+            <div class="dcontent">
+               這是最近幾天做的桌曆。<br>
+               原本是只買了計畫紙，突如其來的靈感讓我想把它變成桌曆。<br>
+               這成本其實大概三十塊錢，而且封面是可以"撕下"每年做替換的。<br>
+               其實上面的那兩隻小熊也是我縫的，印象中他們也陪我兩三年有了吧。<br>
+               其他手做等以後再慢慢更新吧。
+            </div>
+         </div>
+       </div>
    </div>
    <div id="FOOTER"> 
       <img src="http://lily0714.github.io/底.png" width="1024" height="60">
