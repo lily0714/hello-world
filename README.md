@@ -20,7 +20,7 @@ height:20px;
 color:#FFFFFF; 
 font-size: 14px; 
 } 
-.post{ 
+.post1{ 
 background-color:#DDAA00;
 width:100px; height:30px; 
 color:#FFFFFF; 
