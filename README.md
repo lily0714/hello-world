@@ -20,7 +20,7 @@ font-size: 14px;
 background-color:#DDAA00;
 width:100px; height:30px; 
 color:#FFFFFF; 
-font-size:16px; 
+font-size:14px; 
 text-align:left; 
 } 
 p { 
@@ -110,7 +110,6 @@ color:#FFFFFF;
 .in1{ 
 display: none;
 width: 100%;
-height: 50%;
 padding: 10px 0px;
 background: #FFEE99;
 }
