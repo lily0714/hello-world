@@ -28,8 +28,7 @@ text-align:left;
 }
 .draw{
 display: none;
-position:absolute;
-left:0px;
+
 }
 .dcontent{
 color:#BB5500;
@@ -39,7 +38,8 @@ text-align:left;
 .draw1{
 width:50%;
 height:auto;
-
+position:relative;
+left:0px;
 }
 p { 
 font-size: 12px; 
