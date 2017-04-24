@@ -35,8 +35,8 @@ color:#FFFFFF;
 font-size: 14px; 
 } 
 .ipic{
-position:relative;
-left:1px;
+display:block;
+margin:auto;
 }
 .post{ 
 background-color:#DDAA00;
