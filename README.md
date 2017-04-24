@@ -7,8 +7,7 @@ $("p.interest").css({cursor:"pointer"}).click(function(){
   $(".in3").slideToggle("slow");
 });
 $("p.in1").css({cursor:"pointer"}).click(function(){
-  $(".post1").fadeToggle("fast");
-  $(".draw").fadeToggle("fast");
+  $(".draw").fadeIn("fast");
 });
 });
 </script>
@@ -32,7 +31,7 @@ display: none;
 text-align:left; 
 }
 .draw1{
-width:100%;
+width:50%;
 height:auto;
 }
 p { 
