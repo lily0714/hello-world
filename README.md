@@ -29,6 +29,7 @@ text-align:left;
 .draw{
 display: none;
 text-align:left; 
+float:left;
 }
 .draw1{
 width:50%;
@@ -79,11 +80,6 @@ border-color:#DDAA00;
 margin-left:200px; 
 width:902px;
 height:520px;
-/*border-width:2px;
-border-left-style:solid; 
-border-right-style:solid; 
-border-bottom-style:solid; 
-border-color:#DDAA00;*/ 
 } 
 #LSIDE { 
 float:left;
