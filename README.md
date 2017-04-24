@@ -34,6 +34,10 @@ height:20px;
 color:#FFFFFF; 
 font-size: 14px; 
 } 
+.ipic{
+position:relative;
+left:1px;
+}
 .post{ 
 background-color:#DDAA00;
 width:100px; height:30px; 
@@ -204,7 +208,7 @@ color: orange;
       <div id="LSIDE">
           <div id="infor">
           <p class="infortitle">個人資料</p>
-          <img src="http://lily0714.github.io/IMG_20161102_213309.jpg" width="145" height="249">
+          <img class="ipic" src="http://lily0714.github.io/IMG_20161102_213309.jpg" width="145" height="249">
           <ul>
           <p class="icontent">是個喜歡音樂、自我矛盾很嚴重的孩子。</p>
           <p class="icontent">姓名:陸映螢</p>
