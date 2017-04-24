@@ -20,10 +20,10 @@ font-size: 14px;
 background-color:#DDAA00;
 width:100px; height:30px; 
 color:#FFFFFF; 
-font-size:14px; 
+font-size:12px; 
 text-align:left; 
 }
-.post p:{
+.draw{
 text-align:left; 
 }
 p { 
