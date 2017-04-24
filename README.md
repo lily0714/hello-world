@@ -18,7 +18,7 @@ font-size: 14px;
 } 
 .post{ 
 background-color:#DDAA00;
-width:200px; height:30px; 
+width:100px; height:30px; 
 color:#FFFFFF; 
 font-size:16px; 
 text-align:left; 
@@ -110,6 +110,7 @@ color:#FFFFFF;
 .in1{ 
 display: none;
 width: 100%;
+height: 50%;
 padding: 10px 0px;
 background: #FFEE99;
 }
