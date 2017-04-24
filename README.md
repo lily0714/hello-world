@@ -6,6 +6,9 @@ $("p.interest").css({cursor:"pointer"}).click(function(){
   $(".in2").slideToggle("slow");
   $(".in3").slideToggle("slow");
 });
+$("p.in1").css({cursor:"pointer"}).click(function(){
+  $(".draw").fadeToggle("fast");
+});
 });
 </script>
 <style> 
@@ -24,6 +27,7 @@ font-size:12px;
 text-align:left; 
 }
 .draw{
+display: none;
 text-align:left; 
 }
 p { 
@@ -89,6 +93,7 @@ border-color:#DDAA00;
 #RSIDE { 
 float:right;
 width:162px;  
+heigt:520px;
 border-left-style:dotted;  
 border-bottom-style:dotted; 
 border-color:#DDAA00; 
