@@ -28,14 +28,18 @@ text-align:left;
 }
 .draw{
 display: none;
-text-align:left; 
+position:absolute;
+left:0px;
 }
 .dcontent{
 color:#BB5500;
+font-size:12px;
+text-align:left; 
 }
 .draw1{
 width:50%;
 height:auto;
+
 }
 p { 
 font-size: 12px; 
