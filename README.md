@@ -26,7 +26,13 @@ $("p.in3").css({cursor:"pointer"}).click(function(){
 });
 $(".categoryho").click(function(){
    $(".category").toggle("fast");
-   $(".categoryho").toggle({left:"200px"});
+   $(".categoryho").css({display:"none"});
+   $(".categoryhide").css({display:"block"});
+});
+$(".categoryhide").click(function(){
+   $(".category").toggle("fast");
+   $(".categoryhide").css({display:"none"});
+   $(".categoryho").css({display:"block"});
 });
 });
 </script>
@@ -86,7 +92,27 @@ position:relative;
 top:200px;
 z-index:5;
 }
+.categoryhide{
+width:30px;
+height:170px;
+background-color:#dc7d1f;
+color:white;
+float:left;
+position:relative;
+top:200px;
+left:200px;
+z-index:5;
+display:none;
+}
 .categoryho:hover{
+left:5px;
+color:yellow;
+outline:none;
+border-color: #dc7d1f;
+box-shadow:0 0 10px #dc7d1f;
+cursor:pointer;
+}
+.categoryhide:hover{
 left:5px;
 color:yellow;
 outline:none;
@@ -237,6 +263,8 @@ color: orange;
    <body>
    <div class="categoryho">
    點我查看更多</div>
+   <div class="categoryhide">
+   點我收起來</div>
    <div class="category">
       <ul>個人興趣
       <li>畫畫</li>
@@ -244,7 +272,6 @@ color: orange;
       <li>演奏樂器</li>
       </ul>
       </div>
-  
    <div id="bantitle">
    <img id="banner" src="http://lily0714.github.io/20170424改.jpg" width="700" height="400">
   
