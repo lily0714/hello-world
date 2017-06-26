@@ -26,7 +26,7 @@ $("p.in3").css({cursor:"pointer"}).click(function(){
 });
 $(".categoryho").click(function(){
    $(".category").toggle("fast");
-   $(".categoryho").css({left:"200px"});
+   $(".categoryho").toggle({left:"200px"});
 });
 });
 </script>
