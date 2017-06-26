@@ -122,12 +122,12 @@ cursor:pointer;
 }
 .category{
 width:200px;
-height:100%;
+height:1000px;
 float:left;
 display:none;
 background-color:#dc7d1f;
 color:white;
-position:fixed;
+position:relative;
 z-index:5;
 }
 body{ 
