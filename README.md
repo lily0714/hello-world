@@ -24,6 +24,20 @@ $("p.in3").css({cursor:"pointer"}).click(function(){
   $(".post0").fadeOut("fast");
   $(".diy").fadeOut("fast");
 });
+$(".categoryho").css({cursor:"pointer"}).mouseenter(function(){
+  $(".category").animate({
+  left:'5px';
+  color:'red';
+  outline: 'none';
+  border-color: '#dc7d1f';
+  box-shadow: '0' '0' '10px' '#dc7d1f';
+  });
+});
+$(".categoryho").css({cursor:"pointer"}).click(function(){
+   $(".category").animate({
+   width:'toggle';
+   });
+});
 });
 </script>
 <style> 
@@ -72,10 +86,23 @@ font-family: Monospace;
 color:#BB5500; 
 text-align:center;
 } 
-.category{
-height:100%;
-background-color:brown;
+.categoryho{
+width:30px;
+height:170px;
+background-color:#dc7d1f;
 color:white;
+float:left;
+position:relative;
+top:200px;
+}
+.category{
+width:200px;
+height:100%;
+float:left;
+block:none;
+background-color:#dc7d1f;
+color:white;
+position:relative;
 }
 body{ 
 double #FFF; 
@@ -208,13 +235,16 @@ color: orange;
 } 
 </style>
    <body>
+   <div class="categoryho">
+   點我查看更多</div>
    <div class="category">
-   <ul>
-   <li>畫畫</li>
-   <li>手做</li>
-   <li>演奏樂器</li>
-   </ul>
-   </div>
+      <ul>個人興趣
+      <li>畫畫</li>
+      <li>手做</li>
+      <li>演奏樂器</li>
+      </ul>
+      </div>
+  
    <div id="bantitle">
    <img id="banner" src="http://lily0714.github.io/20170424改.jpg" width="700" height="400">
   
