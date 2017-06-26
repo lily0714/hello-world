@@ -99,7 +99,7 @@ top:200px;
 width:200px;
 height:100%;
 float:left;
-block:none;
+display:none;
 background-color:#dc7d1f;
 color:white;
 position:relative;
