@@ -72,12 +72,20 @@ font-family: Monospace;
 color:#BB5500; 
 text-align:center;
 } 
+.category{
+height:100%;
+background-color:brown;
+color:white;
+}
 body{ 
 double #FFF; 
 background-color:#FFEE99; 
 word-wrap:break-word; 
 margin:0; 
-} 
+}
+ul {
+list-style-type: none;
+}
 #bantitle{
 background-color:#FFFFE0;
 border-style:dotted;
@@ -200,7 +208,14 @@ color: orange;
 } 
 </style>
    <body>
-   <div id="bantitle">
+   <div class="category">
+   <ul>
+   <li>畫畫</li>
+   <li>手做</li>
+   <li>演奏樂器</li>
+   </ul>
+   </div>
+   <div id="bantitle">
    <img id="banner" src="http://lily0714.github.io/20170424改.jpg" width="700" height="400">
   
    </div>
