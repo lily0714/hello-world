@@ -26,6 +26,7 @@ $("p.in3").css({cursor:"pointer"}).click(function(){
 });
 $(".categoryho").click(function(){
    $(".category").toggle("fast");
+   $(".categoryho").css({left:"200px"});
 });
 });
 </script>
@@ -83,13 +84,15 @@ color:white;
 float:left;
 position:relative;
 top:200px;
+z-index:5;
 }
-.category:hover{
+.categoryho:hover{
 left:5px;
 color:yellow;
 outline:none;
 border-color: #dc7d1f;
 box-shadow:0 0 10px #dc7d1f;
+cursor:pointer;
 }
 .category{
 width:200px;
@@ -98,7 +101,8 @@ float:left;
 display:none;
 background-color:#dc7d1f;
 color:white;
-position:relative;
+position:fixed;
+z-index:5;
 }
 body{ 
 double #FFF; 
