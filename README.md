@@ -24,7 +24,7 @@ $("p.in3").css({cursor:"pointer"}).click(function(){
   $(".post0").fadeOut("fast");
   $(".diy").fadeOut("fast");
 });
-$(".categoryho").css({cursor:"pointer"}).mouseenter(function(){
+$(".categoryho").css({cursor:"pointer"}).mouseover(function(){
   $(".category").animate({
   left:'5px';
   color:'red';
