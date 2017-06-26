@@ -26,17 +26,15 @@ $("p.in3").css({cursor:"pointer"}).click(function(){
 });
 $("div.categoryho").css({cursor:"pointer"}).mouseover(function(){
   $("div.category").animate({
-  left:'5px';
-  color:'red';
-  outline: 'none';
-  border-color: '#dc7d1f';
-  box-shadow: '0' '0' '10px' '#dc7d1f';
+  left:'5px',
+  color:'red',
+  outline: 'none',
+  border-color: '#dc7d1f',
+  box-shadow: '0' '0' '10px' '#dc7d1f'
   });
 });
 $("div.categoryho").css({cursor:"pointer"}).click(function(){
-   $("div.category").animate({
-   width:'toggle';
-   });
+   $("div.category").animate({width:'toggle'});
 });
 });
 </script>
