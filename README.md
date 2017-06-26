@@ -24,17 +24,8 @@ $("p.in3").css({cursor:"pointer"}).click(function(){
   $(".post0").fadeOut("fast");
   $(".diy").fadeOut("fast");
 });
-$(".categoryho").mouseover(function(){
-  $(".category").animate({
-  left:'5px',
-  color:'red',
-  outline: 'none',
-  border-color: '#dc7d1f',
-  box-shadow: '0' '0' '10px' '#dc7d1f'
-  });
-});
-$("div.categoryho").css({cursor:"pointer"}).click(function(){
-   $("div.category").animate({width:'toggle'});
+$(".categoryho").click(function(){
+   $(".category").toggle("fast");
 });
 });
 </script>
@@ -92,6 +83,13 @@ color:white;
 float:left;
 position:relative;
 top:200px;
+}
+.category:hover{
+left:5px;
+color:yellow;
+outline:none;
+border-color: #dc7d1f;
+box-shadow:0 0 10px #dc7d1f;
 }
 .category{
 width:200px;
