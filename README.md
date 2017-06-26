@@ -24,8 +24,8 @@ $("p.in3").css({cursor:"pointer"}).click(function(){
   $(".post0").fadeOut("fast");
   $(".diy").fadeOut("fast");
 });
-$(".categoryho").css({cursor:"pointer"}).mouseover(function(){
-  $(".category").animate({
+$("div.categoryho").css({cursor:"pointer"}).mouseover(function(){
+  $("div.category").animate({
   left:'5px';
   color:'red';
   outline: 'none';
@@ -33,8 +33,8 @@ $(".categoryho").css({cursor:"pointer"}).mouseover(function(){
   box-shadow: '0' '0' '10px' '#dc7d1f';
   });
 });
-$(".categoryho").css({cursor:"pointer"}).click(function(){
-   $(".category").animate({
+$("div.categoryho").css({cursor:"pointer"}).click(function(){
+   $("div.category").animate({
    width:'toggle';
    });
 });
