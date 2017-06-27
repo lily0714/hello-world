@@ -26,13 +26,13 @@ $("p.in3").css({cursor:"pointer"}).click(function(){
 });
 $(".categoryho").click(function(){
    $(".category").toggle("fast");
-   $(".categoryho").toggle("fast");
-   $(".categoryhide").toggle("fast");
+   $(".categoryho").fadeOut("fast");
+   $(".categoryhide").fedeIn("fast");
 });
 $(".categoryhide").click(function(){
    $(".category").toggle("fast");
-   $(".categoryhide").toggle("fast");
-   $(".categoryho").toggle("fast");
+   $(".categoryhide").fadeOut("fast");
+   $(".categoryho").fadeIn("fast");
 });
 });
 </script>
