@@ -27,7 +27,7 @@ $("p.in3").css({cursor:"pointer"}).click(function(){
 $(".categoryho").click(function(){
    $(".category").toggle("fast");
    $(".categoryho").css({display:"none"});
-   $(".categoryhide").toggle("fast");
+   $(".categoryhide").css({display:"block"});
 });
 $(".categoryhide").click(function(){
    $(".category").toggle("fast");
@@ -100,8 +100,8 @@ color:white;
 float:left;
 position:absolute;
 top:200px;
-left:230px;
-z-index:5;
+left:260px;
+z-index:6;
 display:none;
 }
 .categoryho:hover{
@@ -122,7 +122,7 @@ cursor:pointer;
 }
 .category{
 width:200px;
-height:1000px;
+height:480px;
 float:left;
 display:none;
 background-color:#dc7d1f;
