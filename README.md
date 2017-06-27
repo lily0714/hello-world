@@ -27,7 +27,7 @@ $("p.in3").css({cursor:"pointer"}).click(function(){
 $(".categoryho").click(function(){
    $(".category").toggle("fast");
    $(".categoryho").css({display:"none"});
-   $(".categoryhide").css({display:"block"});
+   $(".categoryhide").toggle("fast");
 });
 $(".categoryhide").click(function(){
    $(".category").toggle("fast");
@@ -88,7 +88,7 @@ height:170px;
 background-color:#dc7d1f;
 color:white;
 float:left;
-position:relative;
+position:absolute;
 top:200px;
 z-index:5;
 }
@@ -98,9 +98,9 @@ height:170px;
 background-color:#dc7d1f;
 color:white;
 float:left;
-position:relative;
+position:absolute;
 top:200px;
-left:200px;
+left:230px;
 z-index:5;
 display:none;
 }
@@ -127,7 +127,7 @@ float:left;
 display:none;
 background-color:#dc7d1f;
 color:white;
-position:relative;
+position:absolute;
 z-index:5;
 }
 body{ 
@@ -271,7 +271,7 @@ color: orange;
       <li>手做</li>
       <li>演奏樂器</li>
       </ul>
-      </div>
+   </div>
    <div id="bantitle">
    <img id="banner" src="http://lily0714.github.io/20170424改.jpg" width="700" height="400">
   
