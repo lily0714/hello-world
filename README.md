@@ -24,6 +24,12 @@ $("p.in3").css({cursor:"pointer"}).click(function(){
   $(".post0").fadeOut("fast");
   $(".diy").fadeOut("fast");
 });
+$("p.post0").css({cursor:"pointer"}).click(function(){
+  $(".post0").fadeIn("fast");
+  $(".draw").fadeOut("fast");
+  $(".music").fadeOut("fast");
+  $(".diy").fadeOut("fast");
+});
 $(".categoryho").click(function(){
    $(".category").css({left:"-20px"});
    $(".categoryho").hide();
