@@ -146,7 +146,14 @@ font-family: Microsoft JhengHei;
 border-color: #dc7d1f;
 box-shadow:0 0 10px #dc7d1f;
 }
-#cat_in{
+#cat_home{
+background-color:red;
+color:white;
+font-size:16px;
+position:relative;
+top:20px;
+}
+.cat_item{
 background-color:#bb5f43;
 color:white;
 font-size:16px;
@@ -303,12 +310,14 @@ color: orange;
    <div class="categoryho">點我查看更多</div>
    <div class="categoryhide">點我收起來</div>
    <div class="category">
-   <ul><p id="cat_in">個人興趣</p>
-   --------------------------
+   <p id="cat_home"><a href="https://lily0714.github.io/">首 頁</a></p>
+   <ul><p class="cat_item">個人興趣</p>
+   ------------------------
       <li class="cat_inin">畫畫</li>
       <li class="cat_inin">手做</li>
       <li class="cat_inin">演奏樂器</li>
-      </ul>
+   </ul>
+   <p class="cat_item">留言板</p>
    </div>
    <div id="bantitle">
    <img id="banner" src="http://lily0714.github.io/20170424改.jpg" width="700" height="400">
