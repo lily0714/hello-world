@@ -304,7 +304,6 @@ a:visited {
 color: white; 
 } 
 a:hover {  
-color:yellow;
 } 
 a:active { 
 color: orange;
