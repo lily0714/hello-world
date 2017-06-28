@@ -150,7 +150,7 @@ border-color: #dc7d1f;
 box-shadow:0 0 10px #dc7d1f;
 }
 #cat_home{
-background-color:#940909;
+background-color:#ffee99;
 color:white;
 font-size:16px;
 position:relative;
@@ -301,9 +301,10 @@ a:link {
 color: white; 
 } 
 a:visited { 
-color: white; 
+color:#990000; 
 } 
 a:hover {  
+color:#990000;
 } 
 a:active { 
 color: orange;
