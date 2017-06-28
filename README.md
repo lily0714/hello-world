@@ -360,7 +360,6 @@ color: orange;
       <div id="CONTENT">
          <div class="post0">
          <center>
-         <img class="icon" src="https://lily0714.github.io/15.png">
          <p>----------------------------</p>
            <p>這是lily0714的網頁</p>
            <p>開站日期:2017/03/18</p>
