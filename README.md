@@ -160,11 +160,13 @@ font-family:Microsoft JhengHei;
 }
 ul {
 list-style-type: none;
+font-family: Microsoft JhengHei;
 }
 #bantitle{
 background-color:#FFFFE0;
 border-style:dotted;
 border-color:#DDAA00;
+font-family: Microsoft JhengHei;
 }
 #banner{ 
 background-repeat:no-repeat;
@@ -190,12 +192,14 @@ width:980px;
 background-color:#FFFFE0;
 border-style:dotted;
 border-color:#DDAA00;
+font-family: Microsoft JhengHei;
 } 
 #CONTENT {
 margin-left:200px; 
 width:902px;
 height:550px;
 float:none;
+font-family: Microsoft JhengHei;
 } 
 #LSIDE { 
 float:left;
@@ -205,6 +209,7 @@ border-left-style:solid;
 border-right-style:solid; 
 border-bottom-style:solid; 
 border-color:#DDAA00; 
+font-family: Microsoft JhengHei;
 }  
 #RSIDE { 
 float:right;
@@ -213,6 +218,7 @@ heigt:520px;
 border-left-style:dotted;  
 border-bottom-style:dotted; 
 border-color:#DDAA00; 
+font-family: Microsoft JhengHei;
 }  
 .icontent{
 text-align:left;
@@ -321,7 +327,8 @@ color: orange;
       </div>
       <div id="CONTENT">
          <div class="post0">
-           <p>這是lily0714的網頁</p>
+           <p>開站日期:2017/03/18</p>
+           <p>這是lily0714的網頁</p>
            <p>點選右邊以查看更多內容</p>
          </div>
          <div class="draw">
