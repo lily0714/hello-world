@@ -25,12 +25,15 @@ $("p.in3").css({cursor:"pointer"}).click(function(){
   $(".diy").fadeOut("fast");
 });
 $(".categoryho").click(function(){
-   $(".category").toggle("fast");
+   $(".category").css({left:"0px"});
    $(".categoryho").hide();
    $(".categoryhide").show();
 });
+$(".categoryho").mouseenter(function(){
+   $(".category").css({left:"-195px"});
+});
 $(".categoryhide").click(function(){
-   $(".category").toggle("fast");
+   $(".category").css({left:"-200px"});
    $(".categoryhide").hide();
    $(".categoryho").show();
 });
@@ -90,6 +93,7 @@ color:white;
 float:left;
 position:absolute;
 top:200px;
+left:0px;
 z-index:5;
 }
 .categoryhide{
@@ -100,7 +104,7 @@ color:white;
 float:left;
 position:absolute;
 top:200px;
-left:230px;
+left:120px;
 z-index:6;
 display:none;
 }
@@ -110,6 +114,7 @@ outline:none;
 border-color: #dc7d1f;
 box-shadow:0 0 10px #dc7d1f;
 cursor:pointer;
+left:2px;
 }
 .categoryhide:hover{
 color:yellow;
@@ -127,6 +132,11 @@ background-color:#dc7d1f;
 color:white;
 position:absolute;
 z-index:5;
+left:-200px;
+}
+.category:hover{
+border-color: #dc7d1f;
+box-shadow:0 0 10px #dc7d1f;
 }
 body{ 
 double #FFF; 
@@ -259,10 +269,8 @@ color: orange;
 } 
 </style>
    <body>
-   <div class="categoryho">
-   點我查看更多</div>
-   <div class="categoryhide">
-   點我收起來</div>
+   <div class="categoryho">點我查看更多</div>
+   <div class="categoryhide">點我收起來</div>
    <div class="category">
       <ul>個人興趣
       <li>畫畫</li>
@@ -278,7 +286,7 @@ color: orange;
       <div id="LSIDE">
           <div id="infor">
           <p class="infortitle">個人資料</p>
-          <img class="ipic" src="http://lily0714.github.io/IMG_20161102_213309.jpg" width="145" height="249">
+          <img class="ipic" src="http://lily0714.github.io/20170628.jpg" width="145" height="249">
           <ul>
           <p class="icontent">是個喜歡音樂、自我矛盾很嚴重的孩子。</p>
           <p class="icontent">姓名:陸映螢</p>
