@@ -155,7 +155,8 @@ body{
 double #FFF; 
 background-color:#FFEE99; 
 word-wrap:break-word; 
-margin:0; 
+margin:0;
+font-family:Microsoft JhengHei;
 }
 ul {
 list-style-type: none;
