@@ -118,7 +118,7 @@ border-color: #dc7d1f;
 box-shadow:0 0 10px #dc7d1f;
 }
 #cat_home{
-background-color:rgb(253, 211, 5);
+background-color:#ffee99;
 color:white;
 font-size:16px;
 position:relative;
@@ -228,12 +228,12 @@ color: orange;
    </ul>
    <ul><p class="cat_item">個人興趣</p>
    ------------------------
-      <li class="cat_inin">畫畫</li>
-      <li class="cat_inin">手做</li>
-      <li class="cat_inin">演奏樂器</li>
+   <li class="cat_inin"><a href="https://lily0714.github.io/interest/draw">畫畫</a></li>
+   <li class="cat_inin"><a href="https://lily0714.github.io/interest/diy">手做</a></li>
+   <li class="cat_inin"><a href="https://lily0714.github.io/interest/music">演奏樂器</a></li>
    </ul>
    <ul><p class="cat_item">留言板</p>
-   ------------------------
+   -----------------------
    </ul>
    </div>
    <div id="bantitle">
