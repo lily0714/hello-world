@@ -50,7 +50,7 @@ display:block;
 margin:auto;
 }
 .icon{
-background-color:#fff;
+background-color:#ffffe0;
 }
 .post{ 
 background-color:#DDAA00;
