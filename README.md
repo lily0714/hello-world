@@ -25,12 +25,15 @@ $("p.in3").css({cursor:"pointer"}).click(function(){
   $(".diy").fadeOut("fast");
 });
 $(".categoryho").click(function(){
-   $(".category").css({left:"0px"});
+   $(".category").css({left:"-180px"});
    $(".categoryho").hide();
    $(".categoryhide").show();
 });
 $(".categoryho").mouseenter(function(){
    $(".category").css({left:"-195px"});
+});
+$(".categoryho").mouseleave(function(){
+   $(".category").css({left:"-200px"});
 });
 $(".categoryhide").click(function(){
    $(".category").css({left:"-200px"});
@@ -104,7 +107,7 @@ color:white;
 float:left;
 position:absolute;
 top:200px;
-left:120px;
+left:180px;
 z-index:6;
 display:none;
 }
@@ -127,7 +130,6 @@ cursor:pointer;
 width:200px;
 height:400px;
 float:left;
-display:none;
 background-color:#dc7d1f;
 color:white;
 position:absolute;
