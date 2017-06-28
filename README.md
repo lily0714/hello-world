@@ -29,12 +29,6 @@ $(".categoryho").click(function(){
    $(".categoryho").hide();
    $(".categoryhide").show();
 });
-$(".categoryho").mouseenter(function(){
-   $(".category").css({left:"-195px"});
-});
-$(".categoryho").mouseleave(function(){
-   $(".category").css({left:"-200px"});
-});
 $(".categoryhide").click(function(){
    $(".category").css({left:"-200px"});
    $(".categoryhide").hide();
@@ -140,6 +134,13 @@ left:-200px;
 border-color: #dc7d1f;
 box-shadow:0 0 10px #dc7d1f;
 }
+#cat_in{
+background-color:brown;
+}
+.cat_inin:hover{
+background-color:white;
+opacity:0.7;
+}
 body{ 
 double #FFF; 
 background-color:#FFEE99; 
@@ -153,7 +154,6 @@ list-style-type: none;
 background-color:#FFFFE0;
 border-style:dotted;
 border-color:#DDAA00;
-
 }
 #banner{ 
 background-repeat:no-repeat;
@@ -274,10 +274,10 @@ color: orange;
    <div class="categoryho">點我查看更多</div>
    <div class="categoryhide">點我收起來</div>
    <div class="category">
-      <ul>個人興趣
-      <li>畫畫</li>
-      <li>手做</li>
-      <li>演奏樂器</li>
+   <ul><p id="cat_in">個人興趣</p>
+      <li class="cat_inin">畫畫</li>
+      <li class="cat_inin">手做</li>
+      <li class="cat_inin">演奏樂器</li>
       </ul>
    </div>
    <div id="bantitle">
