@@ -337,19 +337,19 @@ color: orange;
           <p class="icontent">學校:輔仁大學</p>
           <p class="icontent">學系:資訊工程學系</p>
           <p class="icontent">生日:0 7 月 1 4 日</p>
-          <img class="icon" src="https://lily0714.github.io/GitHub-Mark-32px.png" onclick="https://github.com/lily0714"> 
+          <a href="https://github.com/lily0714" target="_blank"><img class="icon" src="https://lily0714.github.io/GitHub-Mark-32px.png" alt="lily0714"></a> 
           </ul>
           </div>
       </div>
       <div id="RSIDE">
          <div class="menu">
            <p class="interest">主 頁</p>
-           <p class="interest">夢想起緣</p>
+           <p class="dream">夢想萌芽</p>
            <p class="interest">個人興趣</p>
            <p class="in1">畫畫</p>
            <p class="in2">手做</p>
            <p class="in3">演奏樂器</p>
-           <p class="interest">留言板</p>
+           <p class="meassage">留言板</p>
          </div>
       </div>
       <div id="CONTENT">
