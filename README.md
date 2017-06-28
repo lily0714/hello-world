@@ -51,7 +51,6 @@ margin:auto;
 }
 .icon{
 background-color:transparent;
-text-align:center;
 }
 .post{ 
 background-color:#DDAA00;
@@ -136,7 +135,7 @@ cursor:pointer;
 }
 .category{
 width:200px;
-height:600px;
+height:450px;
 float:left;
 background-color:#dc7d1f;
 color:white;
@@ -315,16 +314,18 @@ color: orange;
    <div class="categoryhide">點我收起來</div>
    <div class="category">
    <p id="cat_home"><a href="https://lily0714.github.io/">首 頁</a></p>
-   <ul><p class="cat_item">夢想萌芽</p></ul>
+   <ul><p class="cat_item">夢想萌芽</p>
    ------------------------
+   </ul>
    <ul><p class="cat_item">個人興趣</p>
    ------------------------
       <li class="cat_inin">畫畫</li>
       <li class="cat_inin">手做</li>
       <li class="cat_inin">演奏樂器</li>
    </ul>
-   <ul><p class="cat_item">留言板</p></ul>
+   <ul><p class="cat_item">留言板</p>
    ------------------------
+   </ul>
    </div>
    <div id="bantitle">
    <img id="banner" src="http://lily0714.github.io/20170424改.jpg" width="700" height="400">
@@ -341,7 +342,9 @@ color: orange;
           <p class="icontent">學校:輔仁大學</p>
           <p class="icontent">學系:資訊工程學系</p>
           <p class="icontent">生日:0 7 月 1 4 日</p>
-          <a href="https://github.com/lily0714" target="_blank"><img class="icon" src="https://lily0714.github.io/GitHub-Mark-32px.png" alt="lily0714"></a> 
+          <center>
+          <a href="https://github.com/lily0714" target="_blank"><img class="icon" src="https://lily0714.github.io/GitHub-Mark-32px.png" alt="lily0714"></a>
+          </center>
           </ul>
           </div>
       </div>
@@ -358,13 +361,15 @@ color: orange;
       </div>
       <div id="CONTENT">
          <div class="post0">
-           ----------------------------
+         <center>
+         <p>----------------------------</p>
            <p>這是lily0714的網頁</p>
            <p>開站日期:2017/03/18</p>
-           ----------------------------
-           <p>右邊選單為單個項目的一篇文章
-           若想看全部文章，請點左邊列表的項目，
-           將會帶您到該項目的所有文章頁面:D</p>
+         <p>----------------------------</p>
+         <p>右邊選單為單個項目的一篇文章</p>
+         <p>若想看全部文章，請點左邊列表的項目，</p>
+         <p>將會帶您到該項目的所有文章頁面:D</p>
+           </center>
          </div>
          <div class="draw">
             <br>
