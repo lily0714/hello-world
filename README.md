@@ -25,7 +25,7 @@ $("p.in3").css({cursor:"pointer"}).click(function(){
   $(".diy").fadeOut("fast");
 });
 $(".categoryho").click(function(){
-   $(".category").css({left:"-180px"});
+   $(".category").css({left:"180px"});
    $(".categoryho").hide();
    $(".categoryhide").show();
 });
