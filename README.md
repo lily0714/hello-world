@@ -49,7 +49,7 @@ font-family: Microsoft JhengHei;
 display:block;
 margin:auto;
 }
-icon{
+.icon{
 background-color:transperant;
 }
 .post{ 
@@ -246,11 +246,11 @@ margin:0 auto;
 width:1024px; 
 height:120px; 
 }
-.interest{
+.r-cat{
 background:#FFCC22;
 font-family: Microsoft JhengHei;
 }
-.interest:hover{ 
+.r-cat:hover{ 
 /*滑鼠移至區塊變色*/
 background: #DDAA00;
 text-decoration:underline;
@@ -343,13 +343,13 @@ color: orange;
       </div>
       <div id="RSIDE">
          <div class="menu">
-           <p class="homepage">主 頁</p>
-           <p class="dream">夢想萌芽</p>
-           <p class="interest">個人興趣</p>
+           <p class="r-cat homepage">主 頁</p>
+           <p class="r-cat dream">夢想萌芽</p>
+           <p class="r-cat interest">個人興趣</p>
            <p class="in1">畫畫</p>
            <p class="in2">手做</p>
            <p class="in3">演奏樂器</p>
-           <p class="meassage">留言板</p>
+           <p class="r-cat meassage">留言板</p>
          </div>
       </div>
       <div id="CONTENT">
