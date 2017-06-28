@@ -112,7 +112,7 @@ cursor:pointer;
 }
 .category{
 width:200px;
-height:480px;
+height:400px;
 float:left;
 display:none;
 background-color:#dc7d1f;
@@ -251,7 +251,8 @@ color: orange;
 } 
 </style>
    <body>
-   <div class="categoryho">
+   <div id="bantitle">
+      <div class="categoryho">
    點我查看更多</div>
    <div class="categoryhide">
    點我收起來</div>
@@ -262,7 +263,6 @@ color: orange;
       <li>演奏樂器</li>
       </ul>
    </div>
-   <div id="bantitle">
    <img id="banner" src="http://lily0714.github.io/20170424改.jpg" width="700" height="400">
   
    </div>
@@ -339,6 +339,7 @@ color: orange;
    </div>
    <div id="FOOTER"> 
       <img src="http://lily0714.github.io/底.png" width="1024" height="60">
+   </div>
    </div>
    </body>
 
