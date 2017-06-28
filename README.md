@@ -49,6 +49,9 @@ font-family: Microsoft JhengHei;
 display:block;
 margin:auto;
 }
+icon{
+background-color:transperant;
+}
 .post{ 
 background-color:#DDAA00;
 width:100px; height:30px; 
@@ -294,18 +297,17 @@ color:#FFFFFF;
 }
 
 /*超連結*/ 
-/*a:link { 
-color: saddlebrown; 
+a:link { 
+color: white; 
 } 
 a:visited { 
 color: saddlebrown; 
 } 
-a:hover { 
-color: #FF8C00; 
+a:hover {  
 } 
 a:active { 
 color: orange;
-} */
+} 
 </style>
    <body>
    <div class="categoryho">點我查看更多</div>
@@ -335,7 +337,7 @@ color: orange;
           <p class="icontent">學校:輔仁大學</p>
           <p class="icontent">學系:資訊工程學系</p>
           <p class="icontent">生日:0 7 月 1 4 日</p>
-          <img src="https://lily0714.github.io/GitHub-Mark-32px.png" onclick="https://github.com/lily0714"></img> 
+          <img class="icon" src="https://lily0714.github.io/GitHub-Mark-32px.png" onclick="https://github.com/lily0714"/> 
           </ul>
           </div>
       </div>
