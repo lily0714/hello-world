@@ -137,10 +137,12 @@ box-shadow:0 0 10px #dc7d1f;
 #cat_in{
 background-color:brown;
 color:white;
+font-size:16px;
 }
 .cat_inin:hover{
 background-color:white;
 opacity:0.95;
+color:#dc7d1f;
 }
 body{ 
 double #FFF; 
