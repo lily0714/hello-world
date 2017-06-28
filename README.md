@@ -92,6 +92,8 @@ position:absolute;
 top:200px;
 left:0px;
 z-index:5;
+border-radius:0px 10px 10px 0px;
+text-align:center;
 }
 .categoryhide{
 width:30px;
@@ -101,9 +103,11 @@ color:white;
 float:left;
 position:absolute;
 top:200px;
-left:180px;
+left:195px;
 z-index:6;
 display:none;
+border-radius:0px 10px 10px 0px;
+text-align:center;
 }
 .categoryho:hover{
 color:yellow;
@@ -111,7 +115,7 @@ outline:none;
 border-color: #dc7d1f;
 box-shadow:0 0 10px #dc7d1f;
 cursor:pointer;
-left:5px;
+left:3px;
 }
 .categoryhide:hover{
 color:yellow;
@@ -129,15 +133,18 @@ color:white;
 position:absolute;
 z-index:5;
 left:-200px;
+border-radius:0px 20px 20px 0px;
 }
 .category:hover{
 border-color: #dc7d1f;
 box-shadow:0 0 10px #dc7d1f;
 }
 #cat_in{
-background-color:brown;
+background-color:#bb5f43;
 color:white;
 font-size:16px;
+position:relative;
+top:20px;
 }
 .cat_inin:hover{
 background-color:white;
@@ -278,6 +285,7 @@ color: orange;
    <div class="categoryhide">點我收起來</div>
    <div class="category">
    <ul><p id="cat_in">個人興趣</p>
+   --------------------------
       <li class="cat_inin">畫畫</li>
       <li class="cat_inin">手做</li>
       <li class="cat_inin">演奏樂器</li>
@@ -291,7 +299,8 @@ color: orange;
       <div id="LSIDE">
           <div id="infor">
           <p class="infortitle">個人資料</p>
-          <img class="ipic" src="http://lily0714.github.io/20170628.jpg" width="150" height="210"></br>
+          <img class="ipic" src="http://lily0714.github.io/20170628.jpg" width="150" height="210">
+          </br>
           <ul>
           <p class="icontent">是個喜歡音樂、自我矛盾很嚴重的孩子。</p>
           <p class="icontent">姓名:陸映螢</p>
