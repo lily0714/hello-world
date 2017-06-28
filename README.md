@@ -325,7 +325,7 @@ color: orange;
       <li class="cat_inin">演奏樂器</li>
    </ul>
    <ul><p class="cat_item">留言板</p>
-   ------------------------
+  ------------------------
    </ul>
    </div>
    <div id="bantitle">
