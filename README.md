@@ -343,7 +343,7 @@ color: orange;
       </div>
       <div id="RSIDE">
          <div class="menu">
-           <p class="interest">主 頁</p>
+           <p class="homepage">主 頁</p>
            <p class="dream">夢想萌芽</p>
            <p class="interest">個人興趣</p>
            <p class="in1">畫畫</p>
