@@ -415,6 +415,4 @@ color: orange;
    <div id="FOOTER"> 
       <img src="http://lily0714.github.io/底.png" width="1024" height="60">
    </div>
-   </div>
    </body>
-
