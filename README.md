@@ -342,9 +342,7 @@ color: orange;
           <p class="icontent">學校:輔仁大學</p>
           <p class="icontent">學系:資訊工程學系</p>
           <p class="icontent">生日:0 7 月 1 4 日</p>
-          <center>
           <a href="https://github.com/lily0714" target="_blank"><img class="icon" src="https://lily0714.github.io/GitHub-Mark-32px.png" alt="lily0714"></a>
-          </center>
           </ul>
           </div>
       </div>
@@ -362,13 +360,14 @@ color: orange;
       <div id="CONTENT">
          <div class="post0">
          <center>
+         <img class="icon" src="https://lily0714.github.io/15.png">
          <p>----------------------------</p>
            <p>這是lily0714的網頁</p>
            <p>開站日期:2017/03/18</p>
          <p>----------------------------</p>
          <p>右邊選單為單個項目的一篇文章</p>
          <p>若想看全部文章，請點左邊列表的項目，</p>
-         <p>將會帶您到該項目的所有文章頁面:D</p>
+         <p>將會帶您到該項目的所有文章頁面:D</p>
            </center>
          </div>
          <div class="draw">
