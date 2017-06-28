@@ -147,7 +147,7 @@ border-color: #dc7d1f;
 box-shadow:0 0 10px #dc7d1f;
 }
 #cat_home{
-background-color:red;
+background-color:rgb(253, 211, 5);
 color:white;
 font-size:16px;
 position:relative;
@@ -292,7 +292,7 @@ background: #DDAA00;
 text-decoration:underline;
 color:#FFFFFF;
 }
-/*超連結*/ 
+/*/*超連結*/ 
 a:link { 
 color: saddlebrown; 
 } 
@@ -304,7 +304,7 @@ color: #FF8C00;
 } 
 a:active { 
 color: orange;
-} 
+} */
 </style>
    <body>
    <div class="categoryho">點我查看更多</div>
@@ -317,7 +317,7 @@ color: orange;
       <li class="cat_inin">手做</li>
       <li class="cat_inin">演奏樂器</li>
    </ul>
-   <p class="cat_item">留言板</p>
+   <ul><p class="cat_item">留言板</p></ul>
    </div>
    <div id="bantitle">
    <img id="banner" src="http://lily0714.github.io/20170424改.jpg" width="700" height="400">
@@ -334,7 +334,7 @@ color: orange;
           <p class="icontent">學校:輔仁大學</p>
           <p class="icontent">學系:資訊工程學系</p>
           <p class="icontent">生日:0 7 月 1 4 日</p>
-          <a class="url icontent" href="https://github.com/lily0714"><b>我的GitHub</b></a> 
+          <img src="https://lily0714.github.io/GitHub-Mark-32px.png" onclick="https://github.com/lily0714"></img> 
           </ul>
           </div>
       </div>
@@ -349,8 +349,7 @@ color: orange;
       <div id="CONTENT">
          <div class="post0">
            <p>開站日期:2017/03/18</p>
-           <p>這是lily0714的網頁</p>
-           <p>點選右邊以查看更多內容</p>
+           <p>這是lily0714的網頁</p><p>點選右邊以查看更多內容</p>
          </div>
          <div class="draw">
             <br>
