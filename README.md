@@ -25,7 +25,7 @@ $("p.in3").css({cursor:"pointer"}).click(function(){
   $(".diy").fadeOut("fast");
 });
 $(".categoryho").click(function(){
-   $(".category").css({left:"-5px"});
+   $(".category").css({left:"-20px"});
    $(".categoryho").hide();
    $(".categoryhide").show();
 });
@@ -98,12 +98,12 @@ text-align:center;
 .categoryhide{
 width:30px;
 height:170px;
-background-color:#dc7d1f;
+background-color:#c36f1b;
 color:white;
 float:left;
 position:absolute;
 top:200px;
-left:195px;
+left:180px;
 z-index:6;
 display:none;
 border-radius:0px 10px 10px 0px;
@@ -300,7 +300,7 @@ color: orange;
           <div id="infor">
           <p class="infortitle">個人資料</p>
           <img class="ipic" src="http://lily0714.github.io/20170628.jpg" width="150" height="210">
-          <ul></br>
+          <ul><br>
           <p class="icontent">是個喜歡音樂、自我矛盾很嚴重的孩子。</p>
           <p class="icontent">姓名:陸映螢</p>
           <p class="icontent">學校:輔仁大學</p>
