@@ -26,13 +26,13 @@ $("p.in3").css({cursor:"pointer"}).click(function(){
 });
 $(".categoryho").click(function(){
    $(".category").toggle("fast");
-   $(".categoryho").css({width:"0px"});
-   $(".categoryhide").css({left:"260px"});
+   $(".categoryho").hide();
+   $(".categoryhide").show();
 });
 $(".categoryhide").click(function(){
    $(".category").toggle("fast");
-   $(".categoryhide").css({width:"0px"});
-   $(".categoryho").css({left:"200px"});
+   $(".categoryhide").hide();
+   $(".categoryho").show();
 });
 });
 </script>
@@ -100,7 +100,7 @@ color:white;
 float:left;
 position:absolute;
 top:200px;
-left:260px;
+left:230px;
 z-index:6;
 display:none;
 }
