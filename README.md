@@ -43,6 +43,7 @@ width:160px;
 height:20px; 
 color:#FFFFFF; 
 font-size: 14px; 
+font-family: Microsoft JhengHei;
 } 
 .ipic{
 display:block;
@@ -55,6 +56,7 @@ color:#FFFFFF;
 font-size:16px; 
 position:relative;
 left:1px;
+font-family: Microsoft JhengHei;
 }
 .draw{
 display: none;
@@ -69,16 +71,18 @@ display: none;
 color:#BB5500;
 font-size:12px;
 text-align:left; 
+font-family: Microsoft JhengHei;
 }
 .post1{
 width:50%;
 height:auto;
 position:relative;
 left:0px;
+font-family: Microsoft JhengHei;
 }
 p { 
 font-size: 12px; 
-font-family: Monospace; 
+font-family: Microsoft JhengHei; 
 color:#BB5500; 
 text-align:center;
 } 
@@ -94,6 +98,7 @@ left:0px;
 z-index:5;
 border-radius:0px 10px 10px 0px;
 text-align:center;
+font-family: Microsoft JhengHei;
 }
 .categoryhide{
 width:30px;
@@ -108,6 +113,7 @@ z-index:6;
 display:none;
 border-radius:0px 10px 10px 0px;
 text-align:center;
+font-family: Microsoft JhengHei;
 }
 .categoryho:hover{
 color:yellow;
@@ -134,6 +140,7 @@ position:absolute;
 z-index:5;
 left:-200px;
 border-radius:0px 20px 20px 0px;
+font-family: Microsoft JhengHei;
 }
 .category:hover{
 border-color: #dc7d1f;
@@ -222,6 +229,7 @@ font-family: Microsoft JhengHei;
 }  
 .icontent{
 text-align:left;
+font-family: Microsoft JhengHei;
 }
 #FOOTER { 
 margin:0 auto; 
@@ -230,6 +238,7 @@ height:120px;
 }
 .interest{
 background:#FFCC22;
+font-family: Microsoft JhengHei;
 }
 .interest:hover{ 
 /*滑鼠移至區塊變色*/
@@ -242,6 +251,7 @@ display: none;
 width: 100%;
 padding: 10px 0px;
 background: #FFEE99;
+font-family: Microsoft JhengHei;
 }
 .in1:hover{ 
 /*滑鼠移至區塊變色*/
@@ -254,6 +264,7 @@ display: none;
 width: 100%;
 padding: 10px 0px;
 background: #FFEE99;
+font-family: Microsoft JhengHei;
 }
 .in2:hover{ 
 /*滑鼠移至區塊變色*/
@@ -266,6 +277,7 @@ display: none;
 width: 100%;
 padding: 10px 0px;
 background: #FFEE99;
+font-family: Microsoft JhengHei;
 }
 .in3:hover{ 
 /*滑鼠移至區塊變色*/
