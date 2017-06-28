@@ -319,7 +319,7 @@ color: orange;
    </ul>
    <ul><p class="cat_item">個人興趣</p>
    ------------------------
-      <li class="cat_inin">畫畫</li>
+   <li class="cat_inin"><a href="https://lily0714.github.io/interest/draw">畫畫</a></li>
       <li class="cat_inin">手做</li>
       <li class="cat_inin">演奏樂器</li>
    </ul>
