@@ -275,6 +275,15 @@ background: #DDAA00;
 text-decoration:underline;
 color:#FFFFFF;
 }
+#todraw {
+position: relative;
+left: 50px;
+top: 10px;
+}
+#todraw:hover {
+top: 15px;
+cursor: pointer;
+}
 .in2{ 
 display: none;
 width: 100%;
@@ -387,7 +396,7 @@ color: orange;
                一開始只是隨手畫畫，並沒有想太多，但後來他成了我一小部分的自己。<br>
                也許是長越大越覺得世界太複雜，他的存在總能時時提醒我小時候的單純。<br>
                而且我喜歡把他畫在甜點世界或是遊樂場，就像小孩一樣容易因為一些小事而開心的不得了。
-               <img src="https://lily0714.github.io/mymind.png">
+               <a href="https://lily0714.github.io/interest/draw"><img id="todraw" src="https://lily0714.github.io/mymind.png"></a>
             </div>
          </div>
          <div class="diy">
