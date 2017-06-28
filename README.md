@@ -136,7 +136,7 @@ cursor:pointer;
 }
 .category{
 width:200px;
-height:400px;
+height:600px;
 float:left;
 background-color:#dc7d1f;
 color:white;
@@ -358,8 +358,13 @@ color: orange;
       </div>
       <div id="CONTENT">
          <div class="post0">
-           <p>開站日期:2017/03/18</p>
-           <p>這是lily0714的網頁</p><p>點選右邊以查看更多內容</p>
+           ----------------------------
+           <p>這是lily0714的網頁</p>
+           <p>開站日期:2017/03/18</p>
+           ----------------------------
+           <p>右邊選單為單個項目的一篇文章
+           若想看全部文章，請點左邊列表的項目，
+           將會帶您到該項目的所有文章頁面:D</p>
          </div>
          <div class="draw">
             <br>
