@@ -117,7 +117,7 @@ outline:none;
 border-color: #dc7d1f;
 box-shadow:0 0 10px #dc7d1f;
 cursor:pointer;
-left:2px;
+left:5px;
 }
 .categoryhide:hover{
 color:yellow;
