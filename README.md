@@ -95,7 +95,6 @@ z-index:6;
 display:none;
 }
 .categoryho:hover{
-left:5px;
 color:yellow;
 outline:none;
 border-color: #dc7d1f;
@@ -103,7 +102,6 @@ box-shadow:0 0 10px #dc7d1f;
 cursor:pointer;
 }
 .categoryhide:hover{
-left:5px;
 color:yellow;
 outline:none;
 border-color: #dc7d1f;
