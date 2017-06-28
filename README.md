@@ -25,7 +25,7 @@ $("p.in3").css({cursor:"pointer"}).click(function(){
   $(".diy").fadeOut("fast");
 });
 $(".categoryho").click(function(){
-   $(".category").css({left:"180px"});
+   $(".category").css({left:"-5px"});
    $(".categoryho").hide();
    $(".categoryhide").show();
 });
@@ -136,10 +136,11 @@ box-shadow:0 0 10px #dc7d1f;
 }
 #cat_in{
 background-color:brown;
+color:white;
 }
 .cat_inin:hover{
 background-color:white;
-opacity:0.7;
+opacity:0.95;
 }
 body{ 
 double #FFF; 
