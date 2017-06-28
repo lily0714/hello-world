@@ -24,16 +24,6 @@ $("p.in3").css({cursor:"pointer"}).click(function(){
   $(".post0").fadeOut("fast");
   $(".diy").fadeOut("fast");
 });
-$(".categoryho").click(function(){
-   $(".category").toggle("fast");
-   $(".categoryho").css({width:"0px"});
-   $(".categoryhide").css({left:"230px"});
-});
-$(".categoryhide").click(function(){
-   $(".category").toggle("fast");
-   $(".categoryhide").css({width:"0px"});
-   $(".categoryho").css({left:"200px"});
-});
 });
 </script>
 <style> 
