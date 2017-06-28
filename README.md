@@ -292,8 +292,9 @@ background: #DDAA00;
 text-decoration:underline;
 color:#FFFFFF;
 }
-/*/*超連結*/ 
-a:link { 
+
+/*超連結*/ 
+/*a:link { 
 color: saddlebrown; 
 } 
 a:visited { 
