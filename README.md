@@ -50,7 +50,8 @@ display:block;
 margin:auto;
 }
 .icon{
-background-color:transperant;
+background-color:transparent;
+text-align:center;
 }
 .post{ 
 background-color:#DDAA00;
@@ -314,6 +315,8 @@ color: orange;
    <div class="categoryhide">點我收起來</div>
    <div class="category">
    <p id="cat_home"><a href="https://lily0714.github.io/">首 頁</a></p>
+   <ul><p class="cat_item">夢想萌芽</p></ul>
+   ------------------------
    <ul><p class="cat_item">個人興趣</p>
    ------------------------
       <li class="cat_inin">畫畫</li>
@@ -321,7 +324,8 @@ color: orange;
       <li class="cat_inin">演奏樂器</li>
    </ul>
    <ul><p class="cat_item">留言板</p></ul>
-   </div>
+   ------------------------
+   </div>
    <div id="bantitle">
    <img id="banner" src="http://lily0714.github.io/20170424改.jpg" width="700" height="400">
   
