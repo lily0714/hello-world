@@ -409,10 +409,8 @@ color: orange;
            </center>
          </div>
          <div class="dream1">
-            <br>
             <p class="post">種子出現</p>
-            <img class="post1" src="https://lily0714.github.io/seed1.jpg" >
-            <a href="https://lily0714.github.io/seed1.jpg"><br>點我看大圖</a>
+            <a href="https://lily0714.github.io/seed1.jpg" target="_blank"><img class="post1" src="https://lily0714.github.io/seed1.jpg" ></a>
             <div class="dcontent">
                故事是從國小六年級開始的。<br>
                當初是因為電腦課要經營Xuite的blog，相信許多人都有學過這堂課。<br>
