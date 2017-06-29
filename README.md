@@ -6,29 +6,40 @@ $("p.interest").css({cursor:"pointer"}).click(function(){
   $(".in2").slideToggle("slow");
   $(".in3").slideToggle("slow");
 });
+$("p.dream").css({cursor:"pointer"}).click(function(){
+  $(".dream1").fadeIn("fast");
+  $(".diy").fadeOut("fast");
+  $(".post0").fadeOut("fast");
+  $(".music").fadeOut("fast");
+  $(".draw").fadeOut("fast");
+});
 $("p.in1").css({cursor:"pointer"}).click(function(){
   $(".draw").fadeIn("fast");
   $(".diy").fadeOut("fast");
   $(".post0").fadeOut("fast");
   $(".music").fadeOut("fast");
+  $(".dream1").fadeOut("fast");
 });
 $("p.in2").css({cursor:"pointer"}).click(function(){
   $(".diy").fadeIn("fast");
   $(".draw").fadeOut("fast");
   $(".post0").fadeOut("fast");
   $(".music").fadeOut("fast");
+  $(".dream1").fadeOut("fast");
 });
 $("p.in3").css({cursor:"pointer"}).click(function(){
   $(".music").fadeIn("fast");
   $(".draw").fadeOut("fast");
   $(".post0").fadeOut("fast");
   $(".diy").fadeOut("fast");
+  $(".dream1").fadeOut("fast");
 });
 $("p.homepage").css({cursor:"pointer"}).click(function(){
   $(".post0").fadeIn("fast");
   $(".draw").fadeOut("fast");
   $(".music").fadeOut("fast");
   $(".diy").fadeOut("fast");
+  $(".dream1").fadeOut("fast");
 });
 $(".categoryho").click(function(){
    $(".category").css({left:"-20px"});
@@ -75,6 +86,9 @@ display: none;
 }
 .music{
 display: none;
+}
+.dream1{
+display:none;
 }
 .dcontent{
 color:#BB5500;
@@ -393,6 +407,23 @@ color: orange;
          <p>若想看全部文章，請點左邊列表的項目，</p>
          <p>將會帶您到該項目的所有文章頁面:D</p>
            </center>
+         </div>
+         <div class="dream1">
+            <br>
+            <p class="post">種子出現</p>
+            <img class="post1" src="https://lily0714.github.io/seed1.jpg" >
+            <a href="https://lily0714.github.io/seed1.jpg"><br>點我看大圖</a>
+            <div class="dcontent">
+               故事是從國小六年級開始的。<br>
+               當初是因為電腦課要經營Xuite的blog，相信許多人都有學過這堂課。<br>
+               有天老師上課上到一半說，隔壁班的某位同學部落格做得很漂亮，並切畫面展示給大家看。<br>
+               看到的當下我有個想法，明明和我們是同年級，她怎麼可以做的那麼漂亮又精緻?<br>
+               於是之後，我就找了很多資料，發現要學的東西實在很多。<br>
+               除了製圖技巧，還要會排版呢!感覺真的很困難...<br>
+               所以就拿了別人提供的版型語法嘗試做修改。<br>
+               雖然看的不是很懂，但看哪裡變了，就是改到哪個東西。<br>
+               於是就做出了第一個版型:D
+            </div>
          </div>
          <div class="draw">
             <br>
