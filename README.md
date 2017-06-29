@@ -426,8 +426,7 @@ color: orange;
          <div class="draw">
             <br>
             <p class="post">畫畫</p>
-            <img class="post1" src="http://lily0714.github.io/畫畫1.png" >
-            <a href="http://lily0714.github.io/畫畫1.png"><br>點我看大圖</a>
+            <a href="http://lily0714.github.io/畫畫1.png" target="_blank"><img class="post1" src="http://lily0714.github.io/畫畫1.png" ></a>
             <div class="dcontent">
             　<br>
                這大概是從國中就開始畫的，我都叫他小饅頭人。<br>
@@ -441,8 +440,7 @@ color: orange;
          </div>
          <div class="diy">
             <p class="post">手做</p>
-            <img class="post1" src="http://lily0714.github.io/手做一.png" >
-            <a href="http://lily0714.github.io/手做一.png"><br>點我看大圖<br></a>
+            <a href="http://lily0714.github.io/手做一.png" target="_blank"><img class="post1" src="http://lily0714.github.io/手做一.png" ></a>
             <div class="dcontent">
                這是最近幾天做的桌曆。<br>
                原本是只買了計畫紙，突如其來的靈感讓我想把它變成桌曆。<br>
@@ -456,8 +454,7 @@ color: orange;
          </div>
           <div class="music">
             <p class="post">演奏樂器</p>
-            <img class="post1" src="http://lily0714.github.io/music.png" >
-            <a href="http://lily0714.github.io/music.png"><br>點我看大圖<br></a>
+            <a href="http://lily0714.github.io/music.png" target="_blank"><img class="post1" src="http://lily0714.github.io/music.png" ></a>
             <div class="dcontent">
                高中的時候，曾經想學吉他。<br>
                但因為手太小按不好和弦，當時家裡又有烏克麗麗的玩具，於是就開始學習烏克的和弦及刷法。<br>
