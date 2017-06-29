@@ -90,7 +90,7 @@ display: none;
 .dream1{
 display:none;
 }
-postdate {
+.postdate {
 position: absolute;
 right: 150px;
 top: 480px;
