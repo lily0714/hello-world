@@ -297,6 +297,11 @@ background: #DDAA00;
 text-decoration:underline;
 color:#FFFFFF;
 }
+#todiy {
+position: relative;
+left: 50px;
+top: 10px;
+}
 #todiy:hover {
 top: 15px;
 cursor: pointer;
