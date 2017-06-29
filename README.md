@@ -297,6 +297,10 @@ background: #DDAA00;
 text-decoration:underline;
 color:#FFFFFF;
 }
+#todiy:hover {
+top: 15px;
+cursor: pointer;
+}
 .in3{ 
 display: none;
 width: 100%;
@@ -411,6 +415,9 @@ color: orange;
                這成本其實大概三十塊錢，而且封面是可以"撕下"每年做替換的。<br>
                其實上面的那兩隻小熊也是我縫的，印象中他們也陪我兩三年有了吧。<br>
                其他手做等以後再慢慢更新吧。
+               <div>
+               <a href="https://lily0714.github.io/interest/diy"><img id="todiy" src="https://lily0714.github.io/diyw.png"></a>
+               </div>
             </div>
          </div>
           <div class="music">
