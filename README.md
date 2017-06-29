@@ -416,10 +416,8 @@ color: orange;
            </center>
          </div>
          <div class="dream1">
-            <p class="post">種子出現</p>
-            <nobr class="postdate">發佈日期:2017/06/29</nobr>
+         <p class="post">種子出現</p>
             <a href="https://lily0714.github.io/seed1.jpg" target="_blank"><img class="post1" src="https://lily0714.github.io/seed1.jpg" ></a>
-            
             <div class="dcontent">
                故事是從國小六年級開始的。<br>
                當初是因為電腦課要經營Xuite的blog，相信許多人都有學過這堂課。<br>
@@ -435,7 +433,6 @@ color: orange;
          <div class="draw">
             <br>
             <p class="post">畫畫</p>
-            <nobr class="postdate">發佈日期:2017/04/24</nobr>
             <a href="http://lily0714.github.io/畫畫1.png" target="_blank"><img class="post1" src="http://lily0714.github.io/畫畫1.png" ></a>
             <div class="dcontent">
             　<br>
@@ -450,7 +447,6 @@ color: orange;
          </div>
          <div class="diy">
             <p class="post">手做</p>
-            <nobr class="postdate">發佈日期:2017/04/24</nobr>
             <a href="http://lily0714.github.io/手做一.png" target="_blank"><img class="post1" src="http://lily0714.github.io/手做一.png" ></a>
             <div class="dcontent">
                這是最近幾天做的桌曆。<br>
@@ -465,7 +461,6 @@ color: orange;
          </div>
           <div class="music">
             <p class="post">演奏樂器</p>
-            <nobr class="postdate">發佈日期:2017/04/24</nobr>
             <a href="http://lily0714.github.io/music.png" target="_blank"><img class="post1" src="http://lily0714.github.io/music.png" ></a>
             <div class="dcontent">
                高中的時候，曾經想學吉他。<br>
