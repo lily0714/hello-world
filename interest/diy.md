@@ -258,8 +258,7 @@ color: orange;
       <div id="CONTENT">
          <div class="diy">
             <p class="post">手做</p>
-            <img class="post1" src="http://lily0714.github.io/手做一.png" >
-            <a href="http://lily0714.github.io/手做一.png"><br>點我看大圖<br></a>
+            <a href="http://lily0714.github.io/手做一.png" target="_blank"><img class="post1" src="http://lily0714.github.io/手做一.png" ></a>
             <div class="dcontent">
                這是最近幾天做的桌曆。<br>
                原本是只買了計畫紙，突如其來的靈感讓我想把它變成桌曆。<br>
