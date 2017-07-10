@@ -31,7 +31,7 @@ background-color:#ffffe0;
 }
 .post{ 
 background-color:#DDAA00;
-width:400px; height:30px; 
+width:500px; height:30px; 
 color:#FFFFFF; 
 font-size:16px; 
 position:relative;
