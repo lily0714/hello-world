@@ -260,7 +260,9 @@ color: orange;
          <div class="draw">
             <br>
             <p class="post">畫畫 - 初衷</p>
+            <center>
             <a href="http://lily0714.github.io/畫畫1.png" target="_blank"><img class="post1" src="http://lily0714.github.io/畫畫1.png" ></a>
+            </center>
             <div class="dcontent">
             　<br>
                這大概是從國中就開始畫的，我都叫他小饅頭人。<br>
