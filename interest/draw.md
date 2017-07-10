@@ -31,7 +31,7 @@ background-color:#ffffe0;
 }
 .post{ 
 background-color:#DDAA00;
-width:100px; height:30px; 
+width:400px; height:30px; 
 color:#FFFFFF; 
 font-size:16px; 
 position:relative;
@@ -182,7 +182,7 @@ font-family: Microsoft JhengHei;
 #CONTENT {
 margin-left:200px; 
 width:902px;
-height:550px;
+height:1050px;
 float:none;
 font-family: Microsoft JhengHei;
 } 
@@ -259,7 +259,7 @@ color: orange;
       <div id="CONTENT">
          <div class="draw">
             <br>
-            <p class="post">畫畫</p>
+            <p class="post">畫畫 - 初衷</p>
             <a href="http://lily0714.github.io/畫畫1.png" target="_blank"><img class="post1" src="http://lily0714.github.io/畫畫1.png" ></a>
             <div class="dcontent">
             　<br>
@@ -268,6 +268,18 @@ color: orange;
                也許是長越大越覺得世界太複雜，他的存在總能時時提醒我小時候的單純。<br>
                而且我喜歡把他畫在甜點世界或是遊樂場，就像小孩一樣容易因為一些小事而開心的不得了。
             </div>
+         </div>
+         <div class="draw">
+            <br>
+            <p class="post">畫畫 - 戶外活動篇</p>
+            <a href="http://lily0714.github.io/draw2.png" target="_blank"><img class="post1" src="http://lily0714.github.io/draw2.png" ></a>
+            <div class="dcontent">
+            　<br>
+               這是高二要升高三時畫的。<br>
+               也許是面臨要考學測太過煩躁，一直很想出去玩吧，只好讓小孩亂亂玩囉<br>
+               而且因為班上突然很多人在玩滑板，就會開始幻想自己滑滑板的模樣。<br>
+               圖畫的很帥氣，但實際上根本就不會滑XDDD<br>
+            </div>
          </div>
       </div>   
    </div>
