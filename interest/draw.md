@@ -281,6 +281,17 @@ color: orange;
                圖畫的很帥氣，但實際上根本就不會滑XDDD<br>
             </div>
          </div>
+         <div class="draw">
+            <br>
+            <p class="post">畫畫 - 甜點世界篇</p>
+            <a href="http://lily0714.github.io/draw3.png" target="_blank"><img class="post1" src="http://lily0714.github.io/draw3.png" ></a>
+            <div class="dcontent">
+            　<br>
+               高中在社團開會時，突然腦中浮現一堆糖果餅乾的畫面，於是就畫出了這些。<br>
+               除了畫出甜點，還把圖和學校縮寫融合，是有沒有那麼開心XDDD<br>
+               當初居然還畫了疊疊樂，這整張圖大概我一輩子都忘不了吧!<br>
+            </div>
+         </div>
       </div>   
    </div>
    <div id="FOOTER"> 
