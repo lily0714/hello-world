@@ -269,7 +269,7 @@ color: orange;
          </div>
          <div class="diy">
             <p class="post">手做-貓咪毛帽</p>
-            <a href="http://lily0714.github.io/diy2.png" target="_blank"><img class="post1" src="http://lily0714.github.io/diy2.png" ></a>
+            <a href="http://lily0714.github.io/手做二.png" target="_blank"><img class="post1" src="http://lily0714.github.io/手做二.png" ></a>
             <div class="dcontent">
                當初看到偶像劇裡的女主戴毛帽好可愛，嫌買一頂毛帽太貴，<br>
                於是買了鉤針和毛線自己看著網路上教學做了一個。<br>
