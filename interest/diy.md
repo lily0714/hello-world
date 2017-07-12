@@ -31,7 +31,7 @@ background-color:#ffffe0;
 }
 .post{ 
 background-color:#DDAA00;
-width:100px; height:30px; 
+width:500px; height:30px; 
 color:#FFFFFF; 
 font-size:16px; 
 position:relative;
@@ -182,7 +182,7 @@ font-family: Microsoft JhengHei;
 #CONTENT {
 margin-left:200px; 
 width:902px;
-height:550px;
+height:1050px;
 float:none;
 font-family: Microsoft JhengHei;
 } 
@@ -257,7 +257,7 @@ color: orange;
       </div>
       <div id="CONTENT">
          <div class="diy">
-            <p class="post">手做</p>
+            <p class="post">手做-桌曆</p>
             <a href="http://lily0714.github.io/手做一.png" target="_blank"><img class="post1" src="http://lily0714.github.io/手做一.png" ></a>
             <div class="dcontent">
                這是最近幾天做的桌曆。<br>
@@ -265,6 +265,17 @@ color: orange;
                這成本其實大概三十塊錢，而且封面是可以"撕下"每年做替換的。<br>
                其實上面的那兩隻小熊也是我縫的，印象中他們也陪我兩三年有了吧。<br>
                其他手做等以後再慢慢更新吧。
+            </div>
+         </div>
+         <div class="diy">
+            <p class="post">手做-貓咪毛帽</p>
+            <a href="http://lily0714.github.io/diy2.png" target="_blank"><img class="post1" src="http://lily0714.github.io/diy2.png" ></a>
+            <div class="dcontent">
+               當初看到偶像劇裡的女主戴毛帽好可愛，嫌買一頂毛帽太貴，<br>
+               於是買了鉤針和毛線自己看著網路上教學做了一個。<br>
+               其實一開始並不是貓咪，只是做壞意外成了貓咪!!<br>
+               這樣其實也不錯啦，但還是在自家戴爽爽就好。<br>
+               後來過沒幾天，就從朋友清衣服時拿到一頂毛帽，是有沒有那麼幸運阿XDD
             </div>
          </div>
       </div>   
