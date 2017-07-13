@@ -356,14 +356,15 @@ color: orange;
 } 
 </style>
    <body>
-   <div class="categoryho">點我查看更多</div>
+<div class="categoryho">點我查看更多</div>
    <div class="categoryhide">點我收起來</div>
    <div class="category">
    <p id="cat_home"><a href="https://lily0714.github.io/">首 頁</a></p>
    <ul><p class="cat_item">夢想萌芽</p>
 ------------------------
-   <li class="cat_inin"><a href="https://lily0714.github.io/dreamstory">灌溉過程</a></li>   </ul>
-   <ul><p class="cat_item">個人興趣</p>
+   <li class="cat_inin"><a href="https://lily0714.github.io/dreamstory">灌溉過程</a></li>
+   </ul>
+   <ul><p class="cat_item">個人興趣</p>
    ------------------------
    <li class="cat_inin"><a href="https://lily0714.github.io/interest/draw">畫畫</a></li>
    <li class="cat_inin"><a href="https://lily0714.github.io/interest/diy">手做</a></li>
