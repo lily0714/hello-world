@@ -182,7 +182,7 @@ font-family: Microsoft JhengHei;
 #CONTENT {
 margin-left:200px; 
 width:902px;
-height:550px;
+height:1050px;
 float:none;
 font-family: Microsoft JhengHei;
 } 
