@@ -361,6 +361,7 @@ color: orange;
    <div class="category">
    <p id="cat_home"><a href="https://lily0714.github.io/">首 頁</a></p>
    <ul><p class="cat_item">夢想萌芽</p>
+   <li class="cat_inin"><a href="https://lily0714.github.io/dreamstory">灌溉過程</a></li>
    ------------------------
    </ul>
    <ul><p class="cat_item">個人興趣</p>
