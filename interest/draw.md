@@ -182,7 +182,7 @@ font-family: Microsoft JhengHei;
 #CONTENT {
 margin-left:200px; 
 width:902px;
-height:1550px;
+height:2050px;
 float:none;
 font-family: Microsoft JhengHei;
 } 
@@ -291,6 +291,19 @@ color: orange;
                (背。面。其。實。是。活。動。的。細。流)<br>
                除了畫出甜點，還在圖上寫了學校縮寫，是有沒有那麼無聊XDDD<br>
                當初居然還畫了疊疊樂，這整張圖大概我一輩子都忘不了吧!<br>
+            </div>
+         </div>
+         <div class="draw">
+            <br>
+            <p class="post">畫畫 - 瑪力歐世界篇</p>
+            <a href="http://lily0714.github.io/draw4.png" target="_blank"><img class="post1" src="http://lily0714.github.io/draw4.png" ></a>
+            <div class="dcontent">
+            　<br>
+               這應該也是在社團開會時畫的(因為背面還是活動細流XDD)，<br>
+               但我真的想不起來為什麼要畫這個，可能真的很喜歡瑪力歐吧:D<br>
+               每次拿到無敵星星，總希望就這樣玩到關卡的終點，<br>
+               因為就可以拉旗子了，還不用遭受食人花攻擊。<br>
+               另外，其實我比較喜歡騎著耀西(龍)玩，牠真的很可愛:D
             </div>
          </div>
       </div>   
