@@ -162,7 +162,7 @@ cursor:pointer;
 }
 .category{
 width:200px;
-height:450px;
+height:500px;
 float:left;
 background-color:#dc7d1f;
 color:white;
