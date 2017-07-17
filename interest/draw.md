@@ -296,7 +296,7 @@ color: orange;
          </div>
          <div class="draw">
             <br>
-            <p class="post">畫畫 - 瑪力歐世界篇</p>
+            <p class="post">畫畫 - 瑪力歐世界篇1</p>
             <a href="http://lily0714.github.io/draw4.png" target="_blank"><img class="post1" src="http://lily0714.github.io/draw4.png" ></a>
             <div class="dcontent">
             　<br>
