@@ -296,7 +296,7 @@ color: orange;
          </div>
          <div class="draw">
             <br>
-            <p class="post">畫畫 - 瑪力歐世界篇1</p>
+            <p class="post">畫畫 - 瑪力歐世界篇</p>
             <a href="http://lily0714.github.io/draw4.png" target="_blank"><img class="post1" src="http://lily0714.github.io/draw4.png" ></a>
             <div class="dcontent">
             　<br>
@@ -315,7 +315,7 @@ color: orange;
             　<br>
                這是在背單字背到很煩時畫的。<br>
                其實原本是想模仿線上遊戲中的場景畫整顆藤蔓樹，<br>
-               然後畫出樹後忽然又想玩盪鞦韆，<br>
+               畫出樹後忽然心裡又想玩盪鞦韆，<br>
                於是兩者就結合了XDDD
             </div>
          </div>
