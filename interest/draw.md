@@ -182,7 +182,7 @@ font-family: Microsoft JhengHei;
 #CONTENT {
 margin-left:200px; 
 width:902px;
-height:2050px;
+height:2550px;
 float:none;
 font-family: Microsoft JhengHei;
 } 
@@ -305,6 +305,18 @@ color: orange;
                每次拿到無敵星星，總希望就這樣玩到關卡的終點，<br>
                因為就可以拉旗子了，還不用遭受食人花攻擊。<br>
                另外，其實我比較喜歡騎著耀西(龍)玩，牠真的很可愛:D
+            </div>
+         </div>
+         <div class="draw">
+            <br>
+            <p class="post">畫畫 - 童話世界篇(傑克與魔豆)</p>
+            <a href="http://lily0714.github.io/draw5.png" target="_blank"><img class="post1" src="http://lily0714.github.io/draw5.png" ></a>
+            <div class="dcontent">
+            　<br>
+               這是在背單字背到很煩時畫的。<br>
+               其實原本是想模仿線上遊戲中的場景畫整顆藤蔓樹，<br>
+               然後畫出樹後忽然又想玩盪鞦韆，<br>
+               於是兩者就結合了XDDD
             </div>
          </div>
       </div>   
