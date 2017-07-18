@@ -182,7 +182,7 @@ font-family: Microsoft JhengHei;
 #CONTENT {
 margin-left:200px; 
 width:902px;
-height:1050px;
+height:1550px;
 float:none;
 font-family: Microsoft JhengHei;
 } 
@@ -278,6 +278,18 @@ color: orange;
                這樣其實也不錯啦，但還是在自家戴爽爽就好。<br>
                後來過沒幾天，就從朋友清衣服時拿到一頂毛帽，是有沒有那麼幸運阿XDD
             </div>
+         </div>
+         <div class="diy">
+            <p class="post">手做 - 熊兄弟</p>
+            <a href="http://lily0714.github.io/bears.png" target="_blank"><img class="post1" src="http://lily0714.github.io/bears.png" ></a>
+            <div class="dcontent">
+               好耶!終於輪到這篇了:D<br>
+               印象中米色那隻熊原本是打算做好當聖誕節交換禮物的，<br>
+               但媽媽說我做的能力還沒有到可以直接就送給別人的程度...<br>
+               所以最後就只有留在家裡了。(不過我也很慶幸有這麼一位可愛的小夥伴)<br>
+               而白色那隻是某年情人節想說幫米色熊熊做個弟弟好跟牠陪伴而做的，<br>
+               雖然做的沒有前一隻好，但我想熊熊互相有個伴應該很開心吧:"D
+            </div>
          </div>
       </div>   
    </div>
