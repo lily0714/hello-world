@@ -182,7 +182,7 @@ font-family: Microsoft JhengHei;
 #CONTENT {
 margin-left:200px; 
 width:902px;
-height:1050px;
+height:1750px;
 float:none;
 font-family: Microsoft JhengHei;
 } 
@@ -283,7 +283,27 @@ color: orange;
                &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 但此時製圖功力還是頗弱，就是加工後的整體圖片看起來死板板。<br>
                但有在練習就能慢慢進步，這是我一直所相信的，至少在我這領域是。<br>
                *原本想說上圖放2009年製圖的東西，但因為之前電腦重灌，可能也找不太到圖片。<br>
-            </div>
+               *因為剛升上國一，覺得課業上要認真些，才能拿好成績，<br>
+                所以2009年暑假一直到2010年暑假中間不太更新，且圖也遺失。
+            </div>
+         </div>
+         <div class="dream1">
+         <br>
+         <p class="post">灌溉過程 - 2010年暑假首發第一個版型(製圖部分)</p>
+            <a href="https://lily0714.github.io/seed1.jpg" target="_blank"><img class="post1" src="https://lily0714.github.io/seed1.jpg" ></a>
+            <div class="dcontent">
+               好不容易放暑假了，也有多一點時間做自己喜歡做的事，<br>
+               所以就來更深入研究製作版型啦!<br>
+               逛了許多製圖達人的網站，發現他們都是拿動漫人物的圖來做，而且圖都會發光呢!<br>
+               猜想顏色是用白色的關係，但好像還有再用上什麼東西??<br>
+               而且他們的圖上還有好多圖案，是要全部自己畫嗎??還是有可以下載的??<br>
+               有不少人說用筆刷，那就不管它，先來試試吧!<br>
+               .<br>
+               可是做完以後，為什麼我只感覺到整體的圖很亂呢??到底是怎麼一回事??<br>
+               而且看起來也不太有發光的感覺...<br>
+               也許我能力還是不強吧，不過能做出來還是很開心呢!<br>
+               待續...<br>
+            </div>
          </div>
       </div>   
    </div>
