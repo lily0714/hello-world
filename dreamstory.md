@@ -182,7 +182,7 @@ font-family: Microsoft JhengHei;
 #CONTENT {
 margin-left:200px; 
 width:902px;
-height:1750px;
+height:1550px;
 float:none;
 font-family: Microsoft JhengHei;
 } 
@@ -290,7 +290,7 @@ color: orange;
          <div class="dream1">
          <br>
          <p class="post">灌溉過程 - 2010年暑假首發第一個版型(製圖部分)</p>
-            <a href="https://lily0714.github.io/seed1.jpg" target="_blank"><img class="post1" src="https://lily0714.github.io/seed1.jpg" ></a>
+            <a href="https://lily0714.github.io/2010seed2.png" target="_blank"><img class="post1" src="https://lily0714.github.io/2010seed2.png" ></a>
             <div class="dcontent">
                好不容易放暑假了，也有多一點時間做自己喜歡做的事，<br>
                所以就來更深入研究製作版型啦!<br>
@@ -303,6 +303,7 @@ color: orange;
                而且看起來也不太有發光的感覺...<br>
                也許我能力還是不強吧，不過能做出來還是很開心呢!<br>
                待續...<br>
+               *上圖為logo、頭貼和刊版(主要用於文章分類使用或是其他用途也是可以)
             </div>
          </div>
       </div>   
