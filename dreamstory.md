@@ -153,6 +153,7 @@ background-color:#FFFFE0;
 border-style:dotted;
 border-color:#DDAA00;
 font-family: Microsoft JhengHei;
+width:980px;
 }
 #banner{ 
 background-repeat:no-repeat;
