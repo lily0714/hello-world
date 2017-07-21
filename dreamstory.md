@@ -291,7 +291,7 @@ color: orange;
          </div>
          <div class="dream1">
          <br>
-         <p class="post">灌溉過程 - 2010年暑假首發第一個版型(製圖部分)</p>
+         <p class="post">灌溉過程 - 2010年暑假首發第一個版型(圖片加工部分)</p>
             <a href="https://lily0714.github.io/2010seed2.png" target="_blank"><img class="post1" src="https://lily0714.github.io/2010seed2.png" ></a>
             <div class="dcontent">
                好不容易放暑假了，也有多一點時間做自己喜歡做的事，<br>
@@ -307,6 +307,31 @@ color: orange;
                待續...<br>
                *上圖為logo、頭貼和刊版(主要用於文章分類使用或是其他用途也是可以)<br>
                *網站全圖請見最上篇
+            </div>
+         </div>
+         <div class="dream1">
+         <br>
+         <p class="post">灌溉過程 - 2010年暑假首發第一個版型(CSS部分)</p>
+            <a href="https://lily0714.github.io/2010seed2.png" target="_blank"><img class="post1" src="https://lily0714.github.io/2010seed2.png" ></a>
+            <div class="dcontent">
+               ----續 2010年暑假首發第一個版型(圖片加工部分)---<br>
+               稍微看了一下別人發版型的語法，<br>
+               發現其實語法還算看得懂一些，所以就拿別人的嘗試修改。<br>
+               最一開始看語法中出現的網址部分，忽然發現大多是別人加工後的圖檔，<br>
+               所以就想把我做的東西放入他們原本的網址對應位置。<br>
+               但是圖檔的網址要怎麼來呢??<br>
+               很多人是推薦一個青蛙logo的網站叫ImageShack，於是我就也跟著試試。<br>
+               果然成功了，也就很開心的把網址貼進語法。<br>
+               (但多次使用後發現有點問題...我想這之後再說)<br>
+               .<br>
+               接著是看到顏色的部分，就去找色碼表看我想要哪個顏色就複製貼上，<br>
+               同時也跟著看看是哪些部份改變，並搭配同色系色碼修改。<br>
+               .<br>
+               主要就是這些吧~雖然覺得跟我同學的部落格還是有所差距，<br>
+               但從這之後，我就開始好奇Xuite內各個HTML碼的一些寫法，<br>
+               像是各個欄位用到一些小工具內嵌的語法、發布文章的HTML碼按鈕。<br>
+               也開始多多逛別人的部落格，嘗試和他們成為好友，<br>
+               並看看他們分享的新發版型、小物和小卡有什麼特點是可以嘗試模仿的。
             </div>
          </div>
       </div>   
