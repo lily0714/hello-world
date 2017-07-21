@@ -311,7 +311,7 @@ color: orange;
          </div>
          <div class="dream1">
          <br>
-         <p class="post">灌溉過程 - 2010年暑假首發第一個版型(CSS部分)</p>
+         <p class="post">灌溉過程 - 2010年暑假首發第一個版型(HTML+CSS部分)</p>
             <div class="dcontent">
                ----續 2010年暑假首發第一個版型(圖片加工部分)---<br>
                稍微看了一下別人發版型的語法，<br>
