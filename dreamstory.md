@@ -312,7 +312,6 @@ color: orange;
          <div class="dream1">
          <br>
          <p class="post">灌溉過程 - 2010年暑假首發第一個版型(CSS部分)</p>
-            <a href="https://lily0714.github.io/2010seed2.png" target="_blank"><img class="post1" src="https://lily0714.github.io/2010seed2.png" ></a>
             <div class="dcontent">
                ----續 2010年暑假首發第一個版型(圖片加工部分)---<br>
                稍微看了一下別人發版型的語法，<br>
