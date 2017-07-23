@@ -1,6 +1,14 @@
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 <script type="text/javascript"> 
 $(document).ready(function() { 
+$("#btodreamstory").css({cursor:"pointer"}).mouseenter(function(){
+  $("#todreamstory").show();
+  $("#btodreamstory").hide();
+});
+$("#todreamstory").css({cursor:"pointer"}).mouseleave(function(){
+  $("#btodreamstory").show();
+  $("#todreamstory").hide();
+});
 $("p.interest").css({cursor:"pointer"}).click(function(){
   $(".in1").slideToggle("slow");
   $(".in2").slideToggle("slow");
@@ -285,6 +293,9 @@ background: #DDAA00;
 text-decoration:underline;
 color:#FFFFFF;
 }
+#todreamstory {
+display:none;
+}
 .in1{ 
 display: none;
 width: 100%;
@@ -432,6 +443,9 @@ color: orange;
                所以就拿了別人提供的版型語法嘗試做修改。<br>
                雖然看的不是很懂，但看哪裡變了，就是改到哪個東西。<br>
                於是就做出了第一個版型:D
+               <div>
+               <a href="https://lily0714.github.io/dreamstory"><img id="btodreamstory" src="https://lily0714.github.io/心路歷程1.png"><img id="todreamstory" src="https://lily0714.github.io/todreamstory.gif"></a>
+               </div>
             </div>
          </div>
          <div class="draw">
