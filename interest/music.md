@@ -276,7 +276,7 @@ color: orange;
          </div>
          <div class="music">
             <p class="post">大一上學期口琴成發 - 童話</p>
-            <iframe width="560" height="315" src="https://www.youtube.com/embed/M_6XKNthRqM" frameborder="0" allowfullscreen></iframe>
+            <iframe width="500" height="300" src="https://www.youtube.com/embed/M_6XKNthRqM" frameborder="0" allowfullscreen></iframe>
             <div class="dcontent">
                童話，是我吹的第一首流行歌。<br>
                還記得在表演前我和朋友約出來練了很多次，<br>
