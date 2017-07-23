@@ -204,7 +204,7 @@ font-family: Microsoft JhengHei;
 }
 iframe {
 position: relative;
-left: -47px;
+left: -48px;
 }
 #FOOTER { 
 margin:0 auto; 
