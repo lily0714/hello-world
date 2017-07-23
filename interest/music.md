@@ -32,7 +32,7 @@ background-color:#ffffe0;
 }
 .post{ 
 background-color:#DDAA00;
-width:100px; height:30px; 
+width:500px; height:30px; 
 color:#FFFFFF; 
 font-size:16px; 
 position:relative;
@@ -184,7 +184,7 @@ font-family: Microsoft JhengHei;
 #CONTENT {
 margin-left:200px; 
 width:902px;
-height:550px;
+height:1050px;
 float:none;
 font-family: Microsoft JhengHei;
 } 
