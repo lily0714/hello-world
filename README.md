@@ -424,7 +424,7 @@ color: orange;
            <p>這是lily0714的網頁</p>
            <p>開站日期:2017/03/18</p>
          <p>----------------------------</p>
-         <p>右邊選單為單個項目的一篇文章1</p>
+         <p>右邊選單為單個項目的一篇文章</p>
          <p>若想看全部文章，請點左邊列表的項目，</p>
          <p>將會帶您到該項目的所有文章頁面:D</p>
            </center>
@@ -444,7 +444,7 @@ color: orange;
                雖然看的不是很懂，但看哪裡變了，就是改到哪個東西。<br>
                於是就做出了第一個版型:D
                <div>
-               <a href="https://lily0714.github.io/dreamstory"><img id="btodreamstory" src="https://lily0714.github.io/心路歷程1.png"><img id="todreamstory" src="https://lily0714.github.io/todreamstory.gif"></a>
+               <a href="https://lily0714.github.io/dreamstory"><img id="btodreamstory" src="https://lily0714.github.io/心路歷程1.png"><img id="todreamstory" src="https://lily0714.github.io/todreamstory1.gif"></a>
                </div>
             </div>
          </div>
