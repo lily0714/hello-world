@@ -319,6 +319,7 @@ top: 10px;
 }
 #todraw:hover {
 top: 15px;
+left:52px;
 cursor: pointer;
 }
 .in2{ 
@@ -341,6 +342,7 @@ top: 10px;
 }
 #todiy:hover {
 top: 15px;
+left:52px;
 cursor: pointer;
 }
 .in3{ 
