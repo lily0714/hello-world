@@ -184,7 +184,7 @@ font-family: Microsoft JhengHei;
 #CONTENT {
 margin-left:200px; 
 width:902px;
-height:1550px;
+height:2050px;
 float:none;
 font-family: Microsoft JhengHei;
 } 
@@ -282,7 +282,7 @@ color: orange;
          </div>
          <div class="music">
             <p class="post">大一上學期口琴成發 - 童話</p>
-            <iframe width="500" height="300" src="https://www.youtube.com/embed/M_6XKNthRqM" frameborder="0" allowfullscreen></iframe>
+            <iframe width="400" height="300" src="https://www.youtube.com/embed/M_6XKNthRqM" frameborder="0" allowfullscreen></iframe>
             <div class="dcontent">
                童話，是我吹的第一首流行歌。<br>
                還記得在表演前我和朋友約出來練了很多次，<br>
@@ -298,6 +298,35 @@ color: orange;
                這次的成發是我第一次在台上表演。<br>
                雖然在台上有些緊張，但有老師的伴奏以及朋友一起吹奏，<br>
                心裡就會覺得撐過就結束了，那也就能超越原本的自己。<br>
+            </div>
+         </div>
+         <div class="music">
+            <p class="post">大一下學期口琴成發 - 神隱少女</p>
+            <iframe width="400" height="300" src="https://www.youtube.com/embed/AB1Kf6bjrzQ" frameborder="0" allowfullscreen></iframe>
+            <div class="dcontent">
+               這首歌一直以來我都很喜歡，所以能表演這首時也很興奮。<br>
+               原本不是主旋律的，後來因為某些原因變成了吹主旋律。<br>
+               但這時候讓我開始感到壓力很大，<br>
+               因為主旋律的速度要穩住，不然大家不知道要怎麼follow你。<br>
+               .<br>
+               練習時，因為不怎麼習慣這個角色，<br>
+               所以一開始吹一吹很容易會落拍，然後就開始覺得自己吹不好會拖累其他人。<br>
+               .<br>
+               當發現日期離成發越來越近還是有這情形時，<br>
+               有次就練一練練到崩潰，<br>
+               眼淚和鼻水不小心不爭氣地流了出來，<br>
+               但我依然盡量忍住，希望沒被其他人看見。<br>
+               .<br>
+               後來學長姐還怕我自己在家裡練沒有別人伴奏，<br>
+               於是就幫我錄了只有他們的版本。<br>
+               當下我跟自己做了約定"回家一定要努力練好。"<br>
+               沒想到，在最後一次驗收時能吹得還不錯，<br>
+               學長姐和老師也誇獎了一番:D<br>
+               .<br>
+               雖然最後成發當天在台上還是不小心亂掉了...<br>
+               不過畢竟是第一次在台上當主旋律的部分，<br>
+               對於在台上容易緊張的我來說，這已經算是跨了很大的一步呢!<br>
+               *其實我依然很不解為什麼我們這屆只有我吹兩首QQ，其他人只吹一首...
             </div>
          </div>
       </div>   
