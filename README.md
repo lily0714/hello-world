@@ -295,6 +295,9 @@ color:#FFFFFF;
 }
 #todreamstory {
 display:none;
+position:relative;
+left:2px;
+top:2px;
 }
 .in1{ 
 display: none;
