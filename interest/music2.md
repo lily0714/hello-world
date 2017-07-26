@@ -188,6 +188,16 @@ height:3050px;
 float:none;
 font-family: Microsoft JhengHei;
 } 
+.page{
+position:relative;
+top:50px;
+left:250px;
+color:#BB5500;
+font-size: 12px;
+}
+.page a:link{
+color:#BB5500;
+}
 #LSIDE { 
 float:left;
 width:162px; 
@@ -277,55 +287,6 @@ color: orange;
             </div>
          </div>
          <div class="music">
-            <p class="post">大一上學期口琴成發 - 童話</p>
-            <iframe width="400" height="300" src="https://www.youtube.com/embed/M_6XKNthRqM" frameborder="0" allowfullscreen></iframe>
-            <div class="dcontent">
-               童話，是我吹的第一首流行歌。<br>
-               還記得在表演前我和朋友約出來練了很多次，<br>
-               我們花了很多時間在練拍子，<br>
-               除了去問學姐，還去找了音檔來跟它的速度。<br>
-               .<br>
-               大概是在比賽當天表演前30分鐘的練習時間吧，<br>
-               老師發現音檔調性和我們吹的不一樣，<br>
-               所以老師就用烏克麗麗幫我們伴奏。(這也是我第一次和別人合奏呢!)<br>
-               這時我才發現，自己似乎已經稍微知道拍子的概念了，<br>
-               和老師合了一次，不知怎麼的，好像比較不那麼擔心會吹不好。<br>
-               .<br>
-               這次的成發是我第一次在台上表演。<br>
-               雖然在台上有些緊張，但有老師的伴奏以及朋友一起吹奏，<br>
-               心裡就會覺得撐過就結束了，那也就能超越原本的自己。<br>
-            </div>
-         </div>
-         <div class="music">
-            <p class="post">大一上學期烏克麗麗成發 - Can you feel the love tonight?</p>
-            <iframe width="400" height="300" src="https://www.youtube.com/embed/df_btldImSw" frameborder="0" allowfullscreen></iframe>
-            <div class="dcontent">
-               這首好像是獅子王的歌，聽著聽著給人一種很溫暖的感覺。<br>
-               .<br>
-               這次是第一次在台上表演烏克麗麗，<br>
-               也是第一次彈插電的烏克麗麗:D<br>
-                &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 雖然覺得彈唱應該不會彈錯，但在台上難免還是有點緊張。<br>
-               而且幸好還有其他人也是彈插電的，這樣比較不那麼孤單。<br>
-               再說，我們這一小家比其他小家還龐大呢!
-            </div>
-         </div>
-         <div class="music">
-            <p class="post">大一下學期烏克麗麗社遊 - 大大的擁抱</p>
-            <iframe width="400" height="300" src="https://www.youtube.com/embed/NHiRtcWD2Sw" frameborder="0" allowfullscreen></iframe>
-            <div class="dcontent">
-               這次社遊玩了很多遊戲，<br>
-               跳跳Tempo、比手畫腳、歌曲聯想、舉棋遊戲，<br>
-               中午吃烤肉也好開心，<br>
-               但我還是最喜歡最後的大合刷:D<br>
-                &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; .<br>
-                &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 在這之前，其實沒有很喜歡這首歌。<br>
-               感覺跟大家一起練琴，原本不喜歡的歌都會變得喜歡了吧!<br>
-               這首歌給人一種在大太陽下很開心的感覺，<br>
-               所以之後的大晴天就常常讓我想到這首歌，<br>
-               也經常思考這首歌的歌詞意境。
-            </div>
-         </div>
-         <div class="music">
             <p class="post">大一下學期口琴成發 - 神隱少女</p>
             <iframe width="400" height="300" src="https://www.youtube.com/embed/AB1Kf6bjrzQ" frameborder="0" allowfullscreen></iframe>
             <div class="dcontent">
@@ -354,7 +315,9 @@ color: orange;
                *其實我依然很不解為什麼我們這屆只有我吹兩首QQ，其他人只吹一首...
             </div>
          </div>
-         <p> 1 | 2 </p>
+         <div class="page">
+         page <a href="https://lily0714.github.io/interest/music2">1</a> | 2
+         </div>
       </div>   
    </div>
    <div id="FOOTER"> 
