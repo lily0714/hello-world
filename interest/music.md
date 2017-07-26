@@ -354,8 +354,8 @@ color: orange;
                *其實我依然很不解為什麼我們這屆只有我吹兩首QQ，其他人只吹一首...
             </div>
          </div>
-         <p> 1 | <a href="https://lily0714.github.io/interest/music2">2</a> </p>
-      </div>   
+      </div>
+      <p> 1 | <a href="https://lily0714.github.io/interest/music2">2</a> </p>
    </div>
    <div id="FOOTER"> 
       <img src="http://lily0714.github.io/底.png" width="1024" height="60">
