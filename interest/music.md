@@ -202,10 +202,6 @@ font-family: Microsoft JhengHei;
 text-align:left;
 font-family: Microsoft JhengHei;
 }
-iframe {
-position: relative;
-left: -48px;
-}
 #FOOTER { 
 margin:0 auto; 
 width:1024px; 
