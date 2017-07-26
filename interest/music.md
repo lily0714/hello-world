@@ -195,7 +195,7 @@ left:200px;
 color:#BB5500;
 font-size: 12px;
 }
-.page a{
+.page a:link{
 color:#BB5500;
 }
 #LSIDE { 
