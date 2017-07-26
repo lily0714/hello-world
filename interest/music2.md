@@ -315,6 +315,33 @@ color: orange;
                *其實我依然很不解為什麼我們這屆只有我吹兩首QQ，其他人只吹一首...
             </div>
          </div>
+         <div class="music">
+            <p class="post">大二上學期烏克麗麗期初社大 - 我就知道那是愛</p>
+            <iframe width="400" height="300" src="https://www.youtube.com/embed/6xVUhHLcjgc" frameborder="0" allowfullscreen></iframe>
+            <div class="dcontent">
+               一直以來我都很歡梁靜茹的歌，<br>
+               而且覺得這首歌給人一種甜滋滋的氛圍，是首溫暖的歌。
+               我和Ariel討論後，我們決定表演這首歌。<br>
+               .<br>
+               原本我是只有練烏克麗麗的部分<br>
+               但因為自己後來是當口琴社的幹部，<br>
+               和烏克的前社長討論後，<br>
+               決定還是吹一小段前奏的部分。<br>
+               (原本還想吹間奏的，但是自己抓不太到那個音，所以還是放棄了。)<br>
+               .<br>
+               我們暑假就開始約練了，<br>
+               但第一次約練在拔完智齒當天。<br>
+               雖然正常來說應該是不能吹的，<br>
+               可是我還是稍微吹了，發現真的有點痛...<br>
+               .<br>
+               之後的約練就是開學了，<br>
+               雖然練的次數不多，但我們還是練完了，只是速度還是要稍微調整一下。<br>
+               .<br>
+               沒想到，表演當天彩排時發現不小心忘記帶譜，於是衝回家拿。<br>
+               然後表演時自己在台上吹口琴還不小心吹錯音...<br>
+               但最後還算是順利結束了吧!
+            </div>
+         </div>
          <div class="page">
          page <a href="https://lily0714.github.io/interest/music2">1</a> | 2
          </div>
