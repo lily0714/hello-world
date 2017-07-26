@@ -184,10 +184,20 @@ font-family: Microsoft JhengHei;
 #CONTENT {
 margin-left:200px; 
 width:902px;
-height:3250px;
+height:3150px;
 float:none;
 font-family: Microsoft JhengHei;
 } 
+.page{
+position:relative;
+top:50px;
+left:200px;
+color:#BB5500;
+font-size: 12px;
+}
+.page a{
+color:#BB5500;
+}
 #LSIDE { 
 float:left;
 width:162px; 
@@ -354,8 +364,8 @@ color: orange;
                *其實我依然很不解為什麼我們這屆只有我吹兩首QQ，其他人只吹一首...
             </div>
          </div>
-         <div>
-          <p> 1 | <a href="https://lily0714.github.io/interest/music2">2</a> </p>
+         <div class="page">
+           1 | <a href="https://lily0714.github.io/interest/music2">2</a> 
          </div>
       </div>
    </div>
