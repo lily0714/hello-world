@@ -320,7 +320,7 @@ color: orange;
             <iframe width="400" height="300" src="https://www.youtube.com/embed/6xVUhHLcjgc" frameborder="0" allowfullscreen></iframe>
             <div class="dcontent">
                一直以來我都很歡梁靜茹的歌，<br>
-               而且覺得這首歌給人一種甜滋滋的氛圍，是首溫暖的歌。
+               而且覺得這首歌給人一種甜滋滋的氛圍，是首溫暖的歌。<br>
                我和Ariel討論後，我們決定表演這首歌。<br>
                .<br>
                原本我是只有練烏克麗麗的部分<br>
