@@ -184,7 +184,7 @@ font-family: Microsoft JhengHei;
 #CONTENT {
 margin-left:200px; 
 width:902px;
-height:3050px;
+height:3250px;
 float:none;
 font-family: Microsoft JhengHei;
 } 
@@ -354,6 +354,7 @@ color: orange;
                *其實我依然很不解為什麼我們這屆只有我吹兩首QQ，其他人只吹一首...
             </div>
          </div>
+         <p> 1 | <a href="https://lily0714.github.io/interest/music2">2</a> </p>
       </div>   
    </div>
    <div id="FOOTER"> 
