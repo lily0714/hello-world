@@ -365,7 +365,7 @@ color: orange;
             </div>
          </div>
          <div class="page">
-           1 | <a href="https://lily0714.github.io/interest/music2">2</a> 
+          page 1 | <a href="https://lily0714.github.io/interest/music2">2</a> 
          </div>
       </div>
    </div>
