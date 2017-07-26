@@ -191,7 +191,7 @@ font-family: Microsoft JhengHei;
 .page{
 position:relative;
 top:50px;
-left:200px;
+left:250px;
 color:#BB5500;
 font-size: 12px;
 }
