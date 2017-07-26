@@ -184,7 +184,7 @@ font-family: Microsoft JhengHei;
 #CONTENT {
 margin-left:200px; 
 width:902px;
-height:2550px;
+height:3050px;
 float:none;
 font-family: Microsoft JhengHei;
 } 
@@ -308,7 +308,7 @@ color: orange;
                .<br>
                這次是第一次在台上表演烏克麗麗，<br>
                也是第一次彈插電的烏克麗麗:D<br>
-               雖然覺得彈唱應該不會彈錯，但在台上難免還是有點緊張。<br>
+                &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 雖然覺得彈唱應該不會彈錯，但在台上難免還是有點緊張。<br>
                而且幸好還有其他人也是彈插電的，這樣比較不那麼孤單。<br>
                再說，我們這一小家比其他小家還龐大呢!
             </div>
@@ -321,8 +321,8 @@ color: orange;
                跳跳Tempo、比手畫腳、歌曲聯想、舉棋遊戲，<br>
                中午吃烤肉也好開心，<br>
                但我還是最喜歡最後的大合刷:D<br>
-               .<br>
-               在這之前，其實沒有很喜歡這首歌。<br>
+                &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; .<br>
+                &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 在這之前，其實沒有很喜歡這首歌。<br>
                感覺跟大家一起練琴，原本不喜歡的歌都會變得喜歡了吧!<br>
                這首歌給人一種在大太陽下很開心的感覺，<br>
                所以之後的大晴天就常常讓我想到這首歌，<br>
