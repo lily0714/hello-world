@@ -301,6 +301,35 @@ color: orange;
             </div>
          </div>
          <div class="music">
+            <p class="post">大一上學期烏克麗麗成發 - Can you feel the love tonight?</p>
+            <iframe width="400" height="300" src="https://www.youtube.com/embed/df_btldImSw" frameborder="0" allowfullscreen></iframe>
+            <div class="dcontent">
+               這首好像是獅子王的歌，聽著聽著給人一種很溫暖的感覺。<br>
+               .<br>
+               這次是第一次在台上表演烏克麗麗，<br>
+               也是第一次彈插電的烏克麗麗:D<br>
+               雖然覺得彈唱應該不會彈錯，但在台上難免還是有點緊張。<br>
+               而且幸好還有其他人也是彈插電的，這樣比較不那麼孤單。<br>
+               再說，我們這一小家比其他小家還龐大呢!
+            </div>
+         </div>
+         <div class="music">
+            <p class="post">大一下學期烏克麗麗社遊 - 大大的擁抱</p>
+            <iframe width="400" height="300" src="https://www.youtube.com/embed/NHiRtcWD2Sw" frameborder="0" allowfullscreen></iframe>
+            <div class="dcontent">
+               這次社遊玩了很多遊戲，<br>
+               跳跳Tempo、比手畫腳、歌曲聯想、舉棋遊戲，<br>
+               中午吃烤肉也好開心，<br>
+               但我還是最喜歡最後的大合刷:D<br>
+               .<br>
+               在這之前，其實沒有很喜歡這首歌。<br>
+               感覺跟大家一起練琴，原本不喜歡的歌都會變得喜歡了吧!<br>
+               這首歌給人一種在大太陽下很開心的感覺，<br>
+               所以之後的大晴天就常常讓我想到這首歌，<br>
+               也經常思考這首歌的歌詞意境。
+            </div>
+         </div>
+         <div class="music">
             <p class="post">大一下學期口琴成發 - 神隱少女</p>
             <iframe width="400" height="300" src="https://www.youtube.com/embed/AB1Kf6bjrzQ" frameborder="0" allowfullscreen></iframe>
             <div class="dcontent">
