@@ -316,6 +316,37 @@ color: orange;
             </div>
          </div>
          <div class="music">
+            <p class="post">大一下學期口琴成發 - 野宴</p>
+            <iframe width="400" height="300" src="https://www.youtube.com/embed/9xPp66Xhi_U" frameborder="0" allowfullscreen></iframe>
+            <div class="dcontent">
+               這首歌是寒假練的第一首口琴重奏。<br>
+               當時因為並沒有人想吹Chord(和弦口琴)，而且我又不排斥，<br>
+               (總覺得它「ㄏㄨ」、「ㄑㄧㄚ」的聲音很特別)
+               所以我就接下了這個部別。<br>
+               .<br>
+               寒訓一開始看到譜上都是後半拍就覺得好難，<br>
+               所以學長就把前半拍部分都補滿，<br>
+               寒訓完，我依舊只能吹學長改的版本...<br>
+               但能跟其他人合起來半首曲子，有種說不出的感動。<br>
+               (這樣是變得容易許多，但還是期望自己能照原譜吹)<br>
+               .<br>
+               開學之後，仍然不放棄對後半拍的練習，<br>
+               練著練著不小心在成發彩排時抓到了訣竅。<br>
+               當時真的很開心，因為自己又進步了一些些，<br>
+               對拍子的掌握似乎提升了，<br>
+               而且其他人還不太能只吹後半拍呢!<br>
+               .<br>
+               成發當下，我發現只要不是當主旋律，自己都不太會亂掉。<br>
+               不知道是不是因為角色變成要配合別人，<br>
+               而不是自己要穩住，壓力比較沒那麼大。<br>
+               所以當旋律亂掉了，<br>
+               我們其他人更應該穩住，讓旋律能繼續吹奏。<br>
+               .<br>
+               雖然成發這首還是整體聽起來不好...<br>
+               但我相信大家會慢慢進步的。<br>
+            </div>
+         </div>
+         <div class="music">
             <p class="post">大二上學期烏克麗麗期初社大 - 我就知道那是愛</p>
             <iframe width="400" height="300" src="https://www.youtube.com/embed/6xVUhHLcjgc" frameborder="0" allowfullscreen></iframe>
             <div class="dcontent">
