@@ -184,7 +184,7 @@ font-family: Microsoft JhengHei;
 #CONTENT {
 margin-left:200px; 
 width:902px;
-height:2050px;
+height:3150px;
 float:none;
 font-family: Microsoft JhengHei;
 } 
@@ -311,7 +311,7 @@ color: orange;
          </div>
          <div class="dream1">
          <br>
-         <p class="post">灌溉過程 - 2010年暑假首發第一個版型(HTML+CSS部分)</p>
+         <p class="post">灌溉過程 - 2010年暑假製作版型(HTML+CSS部分)</p>
             <div class="dcontent">
                ----續 2010年暑假首發第一個版型(圖片加工部分)---<br><br>
                稍微看了一下別人發版型的語法，<br>
@@ -334,6 +334,28 @@ color: orange;
                並看看他們分享的新發版型、小物和小卡有什麼特點是可以嘗試模仿的。<br>
                *因對當時的我來說，還不能自己寫出一個網站，<br>
                所以語法部分大都是修修改改，僅先多學些圖片美工的部分。
+            </div>
+         </div>
+         <div class="dream1">
+         <br>
+         <p class="post">灌溉過程 - 2010年暑假製作版型(一)(圖片加工部分)</p>
+            <a href="https://lily0714.github.io/2010seed8.png" target="_blank"><img class="post1" src="https://lily0714.github.io/2010seed8.png" ></a>
+            <div class="dcontent">
+               上篇提過，我自己對語法部分只能做修改不會自己寫，<br>
+               所以暑假都在努力圖片美工的部分，<br>
+               但這時候我也只是玩玩而已。<br>
+               .<br>
+               還記得當初沒幾天就發個版型，<br>
+               但那是因為只有把圖片加工一下和顏色調調而已。<br>
+               當時真的覺得很開心，<br>
+               因為終於能依自己的想法把圖片加工，<br>
+               開始覺得這世界真的很夢幻。<br>
+               但之後發現了一點問題...<br>
+               待續...<br>
+               .<br>
+               *上面都是我以前拿動漫圖加工出來的，<br>
+               仔細看的話，你會發現有些有網版的細線存在，<br>
+               讓圖看起來有點精緻的感覺。<br>
             </div>
          </div>
       </div>   
