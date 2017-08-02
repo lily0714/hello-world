@@ -188,6 +188,16 @@ height:3150px;
 float:none;
 font-family: Microsoft JhengHei;
 } 
+.page{
+position:relative;
+top:50px;
+left:250px;
+color:#BB5500;
+font-size: 12px;
+}
+.page a:link{
+color:#BB5500;
+}
 #LSIDE { 
 float:left;
 width:162px; 
