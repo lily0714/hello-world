@@ -154,7 +154,7 @@ $("#lily0714-github-io").hide();
             </div>
          </div>
          <div class="page">
-         page 1 | <a href="https://lily0714.github.io/dreamstory2">2</a>
+         page &nbsp; 1 &nbsp; | <a href="https://lily0714.github.io/dreamstory2">&nbsp; 2&nbsp; </a>
          </div>
       </div>   
    </div>
