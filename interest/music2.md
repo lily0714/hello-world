@@ -1,6 +1,21 @@
-<script type="text/javascript" src="https://lily0714.github.io/insidepage.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script type="text/javascript"> 
+$(document).ready(function() { 
+$(".categoryho").click(function(){
+   $(".category").css({left:"-20px"});
+   $(".categoryho").hide();
+   $(".categoryhide").show();
+});
+$(".categoryhide").click(function(){
+   $(".category").css({left:"-200px"});
+   $(".categoryhide").hide();
+   $(".categoryho").show();
+});
+$("#lily0714-github-io").hide();
+});
+</script>
 <link href="https://lily0714.github.io/insidepage.css" rel="stylesheet" type="text/css" media="all">
-   <body>
+<body>
    <div class="categoryho">點我查看更多</div>
    <div class="categoryhide">點我收起來</div>
    <div class="category">
