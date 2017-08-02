@@ -350,7 +350,7 @@ color: orange;
          <div class="dream1">
          <br>
          <p class="post">灌溉過程 - 2010年暑假製作版型(一)(圖片加工部分)</p>
-            <a href="https://lily0714.github.io/2010seed8.png" target="_blank"><img class="post1" src="https://lily0714.github.io/2010seed8.png" ></a>
+<a href="https://lily0714.github.io/2010seed8.png" target="_blank"><img class="post1" src="https://lily0714.github.io/2010seed8.png" ></a>
             <div class="dcontent">
                上篇提過，我自己對語法部分只能做修改不會自己寫，<br>
                所以暑假都在努力圖片美工的部分，<br>
