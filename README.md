@@ -280,8 +280,8 @@ font-family: Microsoft JhengHei;
 }
 #FOOTER { 
 margin:0 auto; 
-width:1024px; 
-height:120px; 
+width:980px; 
+height:60px; 
 }
 .r-cat{
 background:#FFCC22;
@@ -499,6 +499,6 @@ color: orange;
        </div>
    </div>
    <div id="FOOTER"> 
-      <img src="http://lily0714.github.io/底.png" width="1024" height="60">
+      <img src="http://lily0714.github.io/底.png" width="980" height="60">
    </div>
    </body>
