@@ -95,7 +95,7 @@ $("#lily0714-github-io").hide();
          <div class="dream1">
          <br>
          <p class="post">種子出現</p>
-            <a href="https://lily0714.github.io/2010seed15.png" target="_blank"><img class="post1" src="https://lily0714.github.io/2010seed15.png" ></a>
+<a href="https://lily0714.github.io/2010seed15.png" target="_blank"><img class="post1" src="https://lily0714.github.io/2010seed15.png" ></a>
             <div class="dcontent">
                ----續 2010年暑假製作版型(二)(圖片加工部分)---<br><br>
                還是2010年做的一些東西，<br>
