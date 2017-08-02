@@ -116,7 +116,7 @@ font-family: Microsoft JhengHei;
 width:50%;
 height:auto;
 position:relative;
-left:0px;
+left:25px;
 font-family: Microsoft JhengHei;
 }
 p { 
