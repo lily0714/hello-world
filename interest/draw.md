@@ -107,7 +107,7 @@ cursor:pointer;
 width:200px;
 height:450px;
 float:left;
-background-color:#dc7d1f;
+background-color:#de944b;
 color:white;
 position:fixed;
 z-index:5;
@@ -210,7 +210,7 @@ height:60px;
 }
 /*超連結*/ 
 a:link { 
-color: white; 
+color:#990000; 
 } 
 a:visited { 
 color:#990000; 
