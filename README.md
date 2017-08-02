@@ -173,7 +173,7 @@ cursor:pointer;
 width:200px;
 height:450px;
 float:left;
-background-color:#dc7d1f;
+background-color:#de944b;
 color:white;
 position:fixed;
 z-index:5;
