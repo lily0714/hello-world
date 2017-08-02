@@ -1,0 +1,217 @@
+.infortitle{ 
+background-color:#DDAA00; 
+width:160px; 
+height:20px; 
+color:#FFFFFF; 
+font-size: 14px; 
+font-family: Microsoft JhengHei;
+} 
+.ipic{
+display:block;
+margin:auto;
+}
+.icon{
+background-color:#ffffe0;
+}
+.post{ 
+background-color:#DDAA00;
+width:500px; height:30px; 
+color:#FFFFFF; 
+font-size:16px; 
+position:relative;
+left:1px;
+font-family: Microsoft JhengHei;
+}
+.dcontent{
+color:#BB5500;
+font-size:12px;
+position:relative;
+left:-40px;
+font-family: Microsoft JhengHei;
+}
+.post1{
+width:50%;
+height:auto;
+position:relative;
+left:25px;
+font-family: Microsoft JhengHei;
+}
+p { 
+font-size: 12px; 
+font-family: Microsoft JhengHei; 
+color:#BB5500; 
+text-align:center;
+} 
+.categoryho{
+width:30px;
+height:170px;
+background-color:#dc7d1f;
+color:white;
+float:left;
+position:fixed;
+top:200px;
+left:0px;
+z-index:5;
+border-radius:0px 10px 10px 0px;
+text-align:center;
+font-family: Microsoft JhengHei;
+}
+.categoryhide{
+width:30px;
+height:170px;
+background-color:#c36f1b;
+color:white;
+float:left;
+position:fixed;
+top:200px;
+left:180px;
+z-index:6;
+display:none;
+border-radius:0px 10px 10px 0px;
+text-align:center;
+font-family: Microsoft JhengHei;
+}
+.categoryho:hover{
+color:yellow;
+outline:none;
+border-color: #dc7d1f;
+box-shadow:0 0 10px #dc7d1f;
+cursor:pointer;
+left:3px;
+}
+.categoryhide:hover{
+color:yellow;
+outline:none;
+border-color: #dc7d1f;
+box-shadow:0 0 10px #dc7d1f;
+cursor:pointer;
+}
+.category{
+width:200px;
+height:450px;
+float:left;
+background-color:#de944b;
+color:white;
+position:fixed;
+z-index:5;
+left:-200px;
+border-radius:0px 20px 20px 0px;
+font-family: Microsoft JhengHei;
+}
+.category:hover{
+border-color: #dc7d1f;
+box-shadow:0 0 10px #dc7d1f;
+}
+#cat_home{
+background-color:#ffee99;
+color:white;
+font-size:16px;
+position:relative;
+top:20px;
+}
+.cat_item{
+background-color:#bb5f43;
+color:white;
+font-size:16px;
+position:relative;
+top:20px;
+}
+.cat_inin:hover{
+background-color:white;
+opacity:0.95;
+color:#dc7d1f;
+}
+body{ 
+double #FFF; 
+background-color:#FFEE99; 
+word-wrap:break-word; 
+margin:0;
+font-family:Microsoft JhengHei;
+}
+ul {
+list-style-type: none;
+font-family: Microsoft JhengHei;
+}
+#bantitle{
+background-color:#FFFFE0;
+border-style:dotted;
+border-color:#DDAA00;
+font-family: Microsoft JhengHei;
+width:980px;
+}
+#banner{ 
+background-repeat:no-repeat;
+background-position:center;
+margin:5px 5px; 
+padding:0;
+position:relative;
+left:140px;
+} 
+#title{  
+text-align:center; 
+font-family: Lobster, Monospace;
+color:#8F5924; 
+} 
+#subtitle{ 
+color:#B8732E; 
+}
+#WRAPPER { 
+/*margin:0 auto;*/
+width:980px; 
+/*padding:0 10px;*/ 
+/*overflow:auto;*/ 
+background-color:#FFFFE0;
+border-style:dotted;
+border-color:#DDAA00;
+font-family: Microsoft JhengHei;
+} 
+#CONTENT {
+margin-left:200px; 
+width:902px;
+height:3200px;
+float:none;
+font-family: Microsoft JhengHei;
+} 
+.page{
+position:relative;
+top:50px;
+left:250px;
+color:#BB5500;
+font-size: 12px;
+}
+.page a:link{
+color:#BB5500;
+}
+#LSIDE { 
+float:left;
+width:162px; 
+border-width:2px; 
+border-left-style:solid; 
+border-right-style:solid; 
+border-bottom-style:solid; 
+border-color:#DDAA00; 
+font-family: Microsoft JhengHei;
+}    
+.icontent{
+text-align:left;
+font-family: Microsoft JhengHei;
+}
+#FOOTER { 
+margin:0 auto; 
+width:980px; 
+height:60px; 
+}
+/*超連結*/ 
+a:link { 
+color: #990000; 
+} 
+a:visited { 
+color: #990000; 
+} 
+a:hover {  
+color:#990000;
+} 
+a:active { 
+color: orange;
+} 
+</style>
