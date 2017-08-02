@@ -78,7 +78,7 @@ $("#lily0714-github-io").hide();
             <div class="dcontent">
                ----續 2010年暑假製作版型(一)(圖片加工部分)---<br><br>
                
-                &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;這篇也是2010年暑假做的一些東西，<br>
+                &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 這篇也是2010年暑假做的一些東西，<br>
                總覺得自己用筆刷用的很開心，<br>
                所以就一直做下去，<br>
                但還是不太知道到底要怎麼讓筆刷發光...<br>
@@ -92,8 +92,30 @@ $("#lily0714-github-io").hide();
                也下載了很多筆刷來使用。<br>
             </div>
          </div>
+         <div class="dream1">
+         <br>
+         <p class="post">種子出現</p>
+            <a href="https://lily0714.github.io/2010seed15.png" target="_blank"><img class="post1" src="https://lily0714.github.io/2010seed15.png" ></a>
+            <div class="dcontent">
+               ----續 2010年暑假製作版型(二)(圖片加工部分)---<br><br>
+               還是2010年做的一些東西，<br>
+               但不知道為什麼，看起來像是發光的感覺出來了，<br>
+               當時真的讓我感到很驚訝，可是很不自然...<br>
+               .<br>
+               同時，漸漸地有越來越多人對拿動漫圖製圖有可能侵權的想法，<br>
+               所以就會在文章內說"原圖為原創者所有，本站僅做原圖加工"之類的。<br>
+               其實這想法我是覺得很好，<br>
+               但對於不會畫動漫人物的我來說，<br>
+               心裡開始覺得能夠用電繪畫出自己所想要的東西是很厲害的，<br>
+               因為這樣就不會有侵權問題了。<br>
+               .<br>
+               此時的我就開始想，如果能做到全網站內的圖片都自己做出來的話，<br>
+               這樣就能更放心地分享給其他人使用，<br>
+               也能發文辦代製活動了呢!
+            </div>
+         </div>
          <div class="page">
-         page <a href="https://lily0714.github.io/dreamstory">1</a> | 2
+&nbsp; &nbsp; &nbsp; &nbsp; page <a href="https://lily0714.github.io/dreamstory">&nbsp; 1 &nbsp; </a> | &nbsp; 2 &nbsp;
          </div>
       </div>   
    </div>
