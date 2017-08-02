@@ -76,7 +76,7 @@ $("#lily0714-github-io").hide();
          <p class="post">灌溉過程 - 2010年暑假製作版型(二)(圖片加工部分)</p>
 <a href="https://lily0714.github.io/2010seed14.png" target="_blank"><img class="post1" src="https://lily0714.github.io/2010seed14.png" ></a>
             <div class="dcontent">
-               ----續 2010年暑假製作版型(二)(圖片加工部分)---<br><br>
+               ----續 2010年暑假製作版型(一)(圖片加工部分)---<br><br>
                
                 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;這篇也是2010年暑假做的一些東西，<br>
                總覺得自己用筆刷用的很開心，<br>
