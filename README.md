@@ -359,9 +359,9 @@ text-decoration:underline;
 color:#FFFFFF;
 }
 
-/*超連結*/ 
+/*category超連結*/ 
 a:link { 
-color: white; 
+color:#990000; 
 } 
 a:visited { 
 color:#990000; 
