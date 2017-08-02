@@ -358,6 +358,26 @@ color: orange;
                讓圖看起來有點精緻的感覺。<br>
             </div>
          </div>
+         <div class="dream1">
+         <br>
+         <p class="post">灌溉過程 - 2010年暑假製作版型(二)(圖片加工部分)</p>
+            <a href="https://lily0714.github.io/2010seed14.png" target="_blank"><img class="post1" src="https://lily0714.github.io/2010seed14.png" ></a>
+            <div class="dcontent">
+               ----續 2010年暑假製作版型(二)(圖片加工部分)---<br><br>
+               這篇也是2010年暑假做的一些東西，<br>
+               總覺得自己用筆刷用的很開心，<br>
+               所以就一直做下去，<br>
+               但還是不太知道到底要怎麼讓筆刷發光...<br>
+               而且此時我發現，<br>
+               我朋友的網頁變得越來越有設計感，<br>
+               不太像我這樣隨便放筆刷上去。<br>
+               待續...<br>
+               .<br>
+               *這時候除了放上一些人常用的筆刷，<br>
+               也開始學習筆刷怎麼放比較好看，<br>
+               也下載了很多筆刷來使用。<br>
+            </div>
+         </div>
       </div>   
    </div>
    <div id="FOOTER"> 
