@@ -42,14 +42,15 @@ font-family: Microsoft JhengHei;
 .dcontent{
 color:#BB5500;
 font-size:12px;
-text-align:left; 
+position:relative;
+left:-40px;
 font-family: Microsoft JhengHei;
 }
 .post1{
 width:50%;
 height:auto;
 position:relative;
-left:0px;
+left:25px;
 font-family: Microsoft JhengHei;
 }
 p { 
