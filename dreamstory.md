@@ -185,7 +185,7 @@ font-family: Microsoft JhengHei;
 #CONTENT {
 margin-left:200px; 
 width:902px;
-height:3150px;
+height:3200px;
 float:none;
 font-family: Microsoft JhengHei;
 } 
@@ -215,8 +215,8 @@ font-family: Microsoft JhengHei;
 }
 #FOOTER { 
 margin:0 auto; 
-width:1024px; 
-height:120px; 
+width:980px; 
+height:60px; 
 }
 /*超連結*/ 
 a:link { 
@@ -375,6 +375,6 @@ color: orange;
       </div>   
    </div>
    <div id="FOOTER"> 
-      <img src="http://lily0714.github.io/底.png" width="1024" height="60">
+      <img src="http://lily0714.github.io/底.png" width="980" height="60">
    </div>
    </body>
