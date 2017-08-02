@@ -276,7 +276,7 @@ color: orange;
          <div class="draw">
             <br>
             <p class="post">畫畫 - 戶外活動篇</p>
-            <a href="http://lily0714.github.io/draw2.png" target="_blank"><img class="post1" src="http://lily0714.github.io/draw2.png" ></a>
+<a href="http://lily0714.github.io/draw2.png" target="_blank"><img class="post1" src="http://lily0714.github.io/draw2.png" ></a>
             <div class="dcontent">
             　<br>
                這是高二要升高三時畫的。<br>
@@ -288,7 +288,7 @@ color: orange;
          <div class="draw">
             <br>
             <p class="post">畫畫 - 甜點世界篇</p>
-            <a href="http://lily0714.github.io/draw3.png" target="_blank"><img class="post1" src="http://lily0714.github.io/draw3.png" ></a>
+<a href="http://lily0714.github.io/draw3.png" target="_blank"><img class="post1" src="http://lily0714.github.io/draw3.png" ></a>
             <div class="dcontent">
             　<br>
                高中在社團開會時，突然腦中浮現一堆糖果餅乾的畫面，於是就畫出了這些。<br>
@@ -300,7 +300,7 @@ color: orange;
          <div class="draw">
             <br>
             <p class="post">畫畫 - 瑪力歐世界篇</p>
-            <a href="http://lily0714.github.io/draw4.png" target="_blank"><img class="post1" src="http://lily0714.github.io/draw4.png" ></a>
+<a href="http://lily0714.github.io/draw4.png" target="_blank"><img class="post1" src="http://lily0714.github.io/draw4.png" ></a>
             <div class="dcontent">
             　<br>
                這應該也是在社團開會時畫的(因為背面還是活動細流XDD)，<br>
@@ -313,7 +313,7 @@ color: orange;
          <div class="draw">
             <br>
             <p class="post">畫畫 - 童話世界篇(傑克與魔豆)</p>
-            <a href="http://lily0714.github.io/draw5.png" target="_blank"><img class="post1" src="http://lily0714.github.io/draw5.png" ></a>
+<a href="http://lily0714.github.io/draw5.png" target="_blank"><img class="post1" src="http://lily0714.github.io/draw5.png" ></a>
             <div class="dcontent">
             　<br>
                這是在背單字背到很煩時畫的。<br>
