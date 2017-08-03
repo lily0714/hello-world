@@ -50,7 +50,7 @@ $("p.homepage").css({cursor:"pointer"}).click(function(){
   $(".dream1").fadeOut("fast");
 });
 $(".categoryho").click(function(){
-   $(".category").css({left:"-20px"});
+   $(".category").slideToggle(400);
    $(".categoryho").hide();
    $(".categoryhide").show();
 });
