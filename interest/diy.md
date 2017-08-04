@@ -95,7 +95,7 @@ $("#lily0714-github-io").hide();
                這是某天意外看到網路上的影片教學，突然想學的。<br>
                覺得它做出來搭手機吊飾很漂亮，<br>
                而且折了一圈一圈的星星後，中間看起來就像花一樣:D<br>
-               附上影片連結:<a href="https://youtu.be/-0BR1D35R54">https://youtu.be/-0BR1D35R54</a><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 附上影片連結:<a href="https://youtu.be/-0BR1D35R54">https://youtu.be/-0BR1D35R54</a><br>
                *一開始雖然折的很容易鬆掉，但多折幾顆就抓到訣竅了。<br>
                *上圖是最近新學的製圖技巧，粉狀飄去這個用得好的話，圖片會看起來很高級呢!
             </div>
