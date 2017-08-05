@@ -64,7 +64,7 @@ $("#lily0714-github-io").hide();
 var ymdw = new Date();
 var y = ymdw.getFullYear() , m = ymdw.getMonth()+1 , d = ymdw.getDate() , w = ymdw.getDay();
 if (w === 0)
-msg1="<font color=#ff0000>星期日</font>";
+msg1="星期日";
 else if (w === 1)
 msg1="星期一"; 
 else if (w === 2)
