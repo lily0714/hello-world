@@ -1,5 +1,3 @@
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-<script src="js/https://lily0714.github.io/insidepage.js"></script>
 <link href="https://lily0714.github.io/insidepage.css" rel="stylesheet" type="text/css" media="all">
    <body>
    <div class="categoryho">點我查看更多</div>
@@ -105,4 +103,6 @@
    <div id="FOOTER"> 
       <img src="http://lily0714.github.io/底.png" width="980" height="60">
    </div>
+   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script src="js/https://lily0714.github.io/insidepage.js"></script>
    </body>
