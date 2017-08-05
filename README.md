@@ -524,7 +524,7 @@ color: orange;
             </div>
          </div>
        </div>
-       <div id="get-day"></div><script>document.getElementById("get-day").innerHTML = y+"年"+m+"月"+d+"日"+msg1;</script>
+       <div id="get-day"></div><script>document.getElementById("get-day").innerHTML = "今天是<br>"+ y+"年"+m+"月"+d+"日"+msg1+":D";</script>
    </div>
    <div id="FOOTER"> 
       <img src="http://lily0714.github.io/底.png" width="980" height="60">
