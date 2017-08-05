@@ -77,7 +77,7 @@ else if (w === 5)
 msg1="星期五"; 
 else if (w === 6)
 msg1="星期六"; 
-document.getElementById("get-day").innerHTML = y+"年"+m+"月"+d+"日 "+msg1;
+document.getElementById("get-day").innerHTML = y;
 </script>
 <style> 
 .infortitle{ 
