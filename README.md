@@ -61,6 +61,23 @@ $(".categoryhide").click(function(){
 });
 $("#lily0714-github-io").hide();
 });
+var ymdw = new Date();
+var y = ymdw.getFullYear() , m = ymdw.getMonth()+1 , d = ymdw.getDate() , w = ymdw.getDay();
+if (w === 0)
+msg1="<font color=#ff0000>星期日</font>";
+else if (w === 1)
+msg1="星期一"; 
+else if (w === 2)
+msg1="星期二"; 
+else if (w === 3)
+msg1="星期三"; 
+else if (w === 4)
+msg1="星期四"; 
+else if (w === 5)
+msg1="星期五"; 
+else if (w === 6)
+msg1="星期六"; 
+document.getElementById("get-day").write(y+"年"+m+"月"+d+"日 星期"+w);
 </script>
 <style> 
 .infortitle{ 
@@ -358,7 +375,14 @@ background: #DDAA00;
 text-decoration:underline;
 color:#FFFFFF;
 }
-
+#get-day{
+width:162px;
+height:20px;
+font-size:14px;
+color:white;
+background-color:#DDAA00;
+font-family:Microsoft YaHei;
+}
 /*category超連結*/ 
 a:link { 
 color:#990000; 
@@ -421,6 +445,7 @@ color: orange;
            <p class="in3">演奏樂器</p>
            <p class="r-cat meassage">留言板</p>
          </div>
+         <div id="get-day"></div>
       </div>
       <div id="CONTENT">
          <div class="post0">
