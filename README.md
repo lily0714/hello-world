@@ -77,7 +77,6 @@ else if (w === 5)
 msg1="星期五"; 
 else if (w === 6)
 msg1="星期六"; 
-document.getElementById("get-day").innerHTML = y;
 </script>
 <style> 
 .infortitle{ 
@@ -525,7 +524,7 @@ color: orange;
             </div>
          </div>
        </div>
-       <div id="get-day"></div>
+       <div id="get-day"></div><script>document.getElementById("get-day").innerHTML = y;</script>
    </div>
    <div id="FOOTER"> 
       <img src="http://lily0714.github.io/底.png" width="980" height="60">
