@@ -77,7 +77,7 @@ else if (w === 5)
 msg1="星期五"; 
 else if (w === 6)
 msg1="星期六"; 
-document.getElementById("get-day").write(y+"年"+m+"月"+d+"日 星期"+w);
+document.getElementById("get-day").innerHTML = y+"年"+m+"月"+d+"日 "+msg1;
 </script>
 <style> 
 .infortitle{ 
@@ -258,6 +258,7 @@ color:#B8732E;
 #WRAPPER { 
 /*margin:0 auto;*/
 width:980px; 
+height:586px;
 /*padding:0 10px;*/ 
 /*overflow:auto;*/ 
 background-color:#FFFFE0;
@@ -377,9 +378,12 @@ color:#FFFFFF;
 }
 #get-day{
 width:162px;
-height:20px;
+height:40px;
 font-size:14px;
 color:white;
+float:right;
+position:relative;
+bottom:10px;
 background-color:#DDAA00;
 font-family:Microsoft YaHei;
 }
@@ -445,7 +449,6 @@ color: orange;
            <p class="in3">演奏樂器</p>
            <p class="r-cat meassage">留言板</p>
          </div>
-         <div id="get-day"></div>
       </div>
       <div id="CONTENT">
          <div class="post0">
@@ -522,6 +525,7 @@ color: orange;
             </div>
          </div>
        </div>
+       <div id="get-day"></div>
    </div>
    <div id="FOOTER"> 
       <img src="http://lily0714.github.io/底.png" width="980" height="60">
