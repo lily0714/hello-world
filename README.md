@@ -378,6 +378,7 @@ color:#FFFFFF;
 #get-day{
 width:162px;
 height:40px;
+padding-left: 8px;
 font-size:14px;
 color:white;
 float:right;
