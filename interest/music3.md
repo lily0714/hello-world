@@ -90,6 +90,27 @@ $("#lily0714-github-io").hide();
                *這首是我吹重奏之後，第一首想自己私下練旋律的一首歌...
             </div>
          </div>
+         <div class="music">
+            <p class="post">大二上學期口琴成發 - 橄欖的首飾</p>
+            <iframe width="400" height="300" src="https://www.youtube.com/embed/gIsJa-unHs44" frameborder="0" allowfullscreen></iframe>
+            <div class="dcontent">
+               這是一首聽起來有點像舞曲風格的歌。<br>
+               .<br>
+               還記得一開始覺得它的節奏蠻酷的，<br>
+               一直讓我想到"我們這一家"裡面的問答時間台詞"到底是什麼~?到底是什麼~?"<br>
+               嗯 搭搭|嗯 搭|嗯 搭搭|嗯 搭| (『嗯』的部分為一拍前半拍，『搭搭』或『搭』為一拍的後半拍)<br>
+               1       2    3       4     (幫大家標註，一個小節為4拍)<br>
+               不覺得一個字配一個字蠻剛好的嘛XDDD<br>
+               .<br>
+               不過像這種舞曲風格的歌，氛圍的營造就顯得更加重要了，<br>
+               所以我的部分主要就是利用節奏和Chord的音色去把那感覺做出來，<br>
+               但這時候的我，還不是很能用喉斷技巧，<br>
+               總覺得一直沒辦法用出那種感覺...<br>
+               .<br>
+               *喉斷有稍微用出來的時候是大二寒假的事了，當時剛好遇到很厲害的Chord手，<br>
+               一邊示範一邊跟我說他吹寒訓練的曲子的技巧:D<br>
+            </div>
+         </div>
          <div class="page">
          page <a href="https://lily0714.github.io/interest/music">&nbsp; 1&nbsp; </a> | <a href="https://lily0714.github.io/interest/music2">&nbsp; 2&nbsp; </a> | &nbsp; 3&nbsp; 
          </div>
