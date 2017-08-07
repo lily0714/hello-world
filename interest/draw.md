@@ -114,6 +114,22 @@ $("#lily0714-github-io").hide();
                畫出樹後忽然心裡又想玩盪鞦韆，於是兩者就結合了XDDD
             </div>
          </div>
+         <div class="draw">
+            <br>
+            <p class="post">畫畫 - 戶外活動篇(二)</p>
+<a href="http://lily0714.github.io/draw6.png" target="_blank"><img class="post1" src="http://lily0714.github.io/draw6.png" ></a>
+            <div class="dcontent">
+            　<br>
+               這是在上軍訓課時畫的。<br>
+               當時是在講一些兵役的法規，覺得有些枯燥，<br>
+               所以就又開始隨便亂畫XDD<br>
+               .<br>
+               *原本圖是被筆記圍繞著，但覺得這樣太亂，所以就把筆記的部分蓋掉了。<br>
+               *其實在軍訓課的其他筆記上還有畫過其他的圖，<br>
+               像是穿著軍裝準備發射砲彈、站衛兵之類的，<br>
+               可是筆記似乎被我丟掉了...
+            </div>
+         </div>
       </div>   
    </div>
    <div id="FOOTER"> 
