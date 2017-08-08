@@ -94,7 +94,7 @@ $("#lily0714-github-io").hide();
          </div>
          <div class="dream1">
          <br>
-         <p class="post">種子出現</p>
+         <p class="post">2010年暑假製作版型(三)(圖片加工部分)</p>
 <a href="https://lily0714.github.io/2010seed15.png" target="_blank"><img class="post1" src="https://lily0714.github.io/2010seed15.png" ></a>
             <div class="dcontent">
                ----續 2010年暑假製作版型(二)(圖片加工部分)---<br><br>
@@ -112,6 +112,18 @@ $("#lily0714-github-io").hide();
                此時的我就開始想，如果能做到全網站內的圖片都自己做出來的話，<br>
                這樣就能更放心地分享給其他人使用，<br>
                也能發文辦代製活動了呢!
+            </div>
+         </div>
+         <div class="dream1">
+         <br>
+         <p class="post">2010下半年-2011上半年</p>
+            <div class="dcontent">
+               這段時間一樣是在忙課業，<br>
+               但當時偶爾還是會做一些生日電子卡給朋友。<br>
+               只是當時做的一些圖片也是遺失了...<br>
+               .<br>
+               另外，有時候也會稍微開一下部落格發個文，或是回復一些朋友的留言。<br>
+               *歡迎到我以前的小格逛逛哦!-><a href="https://blog.xuite.net/r3456789/lily02">＊小陸的部落格天地∮</a>(現在還是偶爾會回來看看)
             </div>
          </div>
          <div class="page">
