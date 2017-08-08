@@ -115,6 +115,7 @@ $("#lily0714-github-io").hide();
             </div>
          </div>
          <div class="dream1">
+         <br>
          <p class="post">2010年下半-2011年上半</p>
             <div class="dcontent">
                這段時間一樣是在忙課業，<br>
