@@ -83,22 +83,9 @@ color:white;
          <div id="allmessage">
          aaaa
          </div>
-         留言区域：<textarea id="content" type="text"></textarea><br />
-        显示留言区域：<div id="display_area"></div>
-        <input value="提交" type="button" id="btn" />
       </div>   
    </div>
    <div id="FOOTER"> 
       <img src="http://lily0714.github.io/底.png" width="980" height="60">
    </div>
-   </body>
-   <script>
-    window.onload=function(){
-        var display_area = document.getElementById("display_area");
-        var btn = document.getElementById("btn");
-        btn.onclick = function(){
-            var content_val = document.getElementById("content").value;
-            display_area.append(content_val);
-        };
-    }
-    </script>
+   </body>
