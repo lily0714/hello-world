@@ -68,8 +68,8 @@ color:white;
                 var name=document.getElementById("yourname").value;
                 var leacon=document.getElementById("leavecon").value;
                 if(name.value!=undefined || leacon.value!=undefined){
-                    $("#yourname").load("https://lily0714.github.io/leavemessage #allmessage");  
-                     $("#leavecon").load("https://lily0714.github.io/leavemessage #allmessage");  
+                    $("#allmessage").load("https://lily0714.github.io/leavemessage #yourname");  
+                     $("#allmessage").load("https://lily0714.github.io/leavemessage #leavecon");  
                 }
                 else{
                 alart("你沒填完整");
