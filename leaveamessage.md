@@ -64,9 +64,9 @@ color:white;
       </div>
       <div id="CONTENT">
          <script>
+                function show(){
                 var name=document.getElementById("yourname").value;
                 var leacon=document.getElementById("leavecon").value;
-                function show(){
                 if(name.value!="NULL" || leacon.value!="NULL"){
                     $("#allmessage").text( name +"<br>" +leacon+"<br>");  
                 }
