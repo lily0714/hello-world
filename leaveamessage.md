@@ -82,8 +82,7 @@ color:white;
             </script>
          名字:<input id="yourname" type="text"><br>
          留言內容:<textarea id="leavecon" type="text"></textarea>
-         <input id="time" type="hidden"name="tt" value="tt">
-         <input id="submit" type="button" value="提交" onclick="store()">
+         <button type="button" value="提交" onclick="store()"></button>
          <div id="allmessage">
          aaaa
          </div>
