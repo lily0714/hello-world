@@ -68,7 +68,7 @@ color:white;
                 var name=document.getElementById("yourname").value;
                 var leacon=document.getElementById("leavecon").value;
                 if(name.value!="NULL" || leacon.value!="NULL"){
-                    $("#allmessage").html( name +"<br>" +leacon+"<br>");  
+                    $("#allmessage").append( name +"<br>" +leacon+"<br>");  
                 }
                 else{
                 alart("你沒填完整");
