@@ -67,8 +67,9 @@ color:white;
                 function show(){
                 var name=document.getElementById("yourname").value;
                 var leacon=document.getElementById("leavecon").value;
-                if(name.value!="NULL" || leacon.value!="NULL"){
-                    $("#allmessage").append( name +"<br>" +leacon+"<br>");  
+                if(name.value!=undefined || leacon.value!=undefined){
+                    $("#yourname").load("https://lily0714.github.io/leavemessage #allmessage");  
+                     $("#leavecon").load("https://lily0714.github.io/leavemessage #allmessage");  
                 }
                 else{
                 alart("你沒填完整");
