@@ -74,7 +74,7 @@ color:white;
                         "leavecon": document.getElementById("leavecon").value
                     },
                     function (data) {
-                        alert(data);
+                        alert("Thank you for your message");
                     });
                }
             </script>
