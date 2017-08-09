@@ -68,7 +68,7 @@ color:white;
                 var name=document.getElementById("yourname").value;
                 var leacon=document.getElementById("leavecon").value;
                 if(name.value!="NULL" || leacon.value!="NULL"){
-                    $("#allmessage").load("https://lily0714.github.io/leaveamessage #yourname");  
+                    $("#allmessage").append("https://lily0714.github.io/leaveamessage #yourname");  
                      $("#allmessage").load("https://lily0714.github.io/leaveamessage #leavecon");  
                 }
                 else{
@@ -76,15 +76,29 @@ color:white;
                 }
                 }
             </script>
+         <form action="https://lily0714.github.io/update.php" method="post">
          名字:<input id="yourname" type="text"><br>
          留言內容:<textarea id="leavecon" type="text"></textarea>
-         <button id="submit" type="button" value="提交" onclick="show()"></button>
+         <input  id="submit" type="submit" value="提交" onclick="show()">
          <div id="allmessage">
          aaaa
          </div>
+         留言区域：<textarea id="content" type="text"></textarea><br />
+        显示留言区域：<div id="display_area"></div>
+        <input value="提交" type="button" id="btn" />
       </div>   
    </div>
    <div id="FOOTER"> 
       <img src="http://lily0714.github.io/底.png" width="980" height="60">
    </div>
    </body>
+   <script>
+    window.onload=function(){
+        var display_area = document.getElementById("display_area");
+        var btn = document.getElementById("btn");
+        btn.onclick = function(){
+            var content_val = document.getElementById("content").value;
+            display_area.append(content_val);
+        };
+    }
+    </script>
