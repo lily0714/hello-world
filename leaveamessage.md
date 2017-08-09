@@ -74,9 +74,7 @@ color:white;
                         "leavecon": document.getElementById("leavecon").value
                     },
                     function (data) {
-                        document.write("--------------------------");
-                        document.write("Result = "+data);
-                        document.write("--------------------------");
+                        alert(data);
                     });
                }
             </script>
