@@ -66,7 +66,7 @@ color:white;
          <script>
                function store(){
                   var date = new Date();
-                  var now = date.getYear()+"-"+date.getMonth()+"-"+date.getDate()+" "+
+                  var now = date.getFullYear()+"-"+date.getMonth()+"-"+date.getDate()+" "+
                    date.getHours() + ':' + date.getMinutes() + ':' + date.getSeconds();
                    $.get("https://script.google.com/macros/s/AKfycbzKTZf5r656DL1NC-qNN9nVGXcnRXw7hTZiksjgg5ZrpmZk4SA/exec", {
                         "time": now,
