@@ -15,6 +15,15 @@ $("#lily0714-github-io").hide();
 });
 </script>
  <link href="insidepage.css" rel="stylesheet" type="text/css" media="all"> 
+<style>
+#allmessage{
+width:400px;
+height:300px;
+background-color:brown;
+color:white;
+
+}
+</style>
    <body>
    <div class="categoryho">點我查看更多</div>
    <div class="categoryhide">點我收起來</div>
@@ -54,17 +63,23 @@ $("#lily0714-github-io").hide();
           </div>
       </div>
       <div id="CONTENT">
-         名字:<input id="yourname" type="text"><br>
-         留言內容:<textarea id="leavecon" type="text"></textarea>
-         <button id="submit" type="button" value="提交"></button>
-         <div id="allmessage">
-            <script>
-                if($("#submit").click() && ($("#yourname").value!="NULL" || $("#leavecon").value!="NULL")){
-                    var name=$("#yourname").value;
-                    var leacon=$("#leavecon").value;
-                    $("#allmessage").innerHTML = name +"<br>" +leacon+"<br>";  
+         <script>
+                var name=document.getElementById("yourname").value;
+                var leacon=document.getElementById("leavecon").value;
+                function show(){
+                if(name.value!="NULL" || leacon.value!="NULL"){
+                    document.getElementById("allmessage").innerHTML = name +"<br>" +leacon+"<br>";  
+                }
+                else{
+                alart("你沒填完整");
+                }
                 }
             </script>
+         名字:<input id="yourname" type="text"><br>
+         留言內容:<textarea id="leavecon" type="text"></textarea>
+         <button id="submit" type="button" value="提交" onclick="show()"></button>
+         <div id="allmessage">
+         aaaa
          </div>
       </div>   
    </div>
