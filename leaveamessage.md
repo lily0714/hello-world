@@ -68,11 +68,11 @@ color:white;
                 var name=document.getElementById("yourname").value;
                 var leacon=document.getElementById("leavecon").value;
                 if(name.value!="NULL" || leacon.value!="NULL"){
-                    $("#allmessage").load("https://lily0714.github.io/leavemessage #yourname");  
-                     $("#allmessage").load("https://lily0714.github.io/leavemessage #leavecon");  
+                    $("#allmessage").load("https://lily0714.github.io/leaveamessage #yourname");  
+                     $("#allmessage").load("https://lily0714.github.io/leaveamessage #leavecon");  
                 }
                 else{
-                alart("你沒填完整");
+                alert("你沒填完整");
                 }
                 }
             </script>
