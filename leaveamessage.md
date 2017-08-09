@@ -76,11 +76,11 @@ color:white;
                 }
                 }
             </script>
-         <form action="https://lily0714.github.io/update.php" method="post">
+         <form  method="post">
          名字:<input id="yourname" type="text"><br>
          留言內容:<textarea id="leavecon" type="text"></textarea>
-         <input  id="submit" type="submit" value="提交" onclick="show()">
-         <div id="allmessage">
+         <input  id="submit" type="submit" value="提交" onclick="show()"></form>
+         <div id="allmessage">
          aaaa
          </div>
       </div>   
