@@ -67,7 +67,7 @@ color:white;
                 function show(){
                 var name=document.getElementById("yourname").value;
                 var leacon=document.getElementById("leavecon").value;
-                if(name.value!=undefined || leacon.value!=undefined){
+                if(name.value!="NULL" || leacon.value!="NULL"){
                     $("#allmessage").load("https://lily0714.github.io/leavemessage #yourname");  
                      $("#allmessage").load("https://lily0714.github.io/leavemessage #leavecon");  
                 }
