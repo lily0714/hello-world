@@ -65,21 +65,25 @@ color:white;
       <div id="CONTENT">
          <script>
                 function show(){
-                var name=document.getElementById("yourname").value;
-                var leacon=document.getElementById("leavecon").value;
-                if(name.value!="NULL" || leacon.value!="NULL"){
-                    $("#allmessage").append("https://lily0714.github.io/leaveamessage #yourname");  
-                     $("#allmessage").load("https://lily0714.github.io/leaveamessage #leavecon");  
-                }
-                else{
-                alert("你沒填完整");
-                }
+               var date = new Date();
+               var now = date.getYear()+"-"+date.getMonth()+"-"+date.getDate()+" "+
+               date.getHours() + ':' + date.getMinutes() + ':' + date.getSeconds();
+                $.post("https://script.google.com/macros/s/AKfycbzKTZf5r656DL1NC-qNN9nVGXcnRXw7hTZiksjgg5ZrpmZk4SA/exec, {
+                        "time": now,
+                        "name": document.getElementById("yourname").value,
+                        "leavecon": document.getElementById("leavecon").value
+                    },
+                    function (data) {
+                        document.write("--------------------------");
+                        document.write("Result = "+data);
+                        document.write("--------------------------");
+                    });
                 }
             </script>
-         <form  method="post">
          名字:<input id="yourname" type="text"><br>
          留言內容:<textarea id="leavecon" type="text"></textarea>
-         <input  id="submit" type="submit" value="提交" onclick="show()"></form>
+         <input id="time" type="hidden"name="tt" value="tt">
+         <input id="submit" type="button" value="提交" onclick="store()">
          <div id="allmessage">
          aaaa
          </div>
