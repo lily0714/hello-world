@@ -68,7 +68,7 @@ color:white;
                   var date = new Date();
                   var now = date.getYear()+"-"+date.getMonth()+"-"+date.getDate()+" "+
                    date.getHours() + ':' + date.getMinutes() + ':' + date.getSeconds();
-                   $.post("https://script.google.com/macros/s/AKfycbzKTZf5r656DL1NC-qNN9nVGXcnRXw7hTZiksjgg5ZrpmZk4SA/exec, {
+                   $.post("https://script.google.com/macros/s/AKfycbzKTZf5r656DL1NC-qNN9nVGXcnRXw7hTZiksjgg5ZrpmZk4SA/exec", {
                         "time": now,
                         "name": document.getElementById("yourname").value,
                         "leavecon": document.getElementById("leavecon").value
@@ -82,7 +82,7 @@ color:white;
             </script>
          名字:<input id="yourname" type="text"><br>
          留言內容:<textarea id="leavecon" type="text"></textarea>
-         <button type="button" value="提交" onclick="store()"></button>
+         <input type="button" value="提交" onclick="store()">
          <div id="allmessage">
          aaaa
          </div>
