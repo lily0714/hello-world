@@ -64,11 +64,11 @@ color:white;
       </div>
       <div id="CONTENT">
          <script>
-                function show(){
-               var date = new Date();
-               var now = date.getYear()+"-"+date.getMonth()+"-"+date.getDate()+" "+
-               date.getHours() + ':' + date.getMinutes() + ':' + date.getSeconds();
-                $.post("https://script.google.com/macros/s/AKfycbzKTZf5r656DL1NC-qNN9nVGXcnRXw7hTZiksjgg5ZrpmZk4SA/exec, {
+               function store(){
+                  var date = new Date();
+                  var now = date.getYear()+"-"+date.getMonth()+"-"+date.getDate()+" "+
+                   date.getHours() + ':' + date.getMinutes() + ':' + date.getSeconds();
+                   $.post("https://script.google.com/macros/s/AKfycbzKTZf5r656DL1NC-qNN9nVGXcnRXw7hTZiksjgg5ZrpmZk4SA/exec, {
                         "time": now,
                         "name": document.getElementById("yourname").value,
                         "leavecon": document.getElementById("leavecon").value
@@ -78,7 +78,7 @@ color:white;
                         document.write("Result = "+data);
                         document.write("--------------------------");
                     });
-                }
+               }
             </script>
          名字:<input id="yourname" type="text"><br>
          留言內容:<textarea id="leavecon" type="text"></textarea>
