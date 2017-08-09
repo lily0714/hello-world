@@ -62,7 +62,7 @@ $("#lily0714-github-io").hide();
                 if($("#submit").click() && ($("#yourname").value!="NULL" || $("#leavecon").value!="NULL")){
                     var name=$("#yourname").value;
                     var leacon=$("#leavecon").value;
-                    $("allmessage").innerHTML = name +"<br>" +leacon+"<br>";  
+                    $("#allmessage").innerHTML = name +"<br>" +leacon+"<br>";  
                 }
             </script>
          </div>
