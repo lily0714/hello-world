@@ -83,8 +83,7 @@ left: 10px;
                    function store(){
                    var chk = 0;
                      if(document.all("checkprivate").checked){
-                       chk=1;
-                       $("#checkprivate").attr("value")=1;
+                       chk = true;
                      }
                       var date = new Date();
                       var now = date.getFullYear()+" - "+(date.getMonth()+1)+" - "+date.getDate()+" "+
@@ -93,11 +92,10 @@ left: 10px;
                             "time": now,
                             "name": document.getElementById("yourname").value,
                             "leavecon": document.getElementById("leacon").value,
-                            "checkprivate": $("#checkprivate").attr("value")+chk
+                            "checkprivate":chk
                         },
                         function (data) {
                             alert("Thank you for your message"+ chk);
-                            alert($("#checkprivate").attr("value"));
                         });
                    }
 </script>
