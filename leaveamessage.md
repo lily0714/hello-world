@@ -92,7 +92,7 @@ left: 10px;
                             "time": now,
                             "name": document.getElementById("yourname").value,
                             "leavecon": document.getElementById("leacon").value,
-                            "checkprivate": chk,
+                            "checkprivate": chk
                         },
                         function (data) {
                             alert("Thank you for your message"+chk);
