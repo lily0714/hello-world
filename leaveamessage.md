@@ -16,12 +16,25 @@ $("#lily0714-github-io").hide();
 </script>
  <link href="insidepage.css" rel="stylesheet" type="text/css" media="all"> 
 <style>
-#allmessage{
-width:400px;
-height:300px;
-background-color:brown;
-color:white;
-
+.leavecon{
+font-size:14px;
+}
+#alllea {
+    font-size: 14px;
+    position: relative;
+    left: 30px;
+    top: 30px;
+    width: 500px;
+    
+}
+#yourname{
+position: relative;
+left: 10px;
+}
+#checklea {
+    color: white;
+    background-color: #cc6d1e;
+    width: 60px;
 }
 </style>
    <body>
@@ -63,26 +76,28 @@ color:white;
           </div>
       </div>
       <div id="CONTENT">
-         <script>
-               function store(){
-                  var date = new Date();
-                  var now = date.getFullYear()+" - "+(date.getMonth()+1)+" - "+date.getDate()+" "+
-                   date.getHours() + ':' + date.getMinutes() + ':' + date.getSeconds();
-                   $.get("https://script.google.com/macros/s/AKfycbzKTZf5r656DL1NC-qNN9nVGXcnRXw7hTZiksjgg5ZrpmZk4SA/exec", {
-                        "time": now,
-                        "name": document.getElementById("yourname").value,
-                        "leavecon": document.getElementById("leavecon").value
-                    },
-                    function (data) {
-                        alert("Thank you for your message");
-                    });
-               }
-            </script>
-         名字:<input id="yourname" type="text"><br>
-         留言內容:<textarea id="leavecon" type="text"></textarea><br>
-         <input type="button" value="提交" onclick="store()">
-         <div id="allmessage">
-         aaaa
+         <div class="leave">
+            <p class="post">留言板</p><div id="alllea" class="dcontent">
+<script>
+                   function store(){
+                      var date = new Date();
+                      var now = date.getFullYear()+" - "+(date.getMonth()+1)+" - "+date.getDate()+" "+
+                       date.getHours() + ':' + date.getMinutes() + ':' + date.getSeconds();
+                       $.get("https://script.google.com/macros/s/AKfycbzKTZf5r656DL1NC-qNN9nVGXcnRXw7hTZiksjgg5ZrpmZk4SA/exec", {
+                            "time": now,
+                            "name": document.getElementById("yourname").value,
+                            "leavecon": document.getElementById("leavecon").value
+                        },
+                        function (data) {
+                            alert("Thank you for your message");
+                        });
+                   }
+</script>
+<p style="color:#990000; font-size:14px">*目前只能留言，版主正努力找尋方法呈現在頁面上( • ̀ω•́ )<br>若期望日後看到自己的留言的話，請在名字那欄加個"：D"</p>名字：<input class="leavecon" id="yourname" type="text"><br><br>
+留言內容：<br>
+         <textarea class="leavecon" type="text" style="width: 300px;height: 150px; resize: none;"></textarea>
+         <input id="checklea" type="button" value="提交" onclick="store()">
+            </div>
          </div>
       </div>   
    </div>
