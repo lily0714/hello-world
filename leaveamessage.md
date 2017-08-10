@@ -81,7 +81,7 @@ left: 10px;
             <p class="post">留言板</p><div id="alllea" class="dcontent">
 <script>
                    function store(){
-                     if(document.getElementByid("checkprivate").checked){
+                     if(document.all("checkprivate").checked){
                        document.getElementByid("checkprivate").value="true";
                      }
                     else{
