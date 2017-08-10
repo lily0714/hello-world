@@ -96,6 +96,7 @@ left: 10px;
                         },
                         function (data) {
                             alert("Thank you for your message"+ chk);
+                            alert($("#checkprivate").attr("value"));
                         });
                    }
 </script>
