@@ -559,7 +559,7 @@ color: orange;
          </div>
          <div class="leave">
             <p class="post">留言板</p><div id="alllea" class="dcontent">
-               <script>
+<script>
                    function store(){
                       var date = new Date();
                       var now = date.getFullYear()+" - "+(date.getMonth()+1)+" - "+date.getDate()+" "+
@@ -573,8 +573,8 @@ color: orange;
                             alert("Thank you for your message");
                         });
                    }
-            </script>名字：<input class="leavecon" id="yourname" type="text"><br><br>
-         留言內容：<br>
+</script>名字：<input class="leavecon" id="yourname" type="text"><br><br>
+留言內容：<br>
          <textarea class="leavecon" type="text" style="width: 300px;height: 150px; resize: none;"></textarea>
          <input id="checklea" type="button" value="提交" onclick="store()">
             </div>
