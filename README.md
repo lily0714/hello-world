@@ -395,7 +395,7 @@ position:relative;
 left:20px;
 }
 #get-day{
-width:162px;
+width:180px;
 height:40px;
 padding-left: 8px;
 font-size:14px;
