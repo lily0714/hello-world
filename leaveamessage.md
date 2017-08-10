@@ -13,6 +13,7 @@ $(".categoryhide").click(function(){
 });
 $("#lily0714-github-io").hide();
 });
+$("#checkprivate").attr("checked",'');
 </script>
  <link href="insidepage.css" rel="stylesheet" type="text/css" media="all"> 
 <style>
@@ -86,10 +87,11 @@ left: 10px;
                        $.get("https://script.google.com/macros/s/AKfycbzKTZf5r656DL1NC-qNN9nVGXcnRXw7hTZiksjgg5ZrpmZk4SA/exec", {
                             "time": now,
                             "name": document.getElementById("yourname").value,
-                            "leavecon": document.getElementById("leacon").value
+                            "leavecon": document.getElementById("leacon").value,
+                            "checkprivate": document.getElementById("checkprivate").value,
                         },
                         function (data) {
-                            alert("Thank you for your message");
+                            alert("Thank you for your message"+checkprivate);
                         });
                    }
 </script>
@@ -97,6 +99,7 @@ left: 10px;
 留言內容：<br>
          <textarea class="leavecon" id="leacon" type="text" style="width: 300px;height: 150px; resize: none;"></textarea>
          <input id="checklea" type="button" value="提交" onclick="store()">
+         <input id="checkprivate" type="checkbox">
             </div>
          </div>
       </div>   
