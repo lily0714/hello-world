@@ -579,6 +579,7 @@ color: orange;
                       },
                         function (data) {
                             alert("Thank you for your message :D");
+                            history.go(0):
                         });
                    }
 </script>
