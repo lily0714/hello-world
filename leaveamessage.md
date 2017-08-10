@@ -81,9 +81,9 @@ left: 10px;
             <p class="post">留言板</p><div id="alllea" class="dcontent">
 <script>
                    function store(){
-                   var chk = "false";
+                   var chk = 0;
                      if(document.all("checkprivate").checked){
-                       chk="true";
+                       chk =  1;
                      }
                       var date = new Date();
                       var now = date.getFullYear()+" - "+(date.getMonth()+1)+" - "+date.getDate()+" "+
