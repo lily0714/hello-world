@@ -81,6 +81,12 @@ left: 10px;
             <p class="post">留言板</p><div id="alllea" class="dcontent">
 <script>
                    function store(){
+                     if(document.getElementByid("checkprivate").checked){
+                       document.getElementByid("checkprivate").value="true";
+                     }
+                    else{
+                       document.getElementByid("checkprivate").value="false";
+                   }
                       var date = new Date();
                       var now = date.getFullYear()+" - "+(date.getMonth()+1)+" - "+date.getDate()+" "+
                        date.getHours() + ':' + date.getMinutes() + ':' + date.getSeconds();
@@ -99,18 +105,7 @@ left: 10px;
 留言內容：<br>
          <textarea class="leavecon" id="leacon" type="text" style="width: 300px;height: 150px; resize: none;"></textarea>
          <input id="checklea" type="button" value="提交" onclick="store()"><br>
-         <input id="checkprivate" type="checkbox" onclick="chkpri()">設為悄悄話
-         <script>
-            function chkpri(){
-               if(document.getElementByid("checkprivate").checked){
-               document.getElementByid("checkprivate").value="true";
-               }
-               else{
-               document.getElementByid("checkprivate").value="false";
-               }
-            }
-
-</script>
+         <input id="checkprivate" type="checkbox">設為悄悄話
             </div>
          </div>
       </div>   
