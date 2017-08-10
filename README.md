@@ -390,7 +390,7 @@ background: #DDAA00;
 text-decoration:underline;
 color:#FFFFFF;
 }
-#leavecon{
+.leavecon{
 position:relative;
 left:20px;
 }
@@ -561,9 +561,9 @@ color: orange;
                     });
                }
             </script>
-名字：<input id="yourname" type="text"><br>
+名字：<input class="leavecon" id="yourname" type="text"><br>
          留言內容：<br><br>
-         <textarea id="leavecon" type="text" rows="8" cols="40"></textarea><br>
+         <textarea class="leavecon" type="text" rows="8" cols="40"></textarea><br>
          <input type="button" value="提交" onclick="store()">
             </div>
          </div>
