@@ -561,9 +561,9 @@ color: orange;
                     });
                }
             </script>
-         名字：<input id="yourname" type="text"><br>
-         留言內容：<br>
-         <textarea id="leavecon" type="text" rows="3" cols="20"></textarea><br>
+名字：<input id="yourname" type="text"><br>
+         留言內容：<br><br>
+         <textarea id="leavecon" type="text" rows="8" cols="40"></textarea><br>
          <input type="button" value="提交" onclick="store()">
             </div>
          </div>
