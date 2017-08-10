@@ -95,7 +95,7 @@ left: 10px;
                             "checkprivate": chk
                         },
                         function (data) {
-                            alert("Thank you for your message"+chk);
+                            alert("Thank you for your message"+ chk);
                         });
                    }
 </script>
