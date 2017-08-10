@@ -20,6 +20,7 @@ $("p.dream").css({cursor:"pointer"}).click(function(){
   $(".post0").fadeOut("fast");
   $(".music").fadeOut("fast");
   $(".draw").fadeOut("fast");
+  $(".leave").fadeOut("fast");
 });
 $("p.in1").css({cursor:"pointer"}).click(function(){
   $(".draw").fadeIn("fast");
@@ -34,6 +35,7 @@ $("p.in2").css({cursor:"pointer"}).click(function(){
   $(".post0").fadeOut("fast");
   $(".music").fadeOut("fast");
   $(".dream1").fadeOut("fast");
+  $(".leave").fadeOut("fast");
 });
 $("p.in3").css({cursor:"pointer"}).click(function(){
   $(".music").fadeIn("fast");
@@ -41,9 +43,19 @@ $("p.in3").css({cursor:"pointer"}).click(function(){
   $(".post0").fadeOut("fast");
   $(".diy").fadeOut("fast");
   $(".dream1").fadeOut("fast");
+  $(".leave").fadeOut("fast");
 });
 $("p.homepage").css({cursor:"pointer"}).click(function(){
   $(".post0").fadeIn("fast");
+  $(".draw").fadeOut("fast");
+  $(".music").fadeOut("fast");
+  $(".diy").fadeOut("fast");
+  $(".dream1").fadeOut("fast");
+  $(".leave").fadeOut("fast");
+});
+$("p.message").css({cursor:"pointer"}).click(function(){
+  $(".leave").fadeIn("fast");
+  $(".post0").fadeOut("fast");
   $(".draw").fadeOut("fast");
   $(".music").fadeOut("fast");
   $(".diy").fadeOut("fast");
@@ -113,6 +125,9 @@ display: none;
 display: none;
 }
 .dream1{
+display:none;
+}
+.leave{
 display:none;
 }
 .postdate {
@@ -447,7 +462,7 @@ color: orange;
            <p class="in1">畫畫</p>
            <p class="in2">手做</p>
            <p class="in3">演奏樂器</p>
-           <p class="r-cat meassage">留言板</p>
+           <p class="r-cat message">留言板</p>
          </div>
       </div>
       <div id="CONTENT">
@@ -522,6 +537,30 @@ color: orange;
                其中我感受到的一個要點是，＂不管學什麼樂器，節奏都是很重要的。＂<br>
                漸漸地，聽歌不再是只聽旋律部份，還會聽背景的鼓聲、低音部份，<br>
                藉由這種練習，我發現對演奏樂器或是唱歌都很有用，都能穩穩地跟著節奏完成一首歌。
+            </div>
+         </div>
+         <div class="leave">
+            <p class="post">留言板</p>
+            <br>
+            <div class="dcontent">
+               <script>
+               function store(){
+                  var date = new Date();
+                  var now = date.getFullYear()+" - "+(date.getMonth()+1)+" - "+date.getDate()+" "+
+                   date.getHours() + ':' + date.getMinutes() + ':' + date.getSeconds();
+                   $.get("https://script.google.com/macros/s/AKfycbzKTZf5r656DL1NC-qNN9nVGXcnRXw7hTZiksjgg5ZrpmZk4SA/exec", {
+                        "time": now,
+                        "name": document.getElementById("yourname").value,
+                        "leavecon": document.getElementById("leavecon").value
+                    },
+                    function (data) {
+                        alert("Thank you for your message");
+                    });
+               }
+            </script>
+         名字:<input id="yourname" type="text"><br>
+         留言內容:<textarea id="leavecon" type="text"></textarea><br>
+         <input type="button" value="提交" onclick="store()">
             </div>
          </div>
        </div>
