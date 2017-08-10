@@ -98,8 +98,19 @@ left: 10px;
 <p style="color:#990000; font-size:14px">*目前只能留言，版主正努力找尋方法呈現在頁面上( • ̀ω•́ )<br>若期望日後看到自己的留言的話，請在名字那欄加個"：D"</p>名字：<input class="leavecon" id="yourname" type="text"><br><br>
 留言內容：<br>
          <textarea class="leavecon" id="leacon" type="text" style="width: 300px;height: 150px; resize: none;"></textarea>
-         <input id="checklea" type="button" value="提交" onclick="store()">
-         <input id="checkprivate" type="checkbox">
+         <input id="checklea" type="button" value="提交" onclick="store()"><br>
+         <input id="checkprivate" type="checkbox">設為悄悄話
+         <script>
+            function chkpri(){
+               if(document.getElementByid("checkprivate").checked){
+               document.getElementByid("checkprivate").value="true";
+               }
+               else{
+               document.getElementByid("checkprivate").value="false";
+               }
+            }
+
+</script>
             </div>
          </div>
       </div>   
