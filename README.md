@@ -390,6 +390,10 @@ background: #DDAA00;
 text-decoration:underline;
 color:#FFFFFF;
 }
+#leavecon{
+position:relative;
+left:20px;
+}
 #get-day{
 width:162px;
 height:40px;
@@ -557,8 +561,8 @@ color: orange;
                     });
                }
             </script>
-         名字:<input id="yourname" type="text"><br>
-         留言內容:<br>
+         名字：<input id="yourname" type="text"><br>
+         留言內容：<br>
          <textarea id="leavecon" type="text" rows="3" cols="20"></textarea><br>
          <input type="button" value="提交" onclick="store()">
             </div>
