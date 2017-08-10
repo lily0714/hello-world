@@ -81,12 +81,10 @@ left: 10px;
             <p class="post">留言板</p><div id="alllea" class="dcontent">
 <script>
                    function store(){
+                   var chk = false;
                      if(document.all("checkprivate").checked){
-                       document.getElementByid("checkprivate").value="true";
+                       chk=true;
                      }
-                    else{
-                       document.getElementByid("checkprivate").value="false";
-                   }
                       var date = new Date();
                       var now = date.getFullYear()+" - "+(date.getMonth()+1)+" - "+date.getDate()+" "+
                        date.getHours() + ':' + date.getMinutes() + ':' + date.getSeconds();
@@ -94,10 +92,10 @@ left: 10px;
                             "time": now,
                             "name": document.getElementById("yourname").value,
                             "leavecon": document.getElementById("leacon").value,
-                            "checkprivate": document.getElementById("checkprivate").value,
+                            "checkprivate": chk,
                         },
                         function (data) {
-                            alert("Thank you for your message"+checkprivate);
+                            alert("Thank you for your message"+chk);
                         });
                    }
 </script>
