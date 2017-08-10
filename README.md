@@ -28,6 +28,7 @@ $("p.in1").css({cursor:"pointer"}).click(function(){
   $(".post0").fadeOut("fast");
   $(".music").fadeOut("fast");
   $(".dream1").fadeOut("fast");
+  $(".leave").fadeOut("fast");
 });
 $("p.in2").css({cursor:"pointer"}).click(function(){
   $(".diy").fadeIn("fast");
@@ -398,6 +399,8 @@ font-size:14px;
     position: relative;
     left: 30px;
     top: 30px;
+    width: 500px;
+    
 }
 #yourname{
 position: relative;
