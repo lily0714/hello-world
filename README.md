@@ -391,8 +391,22 @@ text-decoration:underline;
 color:#FFFFFF;
 }
 .leavecon{
-position:relative;
-left:20px;
+font-size:14px;
+}
+#alllea {
+    font-size: 14px;
+    position: relative;
+    left: 30px;
+    top: 30px;
+}
+#yourname{
+position: relative;
+left: 10px;
+}
+#checklea {
+    color: white;
+    background-color: #cc6d1e;
+    width: 60px;
 }
 #get-day{
 width:180px;
@@ -544,27 +558,25 @@ color: orange;
             </div>
          </div>
          <div class="leave">
-            <p class="post">留言板</p>
-            <div class="dcontent">
+            <p class="post">留言板</p><div id="alllea" class="dcontent">
                <script>
-               function store(){
-                  var date = new Date();
-                  var now = date.getFullYear()+" - "+(date.getMonth()+1)+" - "+date.getDate()+" "+
-                   date.getHours() + ':' + date.getMinutes() + ':' + date.getSeconds();
-                   $.get("https://script.google.com/macros/s/AKfycbzKTZf5r656DL1NC-qNN9nVGXcnRXw7hTZiksjgg5ZrpmZk4SA/exec", {
-                        "time": now,
-                        "name": document.getElementById("yourname").value,
-                        "leavecon": document.getElementById("leavecon").value
-                    },
-                    function (data) {
-                        alert("Thank you for your message");
-                    });
-               }
-            </script>
-名字：<input class="leavecon" id="yourname" type="text"><br>
-         留言內容：<br><br>
-         <textarea class="leavecon" type="text" rows="8" cols="40"></textarea><br>
-         <input type="button" value="提交" onclick="store()">
+                   function store(){
+                      var date = new Date();
+                      var now = date.getFullYear()+" - "+(date.getMonth()+1)+" - "+date.getDate()+" "+
+                       date.getHours() + ':' + date.getMinutes() + ':' + date.getSeconds();
+                       $.get("https://script.google.com/macros/s/AKfycbzKTZf5r656DL1NC-qNN9nVGXcnRXw7hTZiksjgg5ZrpmZk4SA/exec", {
+                            "time": now,
+                            "name": document.getElementById("yourname").value,
+                            "leavecon": document.getElementById("leavecon").value
+                        },
+                        function (data) {
+                            alert("Thank you for your message");
+                        });
+                   }
+            </script>名字：<input class="leavecon" id="yourname" type="text"><br><br>
+         留言內容：<br>
+         <textarea class="leavecon" type="text" style="width: 300px;height: 150px; resize: none;"></textarea>
+         <input id="checklea" type="button" value="提交" onclick="store()">
             </div>
          </div>
        </div>
