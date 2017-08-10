@@ -81,7 +81,7 @@ left: 10px;
             <p class="post">留言板</p><div id="alllea" class="dcontent">
 <script>
                    function store(){
-                   var chk = 0;
+                   var chk = false;
                      if(document.all("checkprivate").checked){
                        chk = true;
                      }
