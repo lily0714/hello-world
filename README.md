@@ -580,7 +580,7 @@ color: orange;
                         function (data) {
                             alert("Thank you for your message :D");
                         });
-                        history.go(0):
+                        history.go(0);
                    }
 </script>
 <p style="color:#990000; font-size:14px">*目前只能留言，版主正努力找尋方法將留言呈現在頁面上( • ̀ω•́ )</p>名字：<input class="leavecon" id="yourname" type="text"><br><br>
