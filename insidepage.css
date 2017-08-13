@@ -29,7 +29,7 @@ position:relative;
 left:-40px;
 font-family: Microsoft JhengHei;
 }
-.post1{
+img.post1{
 width:82%;
 height:auto;
 position:relative;
@@ -165,7 +165,7 @@ border-style:dotted;
 border-color:#DDAA00;
 font-family: Microsoft JhengHei;
 } 
-#CONTENT {
+div#CONTENT {
 margin-left:200px; 
 width:552px;
 height:3200px;
@@ -182,7 +182,7 @@ font-size: 12px;
 div.page a:link{
 color:#BB5500;
 }
-#LSIDE { 
+div#LSIDE { 
 float:left;
 width:162px; 
 position: relative;
