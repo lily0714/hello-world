@@ -30,7 +30,7 @@ left:-40px;
 font-family: Microsoft JhengHei;
 }
 .post1{
-width:50%;
+width:82%;
 height:auto;
 position:relative;
 left:25px;
@@ -167,7 +167,7 @@ font-family: Microsoft JhengHei;
 } 
 #CONTENT {
 margin-left:200px; 
-width:902px;
+width:552px;
 height:3200px;
 float:none;
 font-family: Microsoft JhengHei;
@@ -185,6 +185,9 @@ color:#BB5500;
 #LSIDE { 
 float:left;
 width:162px; 
+position: relative;
+left: 4px;
+top: 4px;
 border-width:2px; 
 border-left-style:solid; 
 border-right-style:solid; 
