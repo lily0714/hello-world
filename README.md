@@ -290,7 +290,10 @@ font-family: Microsoft JhengHei;
 } 
 #LSIDE { 
 float:left;
-width:162px; 
+width:162px;
+position:relative;
+left:4px;
+top:4px;
 border-width:2px; 
 border-left-style:solid; 
 border-right-style:solid; 
