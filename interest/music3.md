@@ -110,6 +110,24 @@ $("h1").hide();
                一邊示範一邊跟我說他吹寒訓練的曲子的技巧:D<br>
             </div>
          </div>
+          <div class="music">
+            <p class="post">大二上學期口琴成發 - 暖暖</p>
+            <iframe width="400" height="300" src="https://www.youtube.com/embed/s7H37ki9EDE" frameborder="0" allowfullscreen></iframe>
+            <div class="dcontent">
+               這首應該是我在社團聽過最多次的一首歌了吧，<br>
+               每次聽這首都覺得心裡很暖呢!<br>
+               .<br>
+               我想這首很適合放在成發表演的原因是，<br>
+               可以讓台下觀眾和我們有共鳴，<br>
+               因為算是很大眾化的曲子。<br>
+               .<br>
+               練這首的時候，其實我沒有花太多時間，<br>
+               因為我烏克麗麗也有練過這首，<br>
+               所以要換和弦的時候其實就跟之前練的一樣，<br>
+               對於主旋吹的位置在哪也比較抓地倒在哪裡，<br>
+               因此合的時候都還好。
+            </div>
+         </div>
          <div class="page">
          page <a href="https://lily0714.github.io/interest/music">&nbsp; 1&nbsp; </a> | <a href="https://lily0714.github.io/interest/music2">&nbsp; 2&nbsp; </a> | &nbsp; 3&nbsp; 
          </div>
