@@ -11,7 +11,7 @@ $(".categoryhide").click(function(){
    $(".categoryhide").hide();
    $(".categoryho").show();
 });
-$("#lily0714-github-io").hide();
+$("h1").hide();
 });
 </script>
 <link href="https://lily0714.github.io/insidepage.css" rel="stylesheet" type="text/css" media="all">
