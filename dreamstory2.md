@@ -129,7 +129,7 @@ $("h1").hide();
          <div class="dream1">
          <br>
          <p class="post">2011年暑假製作版型(圖片加工部分)</p>
-<a href="https://lily0714.github.io/2011seed.png" target="_blank"><img class="post1" src="https://lily0714.github.io/2011seed.png" ></a>
+<a href="https://lily0714.github.io/2011seed1.png" target="_blank"><img class="post1" src="https://lily0714.github.io/2011seed1.png" ></a>
             <div class="dcontent">
                這個暑假是我最後一次發版型，<br>
                因為之後要升國三了，很想要上好高中，<br>
