@@ -126,6 +126,24 @@ $("h1").hide();
                *歡迎到我以前的小格逛逛哦!-><a href="https://blog.xuite.net/r3456789/lily02">＊小陸的部落格天地∮</a>(現在還是偶爾會回來看看)
             </div>
          </div>
+         <div class="dream1">
+         <br>
+         <p class="post">2011年暑假製作版型(圖片加工部分)</p>
+<a href="https://lily0714.github.io/2011seed.png" target="_blank"><img class="post1" src="https://lily0714.github.io/2011seed.png" ></a>
+            <div class="dcontent">
+               這個暑假是我最後一次發版型，<br>
+               因為之後要升國三了，很想要上好高中，<br>
+               所以暑假幾乎都在補習班度過了。<br>
+               .<br>
+               同時，我在這時候發現用ImageShake存檔有個問題，<br>
+               就是沒登入ImageShake的話，任何網站都看不到上傳至ImageShake的圖檔，<br>
+               於是之後就選擇上傳至Xuite的相簿。<br>
+               .<br>
+               但這時候許多當初認識的格友都沒有再用Xuite的部落格了，<br>
+               在其他網站看到的幾乎都是新加入Xuite的人，<br>
+               感到有點落寞，因為自己也要暫時消失一陣子了...
+            </div>
+         </div>
          <div class="page">
 &nbsp; &nbsp; &nbsp; &nbsp; page <a href="https://lily0714.github.io/dreamstory">&nbsp; 1 &nbsp; </a> | &nbsp; 2 &nbsp;
          </div>
