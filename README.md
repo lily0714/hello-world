@@ -72,7 +72,7 @@ $(".categoryhide").click(function(){
    $(".categoryhide").hide();
    $(".categoryho").show();
 });
-$("#lily0714-github-io").hide();
+$("h1").hide();
 });
 var ymdw = new Date();
 var y = ymdw.getFullYear() , m = ymdw.getMonth()+1 , d = ymdw.getDate() , w = ymdw.getDay();
