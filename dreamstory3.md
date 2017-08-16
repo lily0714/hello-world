@@ -74,8 +74,8 @@ $("h1").hide();
          <div class="dream1">
          <br>
          <p class="post">灌溉過程 - 2013年高一社團靜態展</p>
-<a href="https://lily0714.github.io/09.png" target="_blank"><img class="post1" src="https://lily0714.github.io/09.png" width="150" height="210"></a>
-<a href="https://lily0714.github.io/11.png" target="_blank"><img class="post1" src="https://lily0714.github.io/11.png" width="150" height="70"></a>
+<a href="https://lily0714.github.io/09.png" target="_blank"><img class="post1" src="https://lily0714.github.io/09.png" ></a>
+<a href="https://lily0714.github.io/11.png" target="_blank"><img class="post1" src="https://lily0714.github.io/11.png" ></a>
             <div class="dcontent">
                上了高中後，我加入了電算社，<br>
                因為想增強自己美工的部分，就進了美工組。<br>
