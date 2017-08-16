@@ -145,7 +145,7 @@ $("h1").hide();
             </div>
          </div>
          <div class="page">
-&nbsp; &nbsp; &nbsp; &nbsp; page <a href="https://lily0714.github.io/dreamstory">&nbsp; 1 &nbsp; </a> | &nbsp; 2 &nbsp; |<a href="https://lily0714.github.io/dreamstory3">&nbsp; 3 &nbsp; </a> 
+&nbsp; &nbsp; &nbsp; &nbsp; page <a href="https://lily0714.github.io/dreamstory">&nbsp; 1 &nbsp; </a> | &nbsp; 2 &nbsp; |<a href="https://lily0714.github.io/dreamstory3.html">&nbsp; 3 &nbsp; </a> 
          </div>
       </div>   
    </div>
