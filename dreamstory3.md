@@ -116,7 +116,6 @@ $("h1").hide();
                但對於還是新手的我來說，畫一個人就要花超久的時間...<br>
                *上圖是看了宿營主題故事後的一些發想，<br>
                在0101的世界裡，有著富貴和貧窮的人們...
-            </div>
          </div>
          <div class="page">
 &nbsp; &nbsp; &nbsp; &nbsp; page <a href="https://lily0714.github.io/dreamstory">&nbsp; 1 &nbsp; </a> |<a href="https://lily0714.github.io/dreamstory2"> &nbsp; 2 &nbsp; </a> | &nbsp; 3 &nbsp; 
