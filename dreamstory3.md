@@ -89,7 +89,7 @@ $("h1").hide();
             </div>
          </div>
          <div class="page">
-&nbsp; &nbsp; &nbsp; &nbsp; page <a href="https://lily0714.github.io/dreamstory">&nbsp; 1 &nbsp; </a> | &nbsp; <a href="https://lily0714.github.io/dreamstory2">2 &nbsp; </a> | &nbsp; 3 &nbsp; 
+&nbsp; &nbsp; &nbsp; &nbsp; page <a href="https://lily0714.github.io/dreamstory">&nbsp; 1 &nbsp; </a> |<a href="https://lily0714.github.io/dreamstory2"> &nbsp; 2 &nbsp; </a> | &nbsp; 3 &nbsp; 
          </div>
       </div>   
    </div>
