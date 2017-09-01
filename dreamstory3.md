@@ -90,7 +90,7 @@ $("h1").hide();
          </div>
          <div class="dream1">
          <br>
-         <p class="post">灌溉過程 - 2013年高一社團成發</p>
+         <p class="post">灌溉過程 - 2014年高一社團成發</p>
 <a href="https://lily0714.github.io/2013seed.png" target="_blank"><img class="post1" src="https://lily0714.github.io/2013seed.png" ></a>
             <div class="dcontent">
                這是利用社課所學加上筆刷運用做成的，<br>
@@ -98,6 +98,24 @@ $("h1").hide();
                而社課是教PhotoShop(PS)，所以感覺不太熟悉。<br>
                但我相信多摸一些功能就會進步的:D<br>
                *上了高二以後，並沒有接幹部，所以主要還是自己私底下做生日卡囉!<br>
+               而高三呢，也主要在忙課業，所以就沒多做些什麼了。
+            </div>
+         </div>
+         <p class="post">灌溉過程 - 2016年大二宿營準備</p>
+<a href="https://lily0714.github.io/2016seed.png" target="_blank"><img class="post1" src="https://lily0714.github.io/2016seed.png" ></a>
+            <div class="dcontent">
+               印象中，大一並沒有做太多東西，也只有生日卡，<br>
+               因為對程式什麼的都不是很好，所以主要還是專注於課業。<br>
+               而社團部分也是有做些美宣的東西，但覺得不太適合傳上來(sorry啦:P)<br>
+               .<br>
+               這時候的我想說自己會美宣就去了美宣組了，<br>
+               不過，總覺得海報要自己畫不能抄襲或拿電影圖來改，<br>
+               於是就嘗試接觸了sai(繪圖軟體)。<br>
+               .<br>
+               感覺鼠繪還真難呢，雖然後來使用鋼筆工具有比較好用，<br>
+               但對於還是新手的我來說，畫一個人就要花超久的時間...<br>
+               *上圖是看了宿營主題故事後的一些發想，<br>
+               在0101的世界裡，有著富貴和貧窮的人們...
             </div>
          </div>
          <div class="page">
