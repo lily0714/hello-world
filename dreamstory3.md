@@ -101,8 +101,10 @@ $("h1").hide();
                而高三呢，也主要在忙課業，所以就沒多做些什麼了。
             </div>
          </div>
+         <div class="dream1">
+         <br>
          <p class="post">灌溉過程 - 2016年大二宿營準備</p>
-<a href="https://lily0714.github.io/2016seed.png" target="_blank"><img class="post1" src="https://lily0714.github.io/2016seed.png" ></a>
+<a href="https://lily0714.github.io/2016seed1.png" target="_blank"><img class="post1" src="https://lily0714.github.io/2016seed1.png" ></a>
             <div class="dcontent">
                印象中，大一並沒有做太多東西，也只有生日卡，<br>
                因為對程式什麼的都不是很好，所以主要還是專注於課業。<br>
@@ -116,8 +118,9 @@ $("h1").hide();
                但對於還是新手的我來說，畫一個人就要花超久的時間...<br>
                *上圖是看了宿營主題故事後的一些發想，<br>
                在0101的世界裡，有著富貴和貧窮的人們...
+            </div>
          </div>
-         <div class="page">
+         <div class="page">
 &nbsp; &nbsp; &nbsp; &nbsp; page <a href="https://lily0714.github.io/dreamstory">&nbsp; 1 &nbsp; </a> |<a href="https://lily0714.github.io/dreamstory2"> &nbsp; 2 &nbsp; </a> | &nbsp; 3 &nbsp; 
          </div>
       </div>   
