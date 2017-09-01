@@ -88,6 +88,18 @@ $("h1").hide();
                分別為星星便條和星花怒放背景圖:D
             </div>
          </div>
+         <div class="dream1">
+         <br>
+         <p class="post">灌溉過程 - 2013年高一社團成發</p>
+<a href="https://lily0714.github.io/2013seed.png" target="_blank"><img class="post1" src="https://lily0714.github.io/2013seed.png" ></a>
+            <div class="dcontent">
+               這是利用社課所學加上筆刷運用做成的，<br>
+               因為本身都用PhotoImpact(PI)用習慣了，<br>
+               而社課是教PhotoShop(PS)，所以感覺不太熟悉。<br>
+               但我相信多摸一些功能就會進步的:D<br>
+               *上了高二以後，並沒有接幹部，所以主要還是自己私底下做生日卡囉!<br>
+            </div>
+         </div>
          <div class="page">
 &nbsp; &nbsp; &nbsp; &nbsp; page <a href="https://lily0714.github.io/dreamstory">&nbsp; 1 &nbsp; </a> |<a href="https://lily0714.github.io/dreamstory2"> &nbsp; 2 &nbsp; </a> | &nbsp; 3 &nbsp; 
          </div>
