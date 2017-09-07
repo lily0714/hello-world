@@ -76,8 +76,7 @@ $("h1").hide();
          <p class="post">灌溉過程 - 2017年大二選修(一)</p>
 <a href="https://lily0714.github.io/2017seed1.png" target="_blank"><img class="post1" src="https://lily0714.github.io/2017seed1.png" ></a>
             <div class="dcontent">
-               這學期看到系上選修有糖和做網頁相關的課程，<br>
-               於是就選了下去。<br>
+               這學期看到系上選修有糖和做網頁相關的課程，於是就選了下去。<br>
                課程中學到了不少的語法，且要我們去做相關的練習。<br>
                而上圖是學了HTML和CSS後自己用語法做的網頁，<br>
                也就是這個個人資料的網頁誕生那天，<br>
