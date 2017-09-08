@@ -73,7 +73,7 @@ $("h1").hide();
          </div>
          <div class="dream1">
          <br>
-         <p class="post">灌溉過程 - 2017年大二選修(一)</p>
+         <p class="post">灌溉過程 - 2017年大二下選修(一)</p>
 <a href="https://lily0714.github.io/2017seed1.png" target="_blank"><img class="post1" src="https://lily0714.github.io/2017seed1.png" ></a>
             <div class="dcontent">
                這學期看到系上選修有糖和做網頁相關的課程，於是就選了下去。<br>
@@ -90,7 +90,7 @@ $("h1").hide();
          </div>
          <div class="dream1">
          <br>
-         <p class="post">灌溉過程 - 2017年大二選修(二)</p>
+         <p class="post">灌溉過程 - 2017年大二下選修(二)</p>
 <a href="https://lily0714.github.io/2017seed6.gif" target="_blank"><img class="post1" src="https://lily0714.github.io/2017seed6.gif" ></a>
             <div class="dcontent">
                後來在課堂上又教了jquery的語法，<br>
