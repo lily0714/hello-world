@@ -88,6 +88,26 @@ $("h1").hide();
                *"全網站都是自己製作"的夢想在此時也終於有個樣子出來了!
             </div>
          </div>
+         <div class="dream1">
+         <br>
+         <p class="post">灌溉過程 - 2017年大二選修(二)</p>
+<a href="https://lily0714.github.io/2017seed6.gif" target="_blank"><img class="post1" src="https://lily0714.github.io/2017seed6.gif" ></a>
+            <div class="dcontent">
+               後來在課堂上又教了jquery的語法，<br>
+               上圖是將各項興趣分開做成像按鈕，點下後就能讓隱藏的區塊出現，其他區塊消失。<br>
+               覺得jquery是個很有趣的東西，可以讓網頁"動"起來:)<br>
+               又因為jquery是javascript的語法寫成的，<br>
+               因此讓人更想一探究竟javascript的世界。<br>
+               .<br>
+               *相信大家都在首頁嘗試過這個功能了吧!!<br>
+               *其實原本是想做成頁籤式的，但這時候應用能力還不是很強，<br>
+               所以就用不出來...orz<br>
+               *如果你有注意到圖片網址有個"不安全"，(這是我把阻擋點開了)<br>
+               那是因為當時我所使用的語法是版本較新的，<br>
+               但在jquery載入函式褲時我是載入較舊的版本，<br>
+               所以就有跳出阻擋的狀況。
+            </div>
+         </div>
          <div class="page">
 &nbsp; &nbsp; &nbsp; &nbsp; page <a href="https://lily0714.github.io/dreamstory">&nbsp; 1 &nbsp; </a> |<a href="https://lily0714.github.io/dreamstory2"> &nbsp; 2 &nbsp; </a> |<a href="https://lily0714.github.io/dreamstory3"> &nbsp; 3 &nbsp; </a> | &nbsp; 4 &nbsp; 
          </div>
