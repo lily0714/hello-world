@@ -139,7 +139,8 @@ $("h1").hide();
                雖然跟真正厲害的chord手還差得很遠，<br>
                但連有一段時間沒來的學長都說我進步很多:D<br>
                .<br>
-               這次練的歌有劍舞、Day of the River、Raindrops Keep Falling on My Head、女人香和橄欖的首飾，<br>
+               這次練的歌有劍舞、女人香、橄欖的首飾、<br>
+               Day of the River以及Raindrops Keep Falling on My Head，<br>
                覺得這次曲子很多，但有幾首之前練過，<br>
                所以主要是在練情緒的氛圍居多...真的好難啊...(攤手~<br>
                不過最後學長姐表演的蘇打綠組曲超好聽，<br>
