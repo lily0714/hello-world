@@ -128,6 +128,24 @@ $("h1").hide();
                因此合的時候都還好。
             </div>
          </div>
+         <div class="music">
+            <p class="post">大二下學期口琴成發 - 琴閣抱抱</p>
+<a href="http://lily0714.github.io/music3.png" target="_blank"><img class="post1" src="http://lily0714.github.io/music3.png" ></a>
+            <div class="dcontent">
+               因為要不到這次的成發影片，所以就沒上傳了。<br>
+               這次成發應該是截至目前為止，表演最好的一次，<br>
+               除了場地比較好以外，<br>
+               在練曲上比較有學到些技巧。<br>
+               雖然跟真正厲害的chord手還差得很遠，<br>
+               但連有一段時間沒來的學長都說我進步很多:D<br>
+               .<br>
+               這次練的歌有劍舞、Day of the River、Raindrops Keep Falling on My Head、女人香和橄欖的首飾，<br>
+               覺得這次曲子很多，但有幾首之前練過，<br>
+               所以主要是在練情緒的氛圍居多...真的好難啊...(攤手~<br>
+               不過最後學長姐表演的蘇打綠組曲超好聽，<br>
+               原本覺得曲子要練很多很煩，但每次聽每次心裡都跟著雀躍了起來(灑花~
+            </div>
+         </div>
          <div class="page">
          page <a href="https://lily0714.github.io/interest/music">&nbsp; 1&nbsp; </a> | <a href="https://lily0714.github.io/interest/music2">&nbsp; 2&nbsp; </a> | &nbsp; 3&nbsp; 
          </div>
