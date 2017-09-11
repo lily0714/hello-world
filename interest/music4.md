@@ -87,7 +87,7 @@ $("h1").hide();
                當然最精彩的還是最後大合刷的部分囉!<br>
                和社團的朋友、不認識的烏克同好以及台上老師一起彈唱著曲子真的很開心:D<br>
                .<br>
-               *曲目為 雀小娜 - 我們的小旅行 :<a href="https://youtu.be/uWtn8DiKbJI">https://youtu.be/uWtn8DiKbJI</a>...
+               *曲目為 雀小娜 - 我們的小旅行 :<a href="https://youtu.be/uWtn8DiKbJI">https://youtu.be/uWtn8DiKbJI</a>
             </div>
          </div>
          <div class="page">
