@@ -88,7 +88,8 @@ $("h1").hide();
                和社團的朋友、不認識的烏克同好以及台上老師一起彈唱著曲子真的很開心:D<br>
                .<br>
                *大合刷曲目為 雀小娜 - 我們的小旅行 :<a href="https://youtu.be/uWtn8DiKbJI">https://youtu.be/uWtn8DiKbJI</a><br>
-               *現場大合刷影片:<a href="https://youtu.be/k2L_ejsNyPg">https://youtu.be/k2L_ejsNyPg</a>
+               *當天活動影片:<a href="https://youtu.be/YNfqs-rcDQw">https://youtu.be/YNfqs-rcDQw</a><br>
+               (可以調到後面看大合刷，你就知道當天來的人有多少了XDD)
             </div>
          </div>
          <div class="page">
