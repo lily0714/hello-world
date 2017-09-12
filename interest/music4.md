@@ -92,6 +92,26 @@ $("h1").hide();
                (可以調到後面看大合刷，你就知道當天來的人有多少了XDD)
             </div>
          </div>
+         <div class="music">
+            <p class="post">20161016 - 七校聯合一日營</p>
+<a href="http://lily0714.github.io/music5.png" target="_blank"><img class="post1" src="http://lily0714.github.io/music5.png" ></a>
+            <div class="dcontent">
+               第一次北部口琴社的大型聯合迎新:D<br>
+               .<br>
+               意外當上活動故事主軸的角色-小女孩，<br>
+               整體活動當然不外乎有大地、RPG、吹琴表演以及最後的大合奏。<br>
+               .<br>
+               能和北部各校口琴社一起辦活動是前所未有的事，<br>
+               雖然表演部分總覺得被電很慘，<br>
+               但準備過程中互相幫忙、共同為活動付出的感覺，真的非常好!!<br>
+               所以即使表演部分覺得沒有其他人強，<br>
+               活動能圓滿結束也是件很開心的事呢!<br>
+               .<br>
+               *因為社團人少，一直沒有辦法出個小合奏或大合奏，<br>
+               但這次活動就有大合奏的演出，能成為大合奏演奏的其中一員，感到非常興奮:D<br>
+               *感覺從高中以後就沒籌辦需要玩大地、RPG的活動了，也算是值得高興的一件事吧!
+            </div>
+         </div>
          <div class="page">
          page <a href="https://lily0714.github.io/interest/music">&nbsp; 1&nbsp; </a> | <a href="https://lily0714.github.io/interest/music2">&nbsp; 2&nbsp; </a> | <a href="https://lily0714.github.io/interest/music3">&nbsp; 3&nbsp; </a> | &nbsp; 4&nbsp; 
          </div>
