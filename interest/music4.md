@@ -116,7 +116,7 @@ $("h1").hide();
             <p class="post">20161224 - 聖誕快閃</p>
             <iframe width="400" height="300" src="https://www.youtube.com/embed/3cckpQPQloU" frameborder="0" allowfullscreen></iframe>
             <div class="dcontent">
-               平安夜的那一天，我們和銘傳口琴社一起吹口琴迎接聖誕節的到來!<br>
+               平安夜的那一天，我們和銘傳銘心口琴社一起吹口琴迎接聖誕節的到來!<br>
                .<br>
                大二上學期因為課程要求，非得參加程式比賽，<br>
                所以這次活動就沒有跟著吹了。<br>
