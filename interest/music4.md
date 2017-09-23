@@ -112,6 +112,20 @@ $("h1").hide();
                *感覺從高中以後就沒籌辦需要玩大地、RPG的活動了，也算是值得高興的一件事吧!
             </div>
          </div>
+         <div class="music">
+            <p class="post">20161224 - 聖誕快閃</p>
+<iframe width="400" height="300" src="https://www.youtube.com/embed/3cckpQPQloU" frameborder="0" allowfullscreen></iframe>
+            <div class="dcontent">
+               平安夜的那一天，我們和銘傳口琴社一起吹口琴迎接聖誕節的到來!<br>
+               .<br>
+               大二上學期因為課程要求，非得參加程式比賽，<br>
+               所以這次活動就沒有跟著吹了。<br>
+               而且Chord要背譜，我實在背不起來，要記拍子和和弦太難記了...<br>
+               不過還能在現場幫忙一邊拍照一邊欣賞曲子，<br>
+               心裡也跟著暖了起來，<br>
+               相信圍觀的民眾也能感受到這其中的氛圍是很溫暖的:D
+            </div>
+         </div>
          <div class="page">
          page <a href="https://lily0714.github.io/interest/music">&nbsp; 1&nbsp; </a> | <a href="https://lily0714.github.io/interest/music2">&nbsp; 2&nbsp; </a> | <a href="https://lily0714.github.io/interest/music3">&nbsp; 3&nbsp; </a> | &nbsp; 4&nbsp; 
          </div>
