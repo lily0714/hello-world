@@ -14,7 +14,7 @@ $(".categoryhide").click(function(){
 $("#lily0714-github-io").hide();
 });
 $("#checkprivate").attr("checked",'');
-$(function(showconment){
+$(function showconment(){
             var $show = $('#showcon');
             $.get("https://script.google.com/macros/s/AKfycbxrFeNhRqzjgSPRqYXBYl12muN71Y3OfZEubLOs81rgwPxaoHs/exec", {
                             "row": 2,
@@ -93,7 +93,7 @@ left: 10px;
       </div>
       <div id="CONTENT">
          <div id="showcon">
-            <script>showconment()</script>
+            <script>showconment();</script>
          </div>
          <div class="leave">
             <p class="post">留言板</p><div id="alllea" class="dcontent">
