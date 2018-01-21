@@ -87,8 +87,8 @@ left: 10px;
                       },function(data){
                           var d = data.split(',');  //把傳出來的字串分割成陣列
                           var arr = [];  
-                          for(var i=0; i<Sheet.getLastRow(); i++){
-                            arr[i] = d.splice(0, lastcol); 
+                          for(var i=0; i<9; i++){
+                            arr[i] = d.splice(0, 4); 
                             $show.append(arr[i]+'<br/>');
                           }
                         });
