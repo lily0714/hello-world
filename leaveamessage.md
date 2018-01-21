@@ -89,7 +89,8 @@ left: 10px;
                           var d = data.split(',');  //把傳出來的字串分割成陣列
                           var arr = [];  
                           for(var i=0; i<9; i++){
-                            document.write("<h1>"+arr[i] = d.splice(0, 4)+"</h1>"); 
+                            arr[i] = d.splice(0, 4);
+                            document.write("<h1>"+arr[i]+"</h1>"); 
                             $show.append(arr[i]+'<br/>');
                           }
                         });
