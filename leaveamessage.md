@@ -93,7 +93,7 @@ left: 10px;
       </div>
       <div id="CONTENT">
          <div id="showcon">
-            showconment();
+            <script>showconment();</script>
          </div>
          <div class="leave">
             <p class="post">留言板</p><div id="alllea" class="dcontent">
