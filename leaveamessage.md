@@ -84,7 +84,7 @@ left: 10px;
             $.get("https://script.google.com/macros/s/AKfycbxrFeNhRqzjgSPRqYXBYl12muN71Y3OfZEubLOs81rgwPxaoHs/exec", {
                             "row": 2,
                             "col": 1
-                      },fuction(data){
+                      },function(data){
                           var d = data.split(',');  //把傳出來的字串分割成陣列
                           var arr = [];  
                           for(var i=0; i<lastrow; i++){
