@@ -79,11 +79,17 @@ left: 10px;
       <div id="CONTENT">
          <div id="showcon">
          <script>
-           $.get("https://script.google.com/macros/s/AKfycbxrFeNhRqzjgSPRqYXBYl12muN71Y3OfZEubLOs81rgwPxaoHs/exec", {
+           $(function(){
+            var $show = $('#showcon');
+            $.get("https://script.google.com/macros/s/AKfycbxrFeNhRqzjgSPRqYXBYl12muN71Y3OfZEubLOs81rgwPxaoHs/exec", {
                             "row": 2,
                             "col": 1
                       },fuction(data){
-                           Logger.log(data);
+                          var d = data.split(',');  //把傳出來的字串分割成陣列
+                          var arr = [];  
+                          for(var i=0; i<lastrow; i++){
+                          arr[i] = d.splice(0, lastcol); 
+                          $show.append(arr[i]+'<br/>');
                         });
          </script>
          </div>
