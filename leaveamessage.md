@@ -14,21 +14,7 @@ $(".categoryhide").click(function(){
 $("#lily0714-github-io").hide();
 });
 $("#checkprivate").attr("checked",'');
-function showconment(){
-            var $show = $('#showcon');
-            $.get("https://script.google.com/macros/s/AKfycbxrFeNhRqzjgSPRqYXBYl12muN71Y3OfZEubLOs81rgwPxaoHs/exec", {
-                            "row": 2,
-                            "col": 1
-                      },function(data){
-                          var d = data.split(',');  //把傳出來的字串分割成陣列
-                          var arr = [];  
-                          for(var i=0; i<9; i++){
-                            document.write("<h1></h1>"arr[i] = d.splice(0, 4); 
-                            $show.append(arr[i]+'<br/>');
-                          }
-                        });
-              }
-         </script>
+
 </script>
  <link href="insidepage.css" rel="stylesheet" type="text/css" media="all"> 
 <style>
@@ -93,7 +79,23 @@ left: 10px;
       </div>
       <div id="CONTENT">
          <div id="showcon">
-            <script>showconment();</script>
+            <script>
+               function showconment(){
+            var $show = $('#showcon');
+            $.get("https://script.google.com/macros/s/AKfycbxrFeNhRqzjgSPRqYXBYl12muN71Y3OfZEubLOs81rgwPxaoHs/exec", {
+                            "row": 2,
+                            "col": 1
+                      },function(data){
+                          var d = data.split(',');  //把傳出來的字串分割成陣列
+                          var arr = [];  
+                          for(var i=0; i<9; i++){
+                            document.write("<h1>"+arr[i] = d.splice(0, 4)+</h1>); 
+                            $show.append(arr[i]+'<br/>');
+                          }
+                        });
+             }
+               showconment();
+             </script>
          </div>
          <div class="leave">
             <p class="post">留言板</p><div id="alllea" class="dcontent">
