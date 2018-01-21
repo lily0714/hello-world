@@ -76,20 +76,8 @@ $("h1").hide();
 });
 var ymdw = new Date();
 var y = ymdw.getFullYear() , m = ymdw.getMonth()+1 , d = ymdw.getDate() , w = ymdw.getDay();
-if (w === 0)
-msg1="星期日";
-else if (w === 1)
-msg1="星期一"; 
-else if (w === 2)
-msg1="星期二"; 
-else if (w === 3)
-msg1="星期三"; 
-else if (w === 4)
-msg1="星期四"; 
-else if (w === 5)
-msg1="星期五"; 
-else if (w === 6)
-msg1="星期六"; 
+var weekday=["星期日","星期一","星期二","星期三","星期四","星期五","星期六"];
+msg1=weekday[w];
 </script>
 <style> 
 .infortitle{ 
