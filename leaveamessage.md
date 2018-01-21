@@ -14,7 +14,7 @@ $(".categoryhide").click(function(){
 $("#lily0714-github-io").hide();
 });
 $("#checkprivate").attr("checked",'');
-$(function showconment(){
+function showconment(){
             var $show = $('#showcon');
             $.get("https://script.google.com/macros/s/AKfycbxrFeNhRqzjgSPRqYXBYl12muN71Y3OfZEubLOs81rgwPxaoHs/exec", {
                             "row": 2,
@@ -27,7 +27,7 @@ $(function showconment(){
                             $show.append(arr[i]+'<br/>');
                           }
                         });
-              });
+              }
          </script>
 </script>
  <link href="insidepage.css" rel="stylesheet" type="text/css" media="all"> 
