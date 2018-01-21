@@ -79,13 +79,12 @@ left: 10px;
       <div id="CONTENT">
          <div id="showcon">
          <script>
-            function show(){$.get("https://script.google.com/macros/s/AKfycbxrFeNhRqzjgSPRqYXBYl12muN71Y3OfZEubLOs81rgwPxaoHs/exec", {
+           $.get("https://script.google.com/macros/s/AKfycbxrFeNhRqzjgSPRqYXBYl12muN71Y3OfZEubLOs81rgwPxaoHs/exec", {
                             "row": 2,
                             "col": 1
                       },fuction(data){
                            Logger.log(data);
                         });
-            }
          </script>
          </div>
          <div class="leave">
