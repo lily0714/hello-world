@@ -90,7 +90,6 @@ left: 10px;
                           var arr = [];  
                           for(var i=0; i<9; i++){
                             arr[i] = d.splice(0, 4);
-                            document.write("<h1>"+arr[i]+"</h1>"); 
                             $show.append(arr[i]+'<br/>');
                           }
                         });
