@@ -87,7 +87,6 @@ left: 10px;
                         });
             }
          </script>
-            <textarea class="leavecon" id="leacon" type="text" value="show()" style="width: 300px;height: 150px; resize: none;"></textarea>
          </div>
          <div class="leave">
             <p class="post">留言板</p><div id="alllea" class="dcontent">
