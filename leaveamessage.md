@@ -82,7 +82,9 @@ left: 10px;
             function show(){$.get("https://script.google.com/macros/s/AKfycbxrFeNhRqzjgSPRqYXBYl12muN71Y3OfZEubLOs81rgwPxaoHs/exec", {
                             "row": 2,
                             "col": 1
-                      });
+                      },fuction(data){
+                           Logger.log(data);
+                        });
             }
          </script>
             <textarea class="leavecon" id="leacon" type="text" value="show()" style="width: 300px;height: 150px; resize: none;"></textarea>
