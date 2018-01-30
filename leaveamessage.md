@@ -97,6 +97,7 @@ left: 10px;
       <div id="CONTENT">
          <div id="showcon">
             <script>
+            showconment();
             document.getElementById("showcon").innerHTML = arrdate[0]+"<br>";
             </script>
          </div>
