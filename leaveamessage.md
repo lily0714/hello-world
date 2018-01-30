@@ -89,8 +89,8 @@ left: 10px;
                           var d = data.split(',');  //把傳出來的字串分割成陣列
                           var arrdate = [];  
                           for(var i=0; i<9; i++){
-                            arr[i] = d.splice(0, 0);
-                            $show.append(arr[i]+'<br/>');
+                            arrdate[i] = d.splice(0, 0);
+                            $show.append(arrdate[i]+'<br/>');
                           }
                         });
              }
