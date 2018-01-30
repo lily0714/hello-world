@@ -97,7 +97,7 @@ left: 10px;
       <div id="CONTENT">
          <div id="showcon">
             <script>
-            $show.append(arrdate[0]+'<br/>');
+            $show.show(arrdate[0]+'<br/>');
             </script>
          </div>
          <div class="leave">
