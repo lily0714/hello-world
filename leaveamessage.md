@@ -28,7 +28,7 @@ $("#checkprivate").attr("checked",'');
                             arrname[i] = d.splice(0, 1);
                             arrxlscontent[i] = d.splice(0, 1);
                             arrshowchk[i] = d.splice(0, 1);
-                         //   $show.append(arrdate[i]+'<br/>');
+                            $show.append(arrdate[i]+'<br/>');
                           }
                         });
         //     }
@@ -97,7 +97,7 @@ left: 10px;
       <div id="CONTENT">
          <div id="showcon">
             <script>
-            document.getElementById("showcon").innerHTML = arrdate[0]+"<br/>";
+            document.getElementById("showcon").innerHTML = arrdate[0]+"<br>";
             </script>
          </div>
          <div class="leave">
