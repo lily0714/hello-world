@@ -87,9 +87,9 @@ left: 10px;
                             "col": 1
                       },function(data){
                           var d = data.split(',');  //把傳出來的字串分割成陣列
-                          var arr = [];  
+                          var arrdate = [];  
                           for(var i=0; i<9; i++){
-                            arr[i] = d.splice(0, 4);
+                            arr[i] = d.splice(0, 0);
                             $show.append(arr[i]+'<br/>');
                           }
                         });
