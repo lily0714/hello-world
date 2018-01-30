@@ -29,7 +29,7 @@ var arrdate = [],arrname=[],arrxlscontent=[],arrshowchk=[];
                             arrname[i] = d.splice(0, 1);
                             arrxlscontent[i] = d.splice(0, 1);
                             arrshowchk[i] = d.splice(0, 1);
-                            $show.append(arrdate[i]+'<br/>');
+                          //  $show.append(arrdate[i]+'<br/>');
                           }
                         });
             //}
@@ -98,12 +98,7 @@ left: 10px;
           </div>
       </div>
       <div id="CONTENT">
-         <div id="showcon">
-            <script>
-            
-            document.getElementById("showcon").innerHTML = "hi<br>"+arrdate[0]+"hi<br>";
-            </script>
-         </div>
+         
          <div class="leave">
             <p class="post">留言板</p><div id="alllea" class="dcontent">
 <script>
@@ -133,7 +128,13 @@ left: 10px;
 <input id="checkprivate" type="checkbox">設為悄悄話
             </div>
          </div>
-      </div>   
+      </div>
+      <div id="showcon">
+            <script>
+            
+            document.getElementById("showcon").innerHTML = "hi<br>"+arrdate[0]+"hi<br>";
+            </script>
+         </div>
    </div>
    <div id="FOOTER"> 
       <img src="http://lily0714.github.io/底.png" width="980" height="60">
