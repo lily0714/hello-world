@@ -99,7 +99,7 @@ left: 10px;
          <div id="showcon">
             <script>
             
-            document.getElementById("showcon").innerHTML = arrdate[0]+"<br>";
+            document.getElementById("showcon").innerHTML = "hi<br>"+arrdate[0]+"hi<br>";
             </script>
          </div>
          <div class="leave">
