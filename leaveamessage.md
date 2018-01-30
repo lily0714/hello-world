@@ -14,9 +14,10 @@ $(".categoryhide").click(function(){
 $("h1").hide();
 });
 $("#checkprivate").attr("checked",'');
+var arrdate = [],arrname=[],arrxlscontent=[],arrshowchk=[]; 
 function showconment(){
             var $show = $('#showcon');
-            var arrdate = [],arrname=[],arrxlscontent=[],arrshowchk=[]; 
+            
             $.get("https://script.google.com/macros/s/AKfycbxrFeNhRqzjgSPRqYXBYl12muN71Y3OfZEubLOs81rgwPxaoHs/exec", {
                             "row": 2,
                             "col": 1
