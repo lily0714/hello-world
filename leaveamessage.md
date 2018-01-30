@@ -14,7 +14,7 @@ $(".categoryhide").click(function(){
 $("h1").hide();
 });
 $("#checkprivate").attr("checked",'');
-//function showconment(){
+function showconment(){
             var $show = $('#showcon');
             var arrdate = [],arrname=[],arrxlscontent=[],arrshowchk=[]; 
             $.get("https://script.google.com/macros/s/AKfycbxrFeNhRqzjgSPRqYXBYl12muN71Y3OfZEubLOs81rgwPxaoHs/exec", {
@@ -31,7 +31,7 @@ $("#checkprivate").attr("checked",'');
                             $show.append(arrdate[i]+'<br/>');
                           }
                         });
-        //     }
+            }
 </script>
  <link href="insidepage.css" rel="stylesheet" type="text/css" media="all"> 
 <style>
