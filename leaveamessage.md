@@ -128,13 +128,13 @@ left: 10px;
 <input id="checkprivate" type="checkbox">設為悄悄話
             </div>
          </div>
-      </div>
       <div id="showcon">
             <script>
             
             document.getElementById("showcon").innerHTML = "hi<br>"+arrdate[0]+"hi<br>";
             </script>
-         </div>
+      </div>
+      </div>
    </div>
    <div id="FOOTER"> 
       <img src="http://lily0714.github.io/底.png" width="980" height="60">
