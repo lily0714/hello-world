@@ -15,7 +15,7 @@ $("h1").hide();
 });
 $("#checkprivate").attr("checked",'');
 var arrdate = [],arrname=[],arrxlscontent=[],arrshowchk=[]; 
-function showconment(){
+//function showconment(){
             var $show = $('#showcon');
             
             $.get("https://script.google.com/macros/s/AKfycbxrFeNhRqzjgSPRqYXBYl12muN71Y3OfZEubLOs81rgwPxaoHs/exec", {
@@ -32,8 +32,8 @@ function showconment(){
                             $show.append(arrdate[i]+'<br/>');
                           }
                         });
-            }
-            showconment();
+            //}
+           // showconment();
 </script>
  <link href="insidepage.css" rel="stylesheet" type="text/css" media="all"> 
 <style>
