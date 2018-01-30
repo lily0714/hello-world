@@ -29,7 +29,7 @@ var arrdate = [],arrname=[],arrxlscontent=[],arrshowchk=[];
                             arrname[i] = d.splice(0, 1);
                             arrxlscontent[i] = d.splice(0, 1);
                             arrshowchk[i] = d.splice(0, 1);
-                            $show.append(arrdate[i]+'<br/>');
+                            $show.append(arrdate[i]+'<br>');
                           }
                         });
             //}
@@ -38,6 +38,10 @@ var arrdate = [],arrname=[],arrxlscontent=[],arrshowchk=[];
 </script>
  <link href="insidepage.css" rel="stylesheet" type="text/css" media="all"> 
 <style>
+#showcon {
+    top: 50px;
+    position: relative;
+}
 .leavecon{
 font-size:14px;
 }
@@ -129,10 +133,6 @@ left: 10px;
             </div>
          </div>
       <div id="showcon">
-            <script>
-            
-            document.getElementById("showcon").innerHTML = "hi<br>"+arrdate[0]+"hi<br>";
-            </script>
       </div>
       </div>
    </div>
