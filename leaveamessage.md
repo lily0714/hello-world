@@ -14,7 +14,23 @@ $(".categoryhide").click(function(){
 $("h1").hide();
 });
 $("#checkprivate").attr("checked",'');
-
+//function showconment(){
+            var $show = $('#showcon');
+            $.get("https://script.google.com/macros/s/AKfycbxrFeNhRqzjgSPRqYXBYl12muN71Y3OfZEubLOs81rgwPxaoHs/exec", {
+                            "row": 2,
+                            "col": 1
+                      },function(data){
+                          var d = data.split(',');  //把傳出來的字串分割成陣列
+                          var arrdate = [],arrname=[],arrxlscontent=[],arrshowchk=[];  
+                          for(var i=0; i<10; i++){
+                            arrdate[i] = d.splice(0, 1);//從index 0 開始取代一個元素
+                            arrname[i] = d.splice(0, 1);
+                            arrxlscontent[i] = d.splice(0, 1);
+                            arrshowchk[i] = d.splice(0, 1);
+                            $show.append(arrdate[i]+'<br/>');
+                          }
+                        });
+        //     }
 </script>
  <link href="insidepage.css" rel="stylesheet" type="text/css" media="all"> 
 <style>
@@ -79,26 +95,7 @@ left: 10px;
       </div>
       <div id="CONTENT">
          <div id="showcon">
-            <script>
-               function showconment(){
-            var $show = $('#showcon');
-            $.get("https://script.google.com/macros/s/AKfycbxrFeNhRqzjgSPRqYXBYl12muN71Y3OfZEubLOs81rgwPxaoHs/exec", {
-                            "row": 2,
-                            "col": 1
-                      },function(data){
-                          var d = data.split(',');  //把傳出來的字串分割成陣列
-                          var arrdate = [],arrname=[],arrxlscontent=[],arrshowchk=[];  
-                          for(var i=0; i<9; i++){
-                            arrdate[i] = d.splice(0, 1);
-                            arrname[i] = d.splice(0, 1);
-                            arrxlscontent[i] = d.splice(0, 1);
-                            arrshowchk[i] = d.splice(0, 1);
-                            $show.append(arrdate[i]+'<br/>');
-                          }
-                        });
-             }
-               showconment();
-             </script>
+            
          </div>
          <div class="leave">
             <p class="post">留言板</p><div id="alllea" class="dcontent">
