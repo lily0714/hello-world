@@ -12,7 +12,7 @@ $(".categoryhide").click(function(){
    $(".categoryho").show();
 });
 $("h1").hide();
-});
+
 $("#checkprivate").attr("checked",'');
 var arrdate = [],arrname=[],arrxlscontent=[],arrshowchk=[]; 
 //function showconment(){
@@ -34,6 +34,7 @@ var arrdate = [],arrname=[],arrxlscontent=[],arrshowchk=[];
                         });
             //}
            // showconment();
+           });
 </script>
  <link href="insidepage.css" rel="stylesheet" type="text/css" media="all"> 
 <style>
