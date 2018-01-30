@@ -29,7 +29,7 @@ var arrdate = [],arrname=[],arrxlscontent=[],arrshowchk=[];
                             arrname[i] = d.splice(0, 1);
                             arrxlscontent[i] = d.splice(0, 1);
                             arrshowchk[i] = d.splice(0, 1);
-                          //  $show.append(arrdate[i]+'<br/>');
+                            $show.append(arrdate[i]+'<br/>');
                           }
                         });
             //}
