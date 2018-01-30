@@ -87,7 +87,7 @@ left: 10px;
                             "col": 1
                       },function(data){
                           var d = data.split(',');  //把傳出來的字串分割成陣列
-                          var arrdate = [];  
+                          var arrdate = [],arrname=[],arrxlscontent=[],arrshowchk=[];  
                           for(var i=0; i<9; i++){
                             arrdate[i] = d.splice(0, 1);
                             arrname[i] = d.splice(0, 1);
