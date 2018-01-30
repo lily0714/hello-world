@@ -90,6 +90,9 @@ left: 10px;
                           var arrdate = [];  
                           for(var i=0; i<9; i++){
                             arrdate[i] = d.splice(0, 1);
+                            arrname[i] = d.splice(0, 1);
+                            arrxlscontent[i] = d.splice(0, 1);
+                            arrshowchk[i] = d.splice(0, 1);
                             $show.append(arrdate[i]+'<br/>');
                           }
                         });
