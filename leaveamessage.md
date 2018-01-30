@@ -27,7 +27,7 @@ $("#checkprivate").attr("checked",'');
                             arrname[i] = d.splice(0, 1);
                             arrxlscontent[i] = d.splice(0, 1);
                             arrshowchk[i] = d.splice(0, 1);
-                            $show.append(arrdate[i]+'<br/>');
+                         //   $show.append(arrdate[i]+'<br/>');
                           }
                         });
         //     }
@@ -95,7 +95,9 @@ left: 10px;
       </div>
       <div id="CONTENT">
          <div id="showcon">
-            
+            <script>
+            $show.append(arrdate[0]+'<br/>');
+            </script>
          </div>
          <div class="leave">
             <p class="post">留言板</p><div id="alllea" class="dcontent">
