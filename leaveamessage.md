@@ -23,13 +23,15 @@ var arrdate = [],arrname=[],arrxlscontent=[],arrshowchk=[];
                             "col": 1
                       },function(data){
                           var d = data.split(',');  //把傳出來的字串分割成陣列
-                           
-                          for(var i=0; i<10; i++){
+                          var i=0;
+                         // for(var i=0; i<10; i++){
+                         while(true){
                             arrdate[i] = d.splice(0, 1);//從index 0 開始取代一個元素
                             arrname[i] = d.splice(0, 1);
                             arrxlscontent[i] = d.splice(0, 1);
                             arrshowchk[i] = d.splice(0, 1);
                             $show.append(arrdate[i]+'<br>');
+                            i++;
                           }
                         });
             //}
