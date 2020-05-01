@@ -45,11 +45,10 @@ $("h1").hide();
           <img class="ipic" src="http://lily0714.github.io/20170628.jpg" width="150" height="210">
           <ul><br>
           <p class="icontent">是個喜歡音樂、自我矛盾很嚴重的孩子。</p>
-          <p class="icontent">姓名:</p>
+          <p class="icontent">姓名:陸映螢</p>
           <p class="icontent">學校:輔仁大學</p>
           <p class="icontent">學系:資訊工程學系</p>
           <p class="icontent">生日:0 7 月 1 4 日</p>
-          <a href="https://github.com/lily0714" target="_blank"><img class="icon" src="https://lily0714.github.io/GitHub-Mark-32px.png" alt="lily0714"></a>
           </ul>
           </div>
       </div>
