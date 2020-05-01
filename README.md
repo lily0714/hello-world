@@ -455,7 +455,7 @@ color: orange;
       <div id="LSIDE">
           <div id="infor">
           <p class="infortitle">個人資料</p>
-          <img class="ipic" src="http://lily0714.github.io/20170628.jpg" width="150" height="210">
+          <img class="ipic" src="http://lily0714.github.io/image/20170628.jpg" width="150" height="210">
           <ul><br>
           <p class="icontent">是個喜歡音樂、自我矛盾很嚴重的孩子。</p>
           <p class="icontent">姓名:陸映螢</p>
@@ -585,6 +585,6 @@ color: orange;
        <div id="get-day"></div><script>document.getElementById("get-day").innerHTML = "今天是<br>"+ y+"年"+m+"月"+d+"日"+msg1+":D";</script>
    </div>
    <div id="FOOTER"> 
-      <img src="http://lily0714.github.io/底.png" width="980" height="60">
+      <img src="http://lily0714.github.io/image/底.png" width="980" height="60">
    </div>
    </body>
