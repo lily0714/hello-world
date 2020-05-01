@@ -35,14 +35,14 @@ $("h1").hide();
    </ul>
    </div>
    <div id="bantitle">
-   <img id="banner" src="http://lily0714.github.io/20170424改.jpg" width="700" height="400">
+   <img id="banner" src="http://lily0714.github.io/image/20170424改.jpg" width="700" height="400">
   
    </div>
    <div id="WRAPPER">
       <div id="LSIDE">
           <div id="infor">
           <p class="infortitle">個人資料</p>
-          <img class="ipic" src="http://lily0714.github.io/20170628.jpg" width="150" height="210">
+          <img class="ipic" src="http://lily0714.github.io/image/20170628.jpg" width="150" height="210">
           <ul><br>
           <p class="icontent">是個喜歡音樂、自我矛盾很嚴重的孩子。</p>
           <p class="icontent">姓名:陸映螢</p>
@@ -55,7 +55,7 @@ $("h1").hide();
       <div id="CONTENT">
          <div class="music">
             <p class="post">演奏樂器</p>
-            <a href="http://lily0714.github.io/music.png" target="_blank"><img class="post1" src="http://lily0714.github.io/music.png" ></a>
+            <a href="http://lily0714.github.io/image/music.png" target="_blank"><img class="post1" src="http://lily0714.github.io/image/music.png" ></a>
             <div class="dcontent">
                高中的時候，曾經想學吉他。<br>
                但因為手太小按不好和弦，當時家裡又有烏克麗麗的玩具，<br>
@@ -152,6 +152,6 @@ $("h1").hide();
       </div>
    </div>
    <div id="FOOTER"> 
-      <img src="http://lily0714.github.io/底.png" width="980" height="60">
+      <img src="http://lily0714.github.io/image/底.png" width="980" height="60">
    </div>
    </body>
