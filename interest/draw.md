@@ -35,14 +35,14 @@ $("h1").hide();
    </ul>
    </div>
    <div id="bantitle">
-   <img id="banner" src="http://lily0714.github.io/20170424改.jpg" width="700" height="400">
+   <img id="banner" src="http://lily0714.github.io/image/20170424改.jpg" width="700" height="400">
   
    </div>
    <div id="WRAPPER">
       <div id="LSIDE">
           <div id="infor">
           <p class="infortitle">個人資料</p>
-          <img class="ipic" src="http://lily0714.github.io/20170628.jpg" width="150" height="210">
+          <img class="ipic" src="http://lily0714.github.io/image/20170628.jpg" width="150" height="210">
           <ul><br>
           <p class="icontent">是個喜歡音樂、自我矛盾很嚴重的孩子。</p>
           <p class="icontent">姓名:陸映螢</p>
@@ -132,7 +132,7 @@ $("h1").hide();
       </div>   
    </div>
    <div id="FOOTER"> 
-      <img src="http://lily0714.github.io/底.png" width="980" height="60">
+      <img src="http://lily0714.github.io/image/底.png" width="980" height="60">
    </div>
    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 <script src="js/https://lily0714.github.io/insidepage.js"></script>
