@@ -448,7 +448,7 @@ color: orange;
    </ul>
    </div>
    <div id="bantitle">
-   <img id="banner" src="http://lily0714.github.io/20170424改.jpg" width="700" height="400">
+   <img id="banner" src="http://lily0714.github.io/image/20170424改.jpg" width="700" height="400">
   
    </div>
    <div id="WRAPPER">
