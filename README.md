@@ -537,7 +537,7 @@ color: orange;
          </div>
           <div class="music">
             <p class="post">演奏樂器</p>
-            <a href="http://lily0714.github.io/music.png" target="_blank"><img class="post1" src="http://lily0714.github.io/music.png" ></a>
+            <a href="http://lily0714.github.io/image/music.png" target="_blank"><img class="post1" src="http://lily0714.github.io/image/music.png" ></a>
             <div class="dcontent">
                高中的時候，曾經想學吉他。<br>
                但因為手太小按不好和弦，當時家裡又有烏克麗麗的玩具，於是就開始學習烏克的和弦及刷法。<br>
