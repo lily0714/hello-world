@@ -131,6 +131,6 @@ $("h1").hide();
       </div>   
    </div>
    <div id="FOOTER"> 
-      <img src="http://lily0714.github.io/image/底.jpg" width="980" height="60">
+      <img src="http://lily0714.github.io/image/底.png" width="980" height="60">
    </div>
    </body>
