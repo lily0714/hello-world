@@ -561,7 +561,7 @@ color: orange;
                       var date = new Date();
                       var now = date.getFullYear()+" - "+(date.getMonth()+1)+" - "+date.getDate()+" "+
                        date.getHours() + ':' + date.getMinutes() + ':' + date.getSeconds();
-                       $.get("https://script.google.com/macros/s/AKfycbzKTZf5r656DL1NC-qNN9nVGXcnRXw7hTZiksjgg5ZrpmZk4SA/exec", {
+                       $.get("https://script.google.com/macros/s/AKfycbzqDxRA3NAP7zoBCxD29e5i8B7CZm_NeeKLcndciy5q2v9k1lE/exec", {
                             "time": now,
                             "name": document.getElementById("yourname").value,
                             "leavecon": document.getElementById("leacon").value,
