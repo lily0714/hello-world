@@ -448,14 +448,14 @@ color: orange;
    </ul>
    </div>
    <div id="bantitle">
-   <img id="banner" src="http://lily0714.github.io/image/20170424改.jpg" width="700" height="400">
+   <img id="banner" src="https://lily0714.github.io/image/20170424改.jpg" width="700" height="400">
   
    </div>
    <div id="WRAPPER">
       <div id="LSIDE">
           <div id="infor">
           <p class="infortitle">個人資料</p>
-          <img class="ipic" src="http://lily0714.github.io/image/20170628.jpg" width="150" height="210">
+          <img class="ipic" src="https://lily0714.github.io/image/20170628.jpg" width="150" height="210">
           <ul><br>
           <p class="icontent">是個喜歡音樂、自我矛盾很嚴重的孩子。</p>
           <p class="icontent">姓名:陸映螢</p>
@@ -509,7 +509,7 @@ color: orange;
          <div class="draw">
             <br>
             <p class="post">畫畫</p>
-            <a href="http://lily0714.github.io/畫畫1.png" target="_blank"><img class="post1" src="http://lily0714.github.io/畫畫1.png" ></a>
+            <a href="https://lily0714.github.io/畫畫1.png" target="_blank"><img class="post1" src="https://lily0714.github.io/畫畫1.png" ></a>
             <div class="dcontent">
             　<br>
                這大概是從國中就開始畫的，我都叫他小饅頭人。<br>
@@ -523,7 +523,7 @@ color: orange;
          </div>
          <div class="diy">
             <p class="post">手做</p>
-            <a href="http://lily0714.github.io/手做一.png" target="_blank"><img class="post1" src="http://lily0714.github.io/手做一.png" ></a>
+            <a href="https://lily0714.github.io/手做一.png" target="_blank"><img class="post1" src="https://lily0714.github.io/手做一.png" ></a>
             <div class="dcontent">
                這是最近幾天做的桌曆。<br>
                原本是只買了計畫紙，突如其來的靈感讓我想把它變成桌曆。<br>
@@ -537,7 +537,7 @@ color: orange;
          </div>
           <div class="music">
             <p class="post">演奏樂器</p>
-            <a href="http://lily0714.github.io/image/music.png" target="_blank"><img class="post1" src="http://lily0714.github.io/image/music.png" ></a>
+            <a href="https://lily0714.github.io/image/music.png" target="_blank"><img class="post1" src="https://lily0714.github.io/image/music.png" ></a>
             <div class="dcontent">
                高中的時候，曾經想學吉他。<br>
                但因為手太小按不好和弦，當時家裡又有烏克麗麗的玩具，於是就開始學習烏克的和弦及刷法。<br>
@@ -567,7 +567,7 @@ color: orange;
                             "leavecon": document.getElementById("leacon").value,
                             "checkprivate": chk
                       },
-                        function (data) {
+                        function(data) {
                             alert("Thank you for your message :D");
                         });
                         setTimeout(function(){window.location.reload();},1000);
@@ -585,6 +585,6 @@ color: orange;
        <div id="get-day"></div><script>document.getElementById("get-day").innerHTML = "今天是<br>"+ y+"年"+m+"月"+d+"日"+msg1+":D";</script>
    </div>
    <div id="FOOTER"> 
-      <img src="http://lily0714.github.io/image/底.png" width="980" height="60">
+      <img src="https://lily0714.github.io/image/底.png" width="980" height="60">
    </div>
    </body>
