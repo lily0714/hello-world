@@ -569,8 +569,9 @@ color: orange;
                       },
                         function(data) {
                             alert("Thank you for your message :D");
+                            setTimeout(function(){window.location.reload();},1000);
                         });
-                        setTimeout(function(){window.location.reload();},1000);
+                        
                    }
 </script>
 <p style="color:#990000; font-size:14px">*目前只能留言，也只有版主看的到留言內容。<br>
