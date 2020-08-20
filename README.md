@@ -1,4 +1,4 @@
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 <script type="text/javascript"> 
 $(document).ready(function() { 
 $("#btodreamstory").css({cursor:"pointer"}).mouseenter(function(){
@@ -570,7 +570,7 @@ color: orange;
                         function(data) {
                             alert("Thank you for your message :D");
                         });
-                        setTimeout(function(){window.location.reload();},1000);
+                        //setTimeout(function(){window.location.reload();},1000);
                    }
 </script>
 <p style="color:#990000; font-size:14px">*目前只能留言，也只有版主看的到留言內容。<br>
