@@ -569,7 +569,7 @@ color: orange;
                       },
                         function(data) {
                             alert("Thank you for your message :D");
-                            setTimeout(function(){window.location.reload();},500);
+                            setTimeout(function(){window.location.reload();},200);
                         });
                         
                    }
